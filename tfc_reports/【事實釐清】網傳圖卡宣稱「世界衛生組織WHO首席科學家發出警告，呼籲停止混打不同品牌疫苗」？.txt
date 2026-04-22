@@ -1,0 +1,83 @@
+標題：【事實釐清】網傳圖卡宣稱「世界衛生組織WHO首席科學家發出警告，呼籲停止混打不同品牌疫苗」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-6079/
+--------------------------------------------------
+
+【報告將隨時更新 2021/7/30 版】
+
+一、網傳圖卡擷取自《路透社》報導，《路透社》修改導言，並引述世衛釐清，針對疫苗混打議題，WHO建議，各國公共衛生主管機關可基於數據做決定，但不建議民眾自行混打疫苗。
+
+二、WHO首席科學家蘇米亞·斯瓦米納坦（Soumya Swaminathan）在WHO的線上會議和推文指出，個人不應自行決定混打疫苗，公共衛生主管機關可根據數據決定是否混打疫苗，研究數據尚待出爐。
+
+【查核聲明】資訊若有更新，本報告亦會同步更新。
+
+背景
+
+社群平台、通訊軟體流傳一張圖卡，指稱：
+
+「重磅突發！剛剛，世界衛生組織WHO首席科學家發出警告，呼籲停止混打不同品牌疫苗。
+
+今天（7月12日），世衛首席科學家Soumya Swaminathan，在世衛召開的線上簡報會中，明確建議人們不要混合注射來自不同製造商的新冠疫苗，並指出混打疫苗是一種“危險的趨勢”，因為有關混打對人體健康影響的數據很少。」
+
+查核中心檢索，網傳圖卡是擷取自一個微信的網頁。
+
+圖1：社群平台流傳訊息擷圖。
+
+圖2：網傳圖卡擷取自一個微信網頁
+
+查核
+
+爭議點一、傳言引述的報導為何？
+
+查核中心檢索，傳言引述的《路透社》報導，為7月12日刊登的〈WHO警告個人不要混合和配對COVID-19疫苗〉。
+
+查核中心用Wayback Machine檢視《路透社》此報導，報導在7月12日到7月18日有多次修改。
+
+其中，7月12日和13日版本的導言是，WHO首席科學家建議，民眾混合和配對不同廠牌的新冠疫苗是「危險趨勢」，目前混打疫苗對健康的影響資料有限。
+
+7月14日、7月18日修改版本，報導導言修改為，WHO首席科學家建議，個人不要混合或配對不同品牌的疫苗，此決定應該留給公共衛生主管機關。
+
+查核中心進一步檢索，《路透社》官方推特7月13日對此報導的推文，原始標題為「WHO警告不要混合和配對疫苗」，但在7月14日《路透社》在推文下釐清：「WHO已澄清，應該由公共衛生主管機關，而不是個人，依據數據來決定如何混打和配對COVID-19疫苗。我們正在刪除其他缺乏脈絡的推文。」
+
+圖3：路透社已推文澄清世衛組織建議衛生主管機關應該基於數據在混打和搭配COVID-19疫苗上做決定。／擷取自《路透社》推特
+
+綜合以上，網傳圖卡截圖《路透社》於7月12日和13日版本報導，但此報導於7月14日之後，已有修正導言重點。
+
+爭議點二、傳言宣稱「世衛首席科學家Soumya Swaminathan，在世衛召開的線上簡報會中，明確建議人們不要混合注射來自不同製造商的新冠疫苗，並指出混打疫苗是一種“危險的趨勢”，因為有關混打對人體健康影響的數據很少」，是否屬實？
+
+（一）查核中心檢索，根據WHO官方推特發布的7月12日（台灣時間）線上會議直播，有記者提問WHO對是否追加接種疫苗的建議，WHO首席科學家蘇米亞·斯瓦米納坦（Soumya Swaminathan）在會議中指出：
+
+「現在有個趨勢是，有足夠疫苗供應的國家，民眾會自願開始考慮增加一劑疫苗。有些人正在考慮混合搭配……有些人已經接種一劑，打算再接種一劑。 這是一個有點危險的趨勢，因為就混合搭配而言，民眾處於一個……無數據、無證據的區域。 關於混合、搭配的數據有限。 有研究正在進行。 我們需要等待，也許這將是一個非常好的方法。 但目前我們只有打AZ後打 輝瑞疫苗的數據。 因此，如果民眾開始決定何時以及誰應該打第二劑、第三劑或第四劑，那麼國家將會陷於混亂。」
+
+（原文：There is a tendency now for people in countries with enough availability of vaccines to, you know, voluntarily start thinking about an additional dose. There are people who are thinking about mixing and matching… from people who say they have taken one, and they are going to plan to take another one. So it＇s a little bit of a dangerous trend here where people are in a … data-free, evidence-free zone as far as a mix and match. There is limited data on mix and match. There are studies going on. We need to wait for that. Maybe it  would be a very good approach. But at the moment we only have data on AZ vaccine, Oxford-AstraZeneca followed by Pfizer. So it will be a chaotic situation in countries if citizens start, you know, deciding when and who should be taking a second, or a third or a fourth dose.）
+
+斯瓦米納坦指出：「沒有科學證據建議絕對需要追加疫苗。 我們在一些國家看到感染增加，但住院或死亡人數沒有顯著增加。 一、二年後也許需要追加疫苗。 但打疫苗後經過6個月。似乎沒有任何跡象。我們將繼續與世界各地的公共衛生主管機關合作，持續追蹤數據。我們會在我們認為需要時對追加疫苗提出建議。它必須以科學和數據為基礎，而不只是個別公司宣布他們的疫苗現在應該要追加劑量。」
+
+（原文：There is no scientific evidence to suggest that boosters are definitely needed. We have seen in some countries an increase in infections but no significant increase in hospitalisation or deaths. It may well be that you need boosters after a year or 2 years. But this point, after 6 months of the primary dose. There does not seem to be any indication. We will continue to work with public health agencies around the world, who are tracking the data, following the evidence very carefully. And we will make recommendations on boosters when we think they are needed. It has to be based on science and data, not only individual companies declaring that their vaccines should now be administer as a booster dose.）
+
+因此，斯瓦米納坦在會議中指出，沒有證據顯示絕對需要追加疫苗，而目前對於混合和搭配疫苗的數據有限，民眾自行決定接種第二，甚至第三、第四劑疫苗是危險的，將使國家陷入混亂。
+
+（二）斯瓦米納坦於線上會議稍晚的7月13日（台灣時間），於她的推特帳號貼文指出：「個人不應自行決定（混打疫苗），公共衛生機構則可以基於現有數據做出決定。混合搭配不同疫苗的研究數據尚待出爐——免疫原性和安全性需要評估。」
+
+圖4：斯瓦米納坦在推特上重申，個人不應自行決定混打疫苗，公共衛生主管機關可以根據現有的數據決定是否混打疫苗。／擷取自斯瓦米納坦推特。
+
+結論
+
+【報告將隨時更新 2021/7/30版】
+
+一、網傳圖卡擷取自《路透社》報導，《路透社》修改導言，並引述世衛釐清，針對疫苗混打議題，WHO建議，各國公共衛生主管機關可基於數據做決定，但不建議民眾自行混打疫苗。
+
+二、WHO首席科學家蘇米亞·斯瓦米納坦（Soumya Swaminathan）在WHO的線上會議和推文指出，個人不應自行決定混打疫苗，公共衛生主管機關可根據數據決定是否混打疫苗，研究數據尚待出爐。
+
+【查核聲明】資訊若有更新，本報告亦會同步更新。
+
+參考資料
+
+Reuters〈WHO warns individuals against mixing and matching COVID vaccines〉
+
+Reuters World Twitter
+
+World Health Organization (WHO) Twitter
+
+Soumya Swaminathan Twitter
+
+〈首圖來源：WHO官方推特7月12日發布之線上會議擷圖〉

@@ -1,0 +1,39 @@
+標題：【錯誤】網傳影片「奧運選手跳水失敗」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-10864/
+--------------------------------------------------
+
+【報告將隨時更新 2024/8/1版】
+
+2024巴黎奧運賽事如火如荼，網路瘋傳一段影片稱是奧運選手跳水失敗，是真的嗎？
+
+網傳影片經查為菲律賓選手John Elmerson Fabriga於2015年東南亞運動會的比賽畫面，並非今年巴黎奧運或歷年奧運畫面。
+
+傳言挪用其他運動賽事畫面錯稱是奧運，因此，為「錯誤」訊息。
+
+背景
+
+2024巴黎奧運自7月26日至8月11日舉行，網路流傳一段跳水失敗影片，聲稱是奧運畫面。
+
+圖1：社群平台流傳訊息擷圖
+
+查核
+
+查核點：傳言影片是奧運畫面嗎？
+
+（一）查核中心以傳言出現的選手姓名「John Elmerson Fabriga」與菲律賓簡寫「PHI」檢索網路，找到體育媒體《Eurosport》2015年6月12日報導指出，菲律賓跳水運動員在2015年新加坡東南亞運動會（SEA Games）表現不佳，被裁判評為零分。
+
+報導引用的照片，經比對與網傳影片出現的運動員為同一人。
+
+另在YouTube搜尋，找到新加坡體育媒體《SG Sports TV》2015年6月17日發布影片，在00:36:10處起為菲律賓選手John Elmerson Fabriga跳水畫面，經比對與網傳影片相符。
+
+（二）再以選手姓名及賽事關鍵字檢索，找到東南亞運動會官網備份網站，顯示2015年東南亞運動會確有一位名為「John Elmerson Fabriga」的菲律賓跳水選手。
+
+因此，網傳影片實為2015年東南亞運動會畫面，並非這次巴黎奧運或歷年奧運畫面。
+
+（記者：吳仲安；責任編輯：陳培煌）
+
+.container {width: 80%;margin: 0 auto;.section {margin: 20px 0;padding: 20px;border: 1px solid #ccc;border-radius: 8px;background-color: #e6e7e8;}.donate-link, .bank-account {display: flex;justify-content: center;align-items: center;background-color: #e6e7e8; /* 添加背景顏色 */text-align: center;}.qrcode {width: 150px;height: 150px;}
+
+事實查核需要你的一份力量 捐款贊助我們
+
+台灣事實查核中心捐款連結(或掃QR Code) /接受捐助準則

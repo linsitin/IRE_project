@@ -1,0 +1,65 @@
+標題：【錯誤】網傳「台灣的防空系統在中國南海，擊落了中國的飛機和無人機」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-3919/
+--------------------------------------------------
+
+一、網傳影片出自電玩遊戲《ARMA》（武裝行動）的畫面，並非真實影像。
+
+二、資安專家表示，影片提供的連結為詐騙網址，請民眾切勿點選。
+
+因此，此貼文使用電玩遊戲畫面，搭配不實文字訊息，因此，為「錯誤」訊息。
+
+背景
+
+社群平台流傳影片，影片內容為地面槍火射擊戰機畫面。其貼文內容宣稱「台灣的防空系統在中國南海，擊落了中國的飛機和無人機」，並附上一個連結網址。
+
+（原文：Taiwan＇s air defense system shoots down Chinese aircraft and drones in the South China Sea…..Download App?）
+
+另有英文版本指出，是美國空軍在南海，擊落中國飛機和無人機。
+
+圖1：社群平台擷圖
+
+查核
+
+爭議點一、網傳影片出自何處？
+
+（一）查核中心諮詢J-ART FILM 傑藝映畫 導演 Jason Ling。Jason指出，這個影片畫面是遊戲畫面的素材，品質相當擬真，而且整體體驗也相當震撼，但遊戲當中的炮彈射擊時，產生的煙塵以及光點，卻有很重的不自然感。另外，是鏡頭的運鏡，一些鏡頭的平移及縮放，都不太像一般的攝影鏡頭的伸縮感。
+
+Jason認為，太滑順的鏡頭移動，反而更容易被識破為遊戲操作畫面。
+
+他表示，在動畫後製中，爆炸及煙塵與光束，是很難呈現在現實世界中真實的質感的。因此，好萊塢的科幻動作片，或英雄戰爭片的後製費用，才會那麼高，因為真實的戰爭畫面，後製其實非常耗時又耗費人力的，在遊戲中要呈現如此的精細化實屬不易。但這款遊戲確實在軍事擬真的表現上非常出色，沒有仔細觀察確實能騙過一般人眼睛。
+
+（二）查核中心以網傳影片擷圖反搜，查找到多部《ARMA》（武裝行動）遊戲畫面。
+
+圖2:ARMA遊戲畫面比對
+
+查核中心透過電郵，詢問《ARMA》遊戲公司Bohemia Interactive（波希米亞互動）求證，其行銷部門主管Petr Poláček回應指出，「我們可以確認，(網傳影片)確實是出自《ARMA》系列的遊戲素材。我們認為，這段特定的影片是由一位我們的玩家在很久之前做的，相同的影片在過去也多次被假訊息挪用。」
+
+他說明，《ARMA》遊戲可以讓玩家社群利用遊戲提供的素材，自由創建場景及自定義地點，網傳影片看來是社群玩家修改遊戲版本，自建遊戲場景。
+
+Petr提醒民眾，可以細看這段影片，應該可以辨認出這是遊戲的畫面，避免再被誤導。
+
+Thanks for getting in touch. We can confirm this is footage from our Arma series. We believe this specific video was made by one of our players a long time ago, and the same footage has been misused various times for spreading fake news in the past.Our Arma games (including Arma 2 – where we believe this particular footage is from) are highly moddable, and our community has great freedom in adapting the games to create a variety of scenarios using the in-game editor. As such, what you’re seeing in the linked video is not the vanilla “out-of-the-box” Arma 2 experience, but a modded version of the game and a custom scenario made by our community player[s].
+
+Of course, we are unhappy about footage from our games being used to spread false news in any capacity. Unfortunately, for obvious reasons, there’s no way we can prevent footage from our games being used this way – all we can do is clarify and confirm the footage’s actual origin, and implore people to please check such things before aiding in the spread of misinformation and fabricated reality. In this case, simply a closer look at the video should be enough for most people to see the footage is from a game – but sadly, it seems far too many people are too easily convinced of authenticity. If you have any further questions, or would like us to clarify anything, please don’t hesitate to get in touch again.
+
+爭議點二、此貼文附上的連結網址的資安問題為何？
+
+查核中心採訪趨勢科技全球消費市場開發暨行銷資深經理劉彥伯。他表示，這是近期很流行的詐騙粉專。此類粉專包裝成正常的粉絲專頁，會放一些影片吸引民眾觀看，並在文章及留言處放上一個下載連結。
+
+劉彥伯提醒，民眾千萬不要點選不明網址，以免被盜取個資。
+
+劉彥伯表示，此種連結的詐騙手法跟過去「寄簡訊，請民眾點網址」的形式一樣。如果是用Android手機點開，會連結到Google Play商城，請民眾登錄帳號密碼，下載APP，藉此盜取民眾帳號密碼及個資；如果是以iPhone及電腦版點開，則會連結到一個第三方網站，藉此讓民眾衝高該網站點閱率。
+
+圖3：劉彥伯實際以Android手機點選網址，會連結到Google商城。民眾千萬不要點選安裝。
+
+結論
+
+一、網傳影片出自電玩遊戲ARMA（武裝行動）的畫面，並非真實影像。
+
+二、資安專家表示，影片提供的連結為詐騙網址，請民眾切勿點選。
+
+因此，此貼文使用電玩遊戲畫面，搭配不實文字訊息，因此，為「錯誤」訊息。
+
+參考資料
+
+【錯誤】網傳簡訊通知「您所郵寄的包裹涉嫌違規操作已退回,請核對退貨地址」？

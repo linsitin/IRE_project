@@ -1,0 +1,99 @@
+標題：【錯誤】網傳「美國衛生部負責人J. Anthony」、「美國CDC負責人 Anthony Fauci」表示，「美國有50％的（疫情）死亡發生在理髮室…」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-3836/
+--------------------------------------------------
+
+一、美國聯邦政府的衛生主管機關為「衛生及公共服務部」（ Department of Health and Human Services ），部長為阿札爾（Alex M. Azar II）。
+
+二、美國疾病控制與預防中心（Centers for Disease Control and Prevention）主任為羅伯特．雷德菲爾德（Robert R. Redfield）。
+
+三、沒有相關統計和資料顯示美國50%的染疫死亡人口與理髮廳、美容院有關。
+
+因此，傳言為「錯誤」訊息。
+
+背景
+
+社群平台流傳訊息指出：
+
+「*❗請主意❗**美國衛生部負責人J. Anthony表示，美國有50％的死亡發生在理髮窒中。*最大的危險來自理髮店本身*。*理髮師用同一條毛巾擦至少4至5人的鼻子**理髮毛巾，理髮剃刀，理髮刷，椅子等被很多人使用。*理髮師將與許多人接觸，*如果我們與受感染的病人接觸，票肯定會被傳染。**在病毒還完全消失之前，我們甚至都不會想到去沙龍理髮。*即使情況恢復正常，威脅仍然存在。*這種危險將持續很長時間。*
+
+Translation:* Please take note*
+
+* The head of the US Department of Health, J. Anthony, said that 50% of deaths in the United States occur in haircuts.* The greatest danger comes from the barber shop itself *.* Barber wipes the nose of at least 4 to 5 people with the same towel ** Barber towels, barber razors, barber brushes, chairs, etc. are used by many people.* The hairdresser will be in contact with many people. * If we are in contact with infected patients, the ticket will definitely be infected. ** We will not even think of going to the salon to get a haircut before the virus has completely disappeared.* Even if the situation returns to normal, the threat still exists.* This danger will last for a long time. **最大的危險來自理髮店本身」
+
+此訊息亦有冠名「美國CDC負責人 Anthony Fauci」的版本，內容為：
+
+「轉來自台灣的義弟；❗請主意❗美國CDC負責人 Anthony Fauci 表示，美國有50％的死亡發生在理髮窒中。最大的危險來自理髮店本身。The most dangerous Corona outbreak is from barber shops，理髮師用同一條毛巾擦至少4至5人的鼻子，理髮毛巾，理髮剃刀，理髮刷，椅子等被很多人使用。理髮師將與許多人接觸，如果我們與受感染的病人接觸，票肯定會被傳染。在病毒還完全消失之前，我們甚至都不會想到去沙龍理髮。即使情況恢復正常，威脅仍然存在。這種危險將持續很長時間！」
+
+圖1：社群平台流傳訊息擷圖
+
+圖2：社群平台流傳冠名「美國CDC負責人 Anthony Fauci」的版本
+
+圖3：此訊息近期在社群平台上廣泛流傳
+
+查核
+
+爭議點一、傳言指稱「美國衛生部（ Department of Health）負責人J. Anthony」，美國是否有「衛生部（ Department of Health）」？該部負責人是否為「J. Anthony」？
+
+查核中心查詢美國白宮網站，美國聯邦政府行政部門中，衛生相關主管機關全名為「衛生及公共服務部（ Department of Health and Human Services ，簡稱HHS）」。
+
+根據HHS官網，其負責人為阿札爾（Alex M. Azar II），並不是傳言所稱的「J. Anthony」。
+
+圖4：美國衛生及公共服務部部長阿札爾（Alex M. Azar II）介紹／擷自美國HHS官網
+
+爭議點二、傳言指稱「CDC負責人 Anthony Fauci」，美國疾病管制與預防中心（Centers for Disease Control and Prevention，簡稱CDC）負責人是否為「Anthony Fauci」？
+
+查核中心查證，根據美國疾病控制與預防中心官網（Centers for Disease Control and Prevention），其主任為羅伯特．雷德菲爾德（Robert R. Redfield）。
+
+圖5：美國疾病管制中心主任羅伯特．雷德菲爾德（Robert R. Redfield）介紹／擷自美國CDC官網
+
+至於傳言中提及的「Anthony Fauci」，實際上是美國國家衛生研究院之國家過敏和傳染病研究所（NIAID）主任。
+
+圖6：美國國家過敏和傳染病研究所主任Anthony S. Fauci介紹／擷自美國NIAID官網
+
+爭議點三、傳言宣稱「美國有50％的死亡發生在理髮室」，是否屬實？
+
+查核中心查詢美國疾病管制及預防中心（簡稱CDC）官網，對COVID-19疫情的死亡人數統計，以2020年5月13日為例，僅針對年齡、性別、族群、併發症等資料，進行統計。對於死亡人數的地理位置分布，美國CDC僅有各州的死亡人數統計。在以上數據中，沒有針對死亡人數的「職業」，也沒有更詳細的染疫「場所」之資料。
+
+對於病毒傳染的原因，美國CDC官網的〈常見問題〉僅說明新冠病毒是透過飛沫傳染，並未提及「美容院」、「理髮廳」等場所，而在在美國CDC網站〈社交距離〉的說明中，CDC僅建議民眾保持6英尺的社交距離、避免到人群聚集的場所。
+
+查核中心查詢美國美髮業者協會《沙龍水療專業協會》網站，在有關防疫的說明中，僅提及勤洗手、避免用手接觸口鼻等基本建議等，並未提及「美髮工作者比較容易染疫」、「50%死亡發生在理髮室」。
+
+查核中心檢索美國主流媒體，其中《CNN》、《紐約時報》提及美髮業者日前因封城關閉，近日因各州逐步解除封城而重新營業，但營業場所須做好防疫工作，包括為顧客量體溫、戴口罩甚至防護面罩、暫停提供免費飲料及雜誌，以及維持社交距離等。
+
+另外，《法新社》查核組織4月30日發布查核報告指出，沒有證據支持「美國50%死亡發生在理髮室」的宣稱。
+
+綜合以上，沒有證據顯示美國染疫死亡人口有50%與理髮廳、美容院有關。
+
+結論
+
+一、美國聯邦政府的衛生主管機關為「衛生及公共服務部」（ Department of Health and Human Services ），部長為阿札爾（Alex M. Azar II）。
+
+二、美國疾病控制與預防中心（Centers for Disease Control and Prevention）主任為羅伯特．雷德菲爾德（Robert R. Redfield）。
+
+三、沒有相關統計和資料顯示美國50%的染疫死亡人口與理髮廳、美容院有關。
+
+因此，傳言為「錯誤」訊息。
+
+參考資料
+
+The White House〈Our Government  The Executive Branch〉
+
+US HHS Leadership: Alex M. Azar II
+
+CDC Director: Robert R. Redfield, MD
+
+NIH NIAID: Anthony S. Fauci, M.D., NIAID Director
+
+CDC〈Provisional Death Counts for Coronavirus Disease (COVID-19):Weekly Updates by Select Demographic and Geographic characteristics〉
+
+CDC FAQ〈How COVID-19 Spreads〉
+
+CDC〈Coronavirus Disease 2019 (COVID-19): Social Distancing〉
+
+Salon SPA Professional Association〈THE CORONAVIRUS (COVID-19) PREPARIDNESS〉
+
+CNN〈How hair salons are adapting to the ＇new normal＇ in a transformed landscape〉
+
+New York Times〈How hair salons are adapting to the ＇new normal＇ in a transformed landscape〉
+
+AFP Fact Check〈This may not be the best time to visit a hair salon – but there is no proof they have caused almost half of coronavirus deaths〉

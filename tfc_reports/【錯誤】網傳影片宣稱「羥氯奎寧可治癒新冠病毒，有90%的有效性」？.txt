@@ -1,0 +1,67 @@
+標題：【錯誤】網傳影片宣稱「羥氯奎寧可治癒新冠病毒，有90%的有效性」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-6064/
+--------------------------------------------------
+
+【報告將隨時更新 2021/7/28版】
+
+一、美國國家衛生研究院、世界衛生組織均明確表示，不推薦使用羥氯奎寧來治療或預防COVID-19。
+
+二、專家指出，實證醫學研究已證實，羥氯奎寧對治療新冠病毒並無幫助，台灣對COVID-19的治療指引，也未把羥氯奎寧列入建議用藥。
+
+因此，傳言為「錯誤」訊息。
+
+【查核聲明】資訊若有更新，本報告亦會同步更新。
+
+背景
+
+社群平台、通訊軟體流傳一段影片，搭配文字訊息指稱：
+
+「美國頂尖醫生 Dr. Peter McCullough 勇敢的出席國會作證, 揭露新冠病毒確實有藥物可以治愈！
+
+不需全面施打疫苗的真相️」
+
+影片提及的藥物為「羥氯奎寧（hydroxychloroquine）」，並指出羥氯奎寧有90%的有效性，保護力與疫苗的保護力相同。
+
+圖1：社群平台流傳訊息擷圖。
+
+查核
+
+爭議點、傳言宣稱羥氯奎寧可治療新冠病毒，是否屬實？
+
+（一）國家衛生研究院感染症與疫苗研究所副研究員級主治醫師齊嘉鈺指出，無論是美國國家衛生研究院的COVID-19治療指引，或是世界衛生組織的報告，都明確表示不推薦使用「羥氯奎寧」（Hydroxychloroquine）預防或治療COVID-19。
+
+齊嘉鈺說，根據WHO的統合分析，在共計有6000多名參與者的臨床試驗中，高強度證據顯示，預防性給予羥氯奎寧無法降低死亡率、住院率與確診率。使用羥氯奎寧預防COVID-19還可能會增加腹瀉、噁心、腹痛、嗜睡和頭痛等不良事件的風險。
+
+齊嘉鈺說，台灣國內臨床處置指引在2020年6月初改版時，也已將羥氯奎寧排除在治療指引的建議用藥之外。
+
+（二）台灣兒童感染症醫學會理事長邱南昌指出，過去曾有人認為羥氯奎寧可能對治療COVID-19有幫助，前美國總統川普也宣稱其有療效。但後來透過大規模的實證醫學檢視，證實羥氯奎寧對治療COVID-19並無幫助，因此現在羥氯奎寧並未列入治療COVID-19的指引用藥。
+
+（三）查核中心檢索，關於羥氯奎寧對新冠病毒的療效，曾在歐美國家的網路世界中受到熱議，並已被《法新社》查核團隊、《路透社》、《FactCheck.org》、《Health Feedback》等多家媒體證實為錯誤訊息。
+
+結論
+
+【報告將隨時更新 2021/7/28版】
+
+一、美國國家衛生研究院、世界衛生組織都明確表示不推薦使用羥氯奎寧來治療或預防COVID-19。
+
+二、專家指出，實證醫學研究已證實羥氯奎寧對治療新冠病毒並未有幫助，台灣對COVID-19的治療指引，也未把羥氯奎寧列入建議用藥。
+
+因此，傳言為「錯誤」訊息。
+
+【查核聲明】資訊若有更新，本報告亦會同步更新。
+
+參考資料
+
+NIH〈Table 2b. Chloroquine or Hydroxychloroquine and/or Azithromycin: Selected Clinical Data〉
+
+WHO〈Coronavirus disease (COVID-19): Hydroxychloroquine〉
+
+CDC〈SARS-CoV-2 之藥物使用實證摘要〉
+
+AFP〈Ivermectin and hydroxychloroquine are not proven Covid-19 treatments〉
+
+Reuters〈Fact Check-U.S. government guidance against use of hydroxychloroquine for treating COVID-19 has not changed in 2021〉
+
+FactCheck.org〈No New Revelation on Hydroxychloroquine and COVID-19〉
+
+Health Feedback〈The American Journal of Medicine didn’t recommend hydroxychloroquine as a treatment for COVID-19; scientific evidence doesn’t show hydroxychloroquine is effective against COVID-19〉

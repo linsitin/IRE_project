@@ -1,0 +1,89 @@
+標題：【錯誤】媒體報導「英國研究證實：女人越愛喝酒智商越高」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-238/
+--------------------------------------------------
+
+一、傳言引述的研究為2010年經濟合作暨發展組織（OECD）與英國倫敦政經學院所發表。
+
+二、此研究指出「教育程度較高者的每日飲酒量和問題性飲酒的機率，也跟著增加，而這項關聯在女性的情況比男性更強」、「女性受的教育程度越高，她們更可能常常喝酒並因飲酒方式而發生問題」等，研究結論與相關報導內容有諸多差異。
+
+三、這篇研究在探討英國年輕人「教育程度」與「飲酒行為」的關係，但「教育程度」不等於「智商」。且研究者很謹慎地提醒此為「相關性研究」，無法證實因果關係，也有許多研究限制。精神科醫師指出，其他國家、不同的社會，未必會有一樣的研究結果。
+
+因此，「女人越愛喝酒智商越高」是過度解讀的「錯誤」訊息。
+
+背景
+
+內容農場與網路媒體引述外媒報導稱：「英國研究證實：女人越愛喝酒智商越高」，並在內文中敘述：「英國倫敦政經學院針對1970年同一星期出生於英國的數千名男女進行調查…發現學歷越高的女性，有比其他人還要高的機率在周間飲酒，而消費的金額也比較多」、「考試分數表現較佳的女性，購買酒類的頻率是其他女性的2倍左右！若跟完全沒受過教育的女性相比，較會考試的女性在周間飲酒的機率也高了百分之80。」
+
+查核
+
+爭議點一、英國倫敦政經學院是否有飲酒與女性智商的相關研究？
+
+查核中心透過網路查詢得知，2010年在期刊《Social Science & Medicine》有一篇論文〈Education, alcohol use and abuse among young adults in Britain〉探討英國年輕人的「教育程度」和「飲酒習慣」之關係。這是由經濟合作暨發展組織（OECD，Organisation for Economic Co-operation and Development）及英國倫敦政經學院的學者Maria C. Huerta及Francesca Borgonovi所發表的研究。該研究以既有的British Cohort Study（以下簡稱BCS)的資料進行分析，採用BCS於2004年蒐集的飲酒習慣的資料，來探討飲酒習慣和教育程度的關聯性。
+
+圖說：〈Education, alcohol use and abuse among young adults in Britain〉論文摘要
+
+註：British Cohort Study是針對1970年某一週在英國出生的一萬七千多名嬰兒的長時間縱向資料蒐集研究，衍生的論文等出版物已經有七百多篇。
+
+這篇論文是針對1970年某一週在英國出生的同齡群體進行調查，研究者是以British Cohort Study在2004年蒐集的既有資料來分析。值得注意的是，該篇研究結論清楚地提出聲明：「研究結果不能立即地一概而論，因為本研究僅針對一群特定年齡、出生於特定地區的人在2004年的飲酒習慣」
+
+（原文：Our data do not lend to immediate generalisation since they refer to the drinking behaviours in 2004 of individuals born in Britain in 1970 and therefore reflect the experiences of individuals of a specific age, born in a specific year and living in a specific context – both geographically and temporally defined.）
+
+爭議點二、該研究結論是否為「女人越愛喝酒智商越高」？
+
+查核中心檢視此論文〈Education, alcohol use and abuse among young adults in Britain〉，整理此論文的研究發現如下：
+
+1.教育程度較高者的每日飲酒量和問題性飲酒（problem drinking）的機率也跟著增加，而這項關聯在女性的情況比男性更強。
+
+（原文：We found that higher educational attainment is associated with increased odds of daily alcohol consumption and problem drinking. The relationship is stronger for females than males.）
+
+2. 女性受的教育程度越高，她們更可能常常喝酒並因飲酒方式而發生問題
+
+（原文：the more educated women are, the more likely they are to drink alcohol on most days and to report having problems due to their drinking patterns.）
+
+3. 研究對象中不分男女，五歲和十歲時課業表現良好的人，比起表現不好的人，更可能出現濫用酒精的情況。
+
+（原文：Both males and females who achieved high level performance in test scores administered at ages 5 and 10 are signiﬁcantly more likely to abuse alcohol along all dimensions than individuals who performed poorly on those tests.）
+
+查核中心比對該研究論文與相關報導，發現有許多不符之處：
+
+1、相關報導與內容農場的標題為：「女人越愛喝酒智商越高」，但該研究係針對「教育程度」而區分，「教育程度」不等於「智商」。
+
+2，報導內文敘述為：「學歷越高的女性，有比其他人還要高的機率在周間飲酒，而消費的金額也比較多。」但該研究僅提到「教育程度越高的女性，更可能常喝酒」，並沒有提及「消費的金額也比較多」之描述。「飲酒頻率」不等於「酒精消費金額」。（例如酒類的單價也會影響酒精消費金額）
+
+爭議點三、相關報導還指出：「考試分數表現較佳的女性，購買酒類的頻率是其他女性的2倍左右！若跟完全沒受過教育的女性相比，較會考試的女性在周間飲酒的機率也高了百分之80」，是否符合該研究結果？
+
+查核中心比對該研究內文，發現該研究僅關注「飲酒行為」，並非「酒精購買行為」，且該研究是將研究對象的教育程度分為「低」、「中」、「高」三項，該研究結果顯示教育程度高的英國女性在「有問題的規律重度飲酒（Regular-heavy drinkers with problems）」項目上，比「教育程度低」的女性高2.15倍的「相對危險性」。換言之，在飲酒習慣的比較上，並不是以「教育程度高」與「沒受過教育」來對照。
+
+該研究論文中沒有提及相關報導指出的「考試分數表現較佳的女性，購買酒類的頻率是其他女性的2倍左右！若跟完全沒受過教育的女性相比，較會考試的女性在周間飲酒的機率也高了百分之80」等結論。而該研究發現提及的是：課業成績較高的英國女性比表現差的女性有「問題性飲酒」。
+
+爭議點四：專業醫師如何看待這篇研究論文和相關報導
+
+對於這篇研究，查核中心諮詢精神科醫師陳豐偉及孔繁錦。陳豐偉醫師指出，在研究論文裡可看到研究者的思緒包含「為什麼小時候測驗分數高、後來學歷高的女性，會喝較多的酒」，但研究者很謹慎地提醒讀者這是相關性研究，無法證實因果關係，也有許多研究限制。
+
+高雄快樂心靈診所負責醫師陳豐偉進一步指出，這研究揭露的問題若深入探討，可能牽涉到英國不同社會階層、不同世代、不同性別，如何學習與模仿飲酒行為。其他國家、不同的社會，未必會有一樣的研究結果。媒體報導成「愛喝酒的女人智商較高」，這是過度解讀了。
+
+衛生福利部玉里醫院精神科主治醫師孔繁錦也認為，此研究為相關性研究，不宜過度解讀未具有因果關係。
+
+結論
+
+1. 2010年英國倫敦政經學院確實發表過一篇論文〈Education, alcohol use and abuse among young adults in Britain〉探討英國年輕人的教育程度和飲酒習慣之關聯。但研究者是以British Cohort Study此一縱貫性研究在2004年蒐集的既有資料來分析，研究結論強調「本研究僅針對一群特定年齡、出生於特定地區的人，在2004年的飲酒習慣」。
+
+2. 該研究結論為「教育程度較高者的每日飲酒量和問題性飲酒的機率跟著增加，而這項關聯在女性的情況比男性更強」、「女性受的教育越高，她們更可能常常喝酒並因飲酒方式而發生問題」。但「教育程度」不等於「智商」，且「1970年某一週出生的英國女性」不等於「所有國家的所有女性」，不符報導標題之「女人越愛喝酒智商越高」。
+
+3. 該研究沒有提及相關報導指出的「考試分數表現較佳的女性，購買酒類的頻率是其他女性的2倍左右！若跟完全沒受過教育的女性相比，較會考試的女性在周間飲酒的機率也高了百分之80」等結論。
+
+4.  精神科醫師陳豐偉及孔繁錦皆指出，這是相關性研究，無法證實具有因果關係，也有許多研究限制。陳豐偉醫師進一步指出，這研究揭露的問題若深入探討，可能牽涉到英國不同社會階層、不同世代、不同性別，如何學習與模仿飲酒行為。其他國家、不同的社會，未必會有一樣的研究結果。
+
+綜上所述，「愛喝酒的女人智商較高」，是過度解讀的「錯誤」訊息。
+
+補充資料
+
+論文摘要：In this article we explore the relationship between education and alcohol consumption. We examine whether the probability of abusing alcohol differs across educational groups. We use data from the British Cohort Study, a longitudinal study of one week＇s birth in Britain in 1970. We analysed data collected at age 34 (in 2004) and complement it with information gathered at previous sweeps. Measures of alcohol abuse include alcohol consumption above NHS guidelines, daily alcohol consumption and problem drinking. We found that higher educational attainment is associated with increased odds of daily alcohol consumption and problem drinking. The relationship is stronger for females than males. Individuals who achieved high educational test scores in childhood are at a significantly higher risk of abusing alcohol across all dimensions. Our results also suggest that educational qualifications and academic performance are associated with the probability of belonging to different typologies of alcohol consumers among women while this association is not present in the case of educational qualifications and is very weak in the case of academic performance among males.
+
+摘要翻譯：
+
+在這篇文章中，我們探討教育和飲酒的關係。我們調查酒精濫用的可能性在不同教育程度的群體中是否有所差異。我們使用British Cohort Study的數據，這是一個對1970年某一週在英國出生的人的縱向研究。我們分析這群人34歲（2004年）的數據，並以過去蒐集的資訊來補充。酒精濫用的測量方式包括「高於NHS標準的飲酒」、「每日飲酒」、「問題性飲酒」。我們發現，教育程度較高者的每日飲酒量和問題性飲酒的發生率會跟著增高，這項關聯在女性的情況比男性更強。在童年時期考試高分的人在各種濫用酒精行為中都有顯著較高的風險。我們的研究結果也指出：學歷和課業表現與女性成為各種類型的飲酒者的可能性有關，在男性方面，學歷顯得無關而課業表現的影響非常輕微。
+
+參考資料
+
+Borgonovi, Francesca and Huerta, Maria (2010) Education, alcohol use and abuse among young adults in Britain. Social Science and Medicine, 71 (1). pp. 143-151.

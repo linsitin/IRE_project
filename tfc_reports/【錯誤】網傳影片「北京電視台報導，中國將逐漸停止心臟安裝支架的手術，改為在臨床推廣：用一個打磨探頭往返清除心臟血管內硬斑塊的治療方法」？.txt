@@ -1,0 +1,77 @@
+標題：【錯誤】網傳影片「北京電視台報導，中國將逐漸停止心臟安裝支架的手術，改為在臨床推廣：用一個打磨探頭往返清除心臟血管內硬斑塊的治療方法」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-6491/
+--------------------------------------------------
+
+【報告將隨時更新 2021/10/27版】
+
+一、查核中心檢視多個北京廣播電視台頻道，並無網傳影片的內容。
+
+二、網傳影片來自美國兩家醫療產品公司，影片內容為治療泌尿道結石的碎石影片，並非治療心血管疾病的手術。
+
+因此，傳言為「錯誤」訊息。
+
+背景
+
+社群平台、通訊軟體流傳一段影片，標題宣稱：
+
+「北京電視台報道，中國將逐漸停止心臟安裝支架的手術，改為在臨牀推廣：用一個打磨探頭往返清除心臟血管內硬斑塊的治療方法，目前上海胸科醫院已經開始臨牀應用，很快將在全國推廣此種療法。」
+
+圖1：網傳影片擷圖。
+
+查核
+
+爭議點一、傳言宣稱「北京電視台報導」，北京電視台是否有網傳影片的內容？
+
+查核中心檢索，「北京電視台」全名應為「BRTV北京廣播電視台」。查核中心搜尋Youtube影音平台上的「北京广播电视台官方频道 BRTV Official Channel」、「北京广播电视台科教频道 BRTV Science Channel」、「北京广播电视台生活频道 BRTV Life Channel」、「北京广播电视台卫视频道 BRTV satellite TV channel」，並未找到網傳影片。
+
+查核中心再搜尋中國影音平台「騰訊視頻」上北京廣播電視台的節目，在其旗下頻道《北京衛視》的〈養生堂〉節目中，找到2015年有影片介紹「去除动脉硬化斑块的新方法」，但其與網傳影片不同。
+
+圖2：《北京衛視》節目《養生堂》2015年曾有節目介紹「去除動脈硬化斑塊的新方法」，但節目內容與網傳影片不同。
+
+爭議點二、網傳影片來源為何？是否為清除心血管血塊的手術？
+
+（一）查核中心檢視，網傳影片字幕出現「Stone Control Catheter」、「hybrid grasper basket」、「Credit:Boston Scientific Urology Accordion Medical」等字詞。
+
+圖3、4、5：網傳影片出現一些英文字詞。
+
+查核中心以關鍵字檢索以上英文字詞並比對網傳影片，確認網傳影片中的第一、二段畫面來自Youtube帳號「AccordionMedical」上傳的「CoAx 10mm Stone Control Catheter from Accordion Medical」、「CoAx 15mm Stone Control Catheter – PCNL Antegrade Approach」；第三段畫面應來自美國醫療產品公司「Boston Scientific」的網站，其網站影片已無法檢視，但影片說明指出這是一種移除結石的鎳鈦合金工具。
+
+圖6、7、8：網傳影片與Youtube帳號「AccordionMedical」、美國醫療產品公司「Boston Scientific」網站影片比對。／台灣事實查核中心製圖
+
+由於前兩段影片來源中，影片開頭有「PerSys」的標誌。查核中心以關鍵字檢索，查找到「PerSys」的Linkedin資料，據其指出，這是美國一家醫療產品公司，但公司網站網址已失效。
+
+圖9：網傳影片中，前兩段影片來源有「PercSys」的標誌，經檢索，這是美國一家醫療產品公司。
+
+（二）台北慈濟醫院泌尿科主治醫師李名偉協助檢視網傳影片後指出，網傳影片的內容為泌尿道結石的碎石影片。影片中涵蓋三種手術，第一段畫面是輸尿管碎石手術，第二段畫面是腎造廔碎石手術，第三段畫面則是軟式輸尿管鏡碎石手術。
+
+（三）國泰綜合醫院心血管中心主治醫師郭志東檢視網傳影片指出，這是治療泌尿道結石的影片，與心臟無關。
+
+綜合以上，網傳影片來自美國兩家醫療產品公司，影片內容為治療泌尿道結石的碎石影片，並非治療心血管疾病的手術。
+
+結論
+
+【報告將隨時更新 2021/10/27版】
+
+一、查核中心檢視多個北京廣播電視台頻道，並無網傳影片的內容。
+
+二、網傳影片來自美國兩家醫療產品公司，影片內容為治療泌尿道結石的碎石影片，並非治療心血管疾病的手術。
+
+因此，傳言為「錯誤」訊息。
+
+參考資料
+
+北京广播电视台官方频道 BRTV Official Channel
+
+北京广播电视台科教频道 BRTV Science Channel
+
+北京广播电视台生活频道 BRTV Life Channel
+
+北京广播电视台卫视频道 BRTV satellite TV channel
+
+CoAx 10mm Stone Control Catheter from Accordion Medical
+
+CoAx 15mm Stone Control Catheter – PCNL Antegrade Approach
+
+Boston Scientific〈Dakota™ Nitinol Stone Retrieval Device with OpenSure™ Handle〉
+
+PercSys Linkedin

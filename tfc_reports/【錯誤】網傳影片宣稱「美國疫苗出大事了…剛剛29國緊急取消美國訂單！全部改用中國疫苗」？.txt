@@ -1,0 +1,115 @@
+標題：【錯誤】網傳影片宣稱「美國疫苗出大事了…剛剛29國緊急取消美國訂單！全部改用中國疫苗」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-4824/
+--------------------------------------------------
+
+一、此訊息出自中國內容農場和論壇，並不是媒體：近期並未有「29國取消美國訂單、改用中國疫苗」的任何報導。
+
+二、美國藥廠參與研發的新冠肺炎疫苗中，輝瑞集團和德國BioNTech生技公司研發的疫苗已有多國採用，而莫德納、諾瓦瓦克斯和嬌生集團的疫苗正在進行第三期臨床實驗，有多國洽談採購。
+
+三、美國沒有參與「新冠肺炎疫苗全球取得機制COVAX」，但COVAX會採購美國藥廠參與研發的疫苗。COVAX是由世界衛生組織、全球疫苗免疫聯盟（GAVI）、流行病防範創新聯盟（CEPI）共同成立，是分配疫苗之國際組織。
+
+因此，傳言與實際情形不符，為「錯誤」訊息。
+
+背景
+
+社群平台、影音平台流傳一段影片，標題宣稱：「12月9日，美国疫苗出大事了！特朗普骗了全世界！刚刚29国紧急取消美国订单！全部改用中国疫苗！」
+
+圖1：社群平台流傳訊息擷圖
+
+查核
+
+爭議點一、傳言宣稱「剛剛29國緊急取消美國訂單！全部改用中國疫苗」，近期是否有相關報導？
+
+（一）查核中心以關鍵字檢索，此訊息僅在影音平台、內容農場及部分中國網站流傳。中國官媒《央視》、《新華社》皆無相關資訊。
+
+（二）查核中心以關鍵字檢索《美聯社》、《紐約時報》、《CNN》、《ABC News》、《CNBC News》、《USA Today》，並無相關報導。
+
+爭議點二、目前COVID-19疫苗的研發進度為何？美國研發的疫苗有哪些？
+
+查核中心檢索全球疫苗免疫聯盟（Gavi, the Vaccine Alliance）和《紐約時報》新冠疫苗專題所整理的COVID-19疫苗研發進度。據以上資料指出，截至2020年12月16日，目前取得監管機關許可的疫苗是美國藥廠輝瑞（Pfizer）與德國生技公司BioNTech研發的「BNT162b2」疫苗。
+
+同時，進入第三期臨床實驗階段的疫苗，由美國藥廠參與開發的疫苗，包括：莫德納（Moderna）開發的「mRNA-1273」、諾瓦瓦克斯（Novavax）開發的「NVX-CoV2373」，以及嬌生集團（Johnson & Johnson）開發的「Ad26.COV2.S」。
+
+爭議點三、美國研發的疫苗，目前（2020年12月）各國採購狀況為何？
+
+查核中心檢索輝瑞、莫德納、諾瓦瓦克斯和嬌生集團的COVID-19疫苗的最新進展。
+
+輝瑞與BNT：根據歐盟網站公布的新聞稿，歐盟在11月11日與輝瑞和BNT達成協議採購2億劑疫苗。另外，截至目前，英國、美國、加拿大、沙烏地阿拉伯、新加坡、科威特、墨西哥等多個國家已經批准輝瑞疫苗的使用授權。
+
+莫德納：根據莫德納公司11月16日公布的疫苗研發簡報，目前莫德納已和美國、日本、加拿大、瑞士、以色列、卡達等國家簽約，將在2021年提供5到10億劑疫苗，同時，歐盟、COVAX全球新冠疫苗計劃和其他國家也在與莫德納洽談疫苗採購。
+
+諾瓦瓦克斯：根據諾瓦瓦克斯11月30日公布的新聞稿，諾瓦瓦克斯的疫苗正在進行第三階段臨床實驗。但諾瓦瓦克斯11月4日公布的新聞稿也指出，諾瓦瓦克斯已和美國、英國、加拿大、澳洲、日本、南韓、印度等國家達成協議，將供應「NVX-CoV2373」疫苗給這些國家。
+
+嬌生：根據嬌生集團11月15日公布的新聞稿，嬌生開始第二次的第三階段全球臨床實驗，其中，以觀察兩劑疫苗的效果。亦即，嬌生集團的疫苗目前仍在進行第三階段臨床實驗。但根據嬌生10月8日公布的新聞稿，嬌生與歐盟達成協議，未來將提供2億劑疫苗給歐盟。
+
+爭議點四、COVID-19疫苗在世界各國的分配機制為何？
+
+（一）台灣大學公共衛生學院教授陳秀熙團隊在11月25日的直播記者會中指出，世界衛生組織、全球疫苗免疫聯盟（GAVI）、流行病防範創新聯盟（CEPI）共同成立「新冠肺炎疫苗全球取得機制（COVAX）」，作為COVID-19疫苗研發、製造及分配之平台。
+
+陳秀熙團隊指出，COVAX的全球疫苗分配策略採取兩階段，第一階段以國家為單位，促使每個國家20%的人口皆可獲取疫苗；接著再進入第二階段，以COVID-19疾病風險疫情指標、國家健康照護系統量能、地區高風險族群偵測等危險分層評估，來評斷疫苗分配優先性。根據COVAX之規劃，2021年預計將20億劑疫苗配送至176個國家，其中預計將10億劑疫苗分配給低發展等貧窮國家。
+
+圖2：台大公衛學院說明WHO和COVAX的分配機制／台大公衛學院11月25日直播簡報
+
+（二）查核中心採訪美國非營利組織《發展成果》藥物取得政策研究顧問林佳瑩。林佳瑩說，COVAX和疫苗廠商的合作關係主要是投資、協助研發與提升產量，疫苗上市後也會進行採購。COVAX一方面投資特定藥廠研發疫苗，一方面也會跟其他廠商購買疫苗，再將採購的疫苗分配給所有參與COVAX的國家。此外，COVAX也會跟其他沒有開發新冠疫苗的廠商合作，來增加全球疫苗產量。
+
+爭議點五、美國是否參加COVAX？美國在COVAX扮演的角色為何？
+
+林佳瑩指出，美國沒有參與COVAX，也就是說，美國政府沒有投入資金來支持COVAX計畫的疫苗，也不會透過COVAX取得疫苗。不過，COVAX會跟美國的藥廠洽談採購疫苗。例如諾瓦瓦克斯、莫德納、輝瑞和BNT的疫苗就會被COVAX採購。
+
+結論
+
+一、此訊息出自中國內容農場和論壇，並不是媒體：近期並未有「29國取消美國訂單、改用中國疫苗」的任何報導。
+
+二、美國藥廠參與研發的新冠肺炎疫苗中，輝瑞集團和德國BioNTech生技公司研發的疫苗已有多國採用，而莫德納、諾瓦瓦克斯和嬌生集團的疫苗正在進行第三期臨床實驗，有多國洽談採購。
+
+三、美國沒有參與「新冠肺炎疫苗全球取得機制COVAX」，但COVAX會採購美國藥廠參與研發的疫苗。COVAX是由世界衛生組織、全球疫苗免疫聯盟（GAVI）、流行病防範創新聯盟（CEPI）共同成立，是分配疫苗之國際組織。
+
+因此，傳言與實際情形不符，為「錯誤」訊息。
+
+參考資料
+
+Gavi〈The COVID-19 vaccine race〉
+
+The New York Times〈Coronavirus Vaccine Tracker〉
+
+European Commission〈Coronavirus: Commission approves contract with BioNTech-Pfizer alliance to ensure access to a potential vaccine〉
+
+GOV.UK〈UK authorises Pfizer/BioNTech COVID-19 vaccine〉
+
+US FDA〈FDA Takes Key Action in Fight Against COVID-19 By Issuing Emergency Use Authorization for First COVID-19 Vaccine〉
+
+Health Canada〈Health Canada authorizes first COVID-19 vaccine〉
+
+FACT SHEET FOR HEALTHCARE PROVIDERS ADMINISTERING VACCINE
+
+HSA〈HSA Grants Interim Authorisation for First COVID-19 Vaccine in Singapore〉
+
+KHALEEJ TIMES〈Kuwait authorises emergency use of Pfizer-BioNTech Covid-19 vaccine〉
+
+The New York Times〈Mexico approves Pfizer vaccine for emergency use, and other news around the world.〉
+
+Moderna〈COVID-19 Vaccine (mRNA-1273)〉
+
+Novavax〈Novavax Announces COVID-19 Vaccine Clinical Development Progress〉
+
+Novavax〈Novavax and Commonwealth of Australia Announce Agreement in Principle for Acquisition of Novavax COVID-19 Vaccine〉
+
+Johnson & Johnson〈Johnson & Johnson Initiates Second Global Phase 3 Clinical Trial of its Janssen COVID-19 Vaccine Candidate〉
+
+Johnson & Johnson〈Johnson & Johnson Announces European Commission Approval of Agreement to Supply 200 Million Doses of Janssen’s COVID-19 Vaccine Candidate〉
+
+台大公衛學院〈2020-11-25 新冠肺炎科學防疫說明會: 新冠肺炎疫苗評估新進展、評論及COVAX疫苗分配〉
+
+Associated Press News
+
+The New York Times
+
+CNN
+
+ABC News
+
+CNBC News
+
+USA Today
+
+〈首圖出處：Upslash；作者：Daniel Schludi〉

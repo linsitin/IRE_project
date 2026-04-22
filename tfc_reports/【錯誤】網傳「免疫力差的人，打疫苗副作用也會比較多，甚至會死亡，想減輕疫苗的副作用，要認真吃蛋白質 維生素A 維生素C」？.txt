@@ -1,0 +1,93 @@
+標題：【錯誤】網傳「免疫力差的人，打疫苗副作用也會比較多，甚至會死亡，想減輕疫苗的副作用，要認真吃蛋白質 維生素A 維生素C」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-5849/
+--------------------------------------------------
+
+【報告將隨時更新 2021/7/26版】
+
+一、專家指出，傳言敘述疫苗的原理，是AZ、嬌生疫苗採用的「腺病毒載體疫苗」，不代表所有疫苗的原理。
+
+二、專家指出，免疫機轉非常複雜，免疫系統的正常運作需要營養均衡，並與情緒、壓力也有關聯，並不是攝取蛋白質、維生素A、維生素C等特定營養就足夠。
+
+三、專家指出，免疫系統與接種疫苗產生的副作用，兩者沒有絕對的關聯。就目前所觀察，年輕人接種疫苗後，免疫反應比年長者強烈，副作用比較明顯。傳言宣稱「免疫系統強，打疫苗副作用較輕微」，為錯誤說法。
+
+四，專家指出，「免疫力」跟「免疫反應」不同，免疫反應是當下對特定外來物的刺激所產生的反應；「免疫力」是一個長期保護力的作用。傳言建議「打疫苗前補充特定營養成分來提升免疫力，以減輕副作用」，是混淆「免疫力」和「免疫反應」兩者。
+
+因此，傳言為「錯誤」訊息。
+
+【查核聲明】資訊若有更新，本報告亦會同步更新。
+
+【2021/07/26 更新說明】查核中心發現此傳言新增影片版本，故增補「背景」。
+
+.lst-kix_bckv81spu2ej-3 > li{counter-increment:lst-ctn-kix_bckv81spu2ej-3}.lst-kix_bckv81spu2ej-7 > li:before{content:”” counter(lst-ctn-kix_bckv81spu2ej-7,lower-latin) “. “}.lst-kix_c54abzpeali5-0 > li:before{content:”” counter(lst-ctn-kix_c54abzpeali5-0,decimal) “. “}.lst-kix_c54abzpeali5-1 > li:before{content:”” counter(lst-ctn-kix_c54abzpeali5-1,lower-latin) “. “}.lst-kix_bckv81spu2ej-6 > li:before{content:”” counter(lst-ctn-kix_bckv81spu2ej-6,decimal) “. “}.lst-kix_bckv81spu2ej-8 > li:before{content:”” counter(lst-ctn-kix_bckv81spu2ej-8,lower-roman) “. “}ol.lst-kix_iphwez8e0hvi-7.start{counter-reset:lst-ctn-kix_iphwez8e0hvi-7 0}ol.lst-kix_bckv81spu2ej-5.start{counter-reset:lst-ctn-kix_bckv81spu2ej-5 0}.lst-kix_iphwez8e0hvi-6 > li{counter-increment:lst-ctn-kix_iphwez8e0hvi-6}.lst-kix_c54abzpeali5-4 > li:before{content:”” counter(lst-ctn-kix_c54abzpeali5-4,lower-latin) “. “}.lst-kix_bckv81spu2ej-4 > li:before{content:”” counter(lst-ctn-kix_bckv81spu2ej-4,lower-latin) “. “}ol.lst-kix_bckv81spu2ej-2.start{counter-reset:lst-ctn-kix_bckv81spu2ej-2 0}.lst-kix_bckv81spu2ej-5 > li:before{content:”” counter(lst-ctn-kix_bckv81spu2ej-5,lower-roman) “. “}ol.lst-kix_c54abzpeali5-4.start{counter-reset:lst-ctn-kix_c54abzpeali5-4 0}.lst-kix_c54abzpeali5-2 > li:before{content:”” counter(lst-ctn-kix_c54abzpeali5-2,lower-roman) “. “}.lst-kix_c54abzpeali5-3 > li:before{content:”” counter(lst-ctn-kix_c54abzpeali5-3,decimal) “. “}.lst-kix_bckv81spu2ej-0 > li:before{content:”” counter(lst-ctn-kix_bckv81spu2ej-0,decimal) “. “}.lst-kix_iphwez8e0hvi-8 > li:before{content:”” counter(lst-ctn-kix_iphwez8e0hvi-8,lower-roman) “. “}.lst-kix_bckv81spu2ej-4 > li{counter-increment:lst-ctn-kix_bckv81spu2ej-4}.lst-kix_bckv81spu2ej-3 > li:before{content:”” counter(lst-ctn-kix_bckv81spu2ej-3,decimal) “. “}ol.lst-kix_bckv81spu2ej-8{list-style-type:none}ol.lst-kix_c54abzpeali5-8{list-style-type:none}.lst-kix_iphwez8e0hvi-5 > li:before{content:”” counter(lst-ctn-kix_iphwez8e0hvi-5,lower-roman) “. “}ol.lst-kix_bckv81spu2ej-7{list-style-type:none}.lst-kix_bckv81spu2ej-2 > li:before{content:”” counter(lst-ctn-kix_bckv81spu2ej-2,lower-roman) “. “}.lst-kix_iphwez8e0hvi-6 > li:before{content:”” counter(lst-ctn-kix_iphwez8e0hvi-6,decimal) “. “}.lst-kix_bckv81spu2ej-1 > li:before{content:”” counter(lst-ctn-kix_bckv81spu2ej-1,lower-latin) “. “}ol.lst-kix_bckv81spu2ej-4{list-style-type:none}ol.lst-kix_c54abzpeali5-4{list-style-type:none}ol.lst-kix_c54abzpeali5-7.start{counter-reset:lst-ctn-kix_c54abzpeali5-7 0}.lst-kix_iphwez8e0hvi-7 > li:before{content:”” counter(lst-ctn-kix_iphwez8e0hvi-7,lower-latin) “. “}ol.lst-kix_bckv81spu2ej-3{list-style-type:none}ol.lst-kix_bckv81spu2ej-8.start{counter-reset:lst-ctn-kix_bckv81spu2ej-8 0}ol.lst-kix_c54abzpeali5-5{list-style-type:none}ol.lst-kix_bckv81spu2ej-6{list-style-type:none}ol.lst-kix_c54abzpeali5-6{list-style-type:none}ol.lst-kix_bckv81spu2ej-5{list-style-type:none}ol.lst-kix_c54abzpeali5-7{list-style-type:none}ol.lst-kix_bckv81spu2ej-0{list-style-type:none}ol.lst-kix_c54abzpeali5-0{list-style-type:none}.lst-kix_iphwez8e0hvi-1 > li:before{content:”” counter(lst-ctn-kix_iphwez8e0hvi-1,lower-latin) “. “}ol.lst-kix_c54abzpeali5-1{list-style-type:none}ol.lst-kix_iphwez8e0hvi-1.start{counter-reset:lst-ctn-kix_iphwez8e0hvi-1 0}ol.lst-kix_bckv81spu2ej-2{list-style-type:none}ol.lst-kix_c54abzpeali5-2{list-style-type:none}.lst-kix_iphwez8e0hvi-0 > li:before{content:”” counter(lst-ctn-kix_iphwez8e0hvi-0,decimal) “. “}.lst-kix_iphwez8e0hvi-2 > li:before{content:”” counter(lst-ctn-kix_iphwez8e0hvi-2,lower-roman) “. “}ol.lst-kix_bckv81spu2ej-1{list-style-type:none}ol.lst-kix_c54abzpeali5-3{list-style-type:none}.lst-kix_iphwez8e0hvi-7 > li{counter-increment:lst-ctn-kix_iphwez8e0hvi-7}.lst-kix_c54abzpeali5-8 > li{counter-increment:lst-ctn-kix_c54abzpeali5-8}.lst-kix_iphwez8e0hvi-4 > li:before{content:”” counter(lst-ctn-kix_iphwez8e0hvi-4,lower-latin) “. “}.lst-kix_c54abzpeali5-0 > li{counter-increment:lst-ctn-kix_c54abzpeali5-0}.lst-kix_bckv81spu2ej-5 > li{counter-increment:lst-ctn-kix_bckv81spu2ej-5}.lst-kix_iphwez8e0hvi-3 > li:before{content:”” counter(lst-ctn-kix_iphwez8e0hvi-3,decimal) “. “}.lst-kix_bckv81spu2ej-2 > li{counter-increment:lst-ctn-kix_bckv81spu2ej-2}.lst-kix_iphwez8e0hvi-5 > li{counter-increment:lst-ctn-kix_iphwez8e0hvi-5}ol.lst-kix_iphwez8e0hvi-4.start{counter-reset:lst-ctn-kix_iphwez8e0hvi-4 0}ol.lst-kix_c54abzpeali5-1.start{counter-reset:lst-ctn-kix_c54abzpeali5-1 0}ol.lst-kix_bckv81spu2ej-0.start{counter-reset:lst-ctn-kix_bckv81spu2ej-0 0}.lst-kix_bckv81spu2ej-0 > li{counter-increment:lst-ctn-kix_bckv81spu2ej-0}ol.lst-kix_bckv81spu2ej-7.start{counter-reset:lst-ctn-kix_bckv81spu2ej-7 0}.lst-kix_iphwez8e0hvi-8 > li{counter-increment:lst-ctn-kix_iphwez8e0hvi-8}.lst-kix_c54abzpeali5-2 > li{counter-increment:lst-ctn-kix_c54abzpeali5-2}ol.lst-kix_iphwez8e0hvi-5.start{counter-reset:lst-ctn-kix_iphwez8e0hvi-5 0}.lst-kix_iphwez8e0hvi-4 > li{counter-increment:lst-ctn-kix_iphwez8e0hvi-4}ol.lst-kix_bckv81spu2ej-1.start{counter-reset:lst-ctn-kix_bckv81spu2ej-1 0}ol.lst-kix_c54abzpeali5-0.start{counter-reset:lst-ctn-kix_c54abzpeali5-0 0}.lst-kix_c54abzpeali5-8 > li:before{content:”” counter(lst-ctn-kix_c54abzpeali5-8,lower-roman) “. “}.lst-kix_c54abzpeali5-7 > li:before{content:”” counter(lst-ctn-kix_c54abzpeali5-7,lower-latin) “. “}ol.lst-kix_c54abzpeali5-6.start{counter-reset:lst-ctn-kix_c54abzpeali5-6 0}ol.lst-kix_iphwez8e0hvi-6.start{counter-reset:lst-ctn-kix_iphwez8e0hvi-6 0}.lst-kix_c54abzpeali5-5 > li:before{content:”” counter(lst-ctn-kix_c54abzpeali5-5,lower-roman) “. “}.lst-kix_c54abzpeali5-6 > li:before{content:”” counter(lst-ctn-kix_c54abzpeali5-6,decimal) “. “}.lst-kix_bckv81spu2ej-6 > li{counter-increment:lst-ctn-kix_bckv81spu2ej-6}.lst-kix_c54abzpeali5-4 > li{counter-increment:lst-ctn-kix_c54abzpeali5-4}ol.lst-kix_iphwez8e0hvi-6{list-style-type:none}ol.lst-kix_iphwez8e0hvi-7{list-style-type:none}ol.lst-kix_iphwez8e0hvi-4{list-style-type:none}ol.lst-kix_iphwez8e0hvi-5{list-style-type:none}.lst-kix_iphwez8e0hvi-0 > li{counter-increment:lst-ctn-kix_iphwez8e0hvi-0}ol.lst-kix_iphwez8e0hvi-8{list-style-type:none}.lst-kix_c54abzpeali5-5 > li{counter-increment:lst-ctn-kix_c54abzpeali5-5}.lst-kix_bckv81spu2ej-8 > li{counter-increment:lst-ctn-kix_bckv81spu2ej-8}.lst-kix_iphwez8e0hvi-1 > li{counter-increment:lst-ctn-kix_iphwez8e0hvi-1}ol.lst-kix_iphwez8e0hvi-0.start{counter-reset:lst-ctn-kix_iphwez8e0hvi-0 2}ol.lst-kix_iphwez8e0hvi-8.start{counter-reset:lst-ctn-kix_iphwez8e0hvi-8 0}ol.lst-kix_c54abzpeali5-8.start{counter-reset:lst-ctn-kix_c54abzpeali5-8 0}ol.lst-kix_c54abzpeali5-5.start{counter-reset:lst-ctn-kix_c54abzpeali5-5 0}.lst-kix_c54abzpeali5-6 > li{counter-increment:lst-ctn-kix_c54abzpeali5-6}.lst-kix_bckv81spu2ej-7 > li{counter-increment:lst-ctn-kix_bckv81spu2ej-7}ol.lst-kix_bckv81spu2ej-6.start{counter-reset:lst-ctn-kix_bckv81spu2ej-6 0}.lst-kix_c54abzpeali5-3 > li{counter-increment:lst-ctn-kix_c54abzpeali5-3}ol.lst-kix_iphwez8e0hvi-2{list-style-type:none}ol.lst-kix_iphwez8e0hvi-3{list-style-type:none}ol.lst-kix_iphwez8e0hvi-0{list-style-type:none}.lst-kix_iphwez8e0hvi-2 > li{counter-increment:lst-ctn-kix_iphwez8e0hvi-2}ol.lst-kix_iphwez8e0hvi-1{list-style-type:none}.lst-kix_c54abzpeali5-7 > li{counter-increment:lst-ctn-kix_c54abzpeali5-7}ol.lst-kix_iphwez8e0hvi-2.start{counter-reset:lst-ctn-kix_iphwez8e0hvi-2 0}.lst-kix_iphwez8e0hvi-3 > li{counter-increment:lst-ctn-kix_iphwez8e0hvi-3}.lst-kix_c54abzpeali5-1 > li{counter-increment:lst-ctn-kix_c54abzpeali5-1}ol.lst-kix_bckv81spu2ej-3.start{counter-reset:lst-ctn-kix_bckv81spu2ej-3 0}.lst-kix_bckv81spu2ej-1 > li{counter-increment:lst-ctn-kix_bckv81spu2ej-1}ol.lst-kix_c54abzpeali5-2.start{counter-reset:lst-ctn-kix_c54abzpeali5-2 0}ol.lst-kix_c54abzpeali5-3.start{counter-reset:lst-ctn-kix_c54abzpeali5-3 0}ol.lst-kix_iphwez8e0hvi-3.start{counter-reset:lst-ctn-kix_iphwez8e0hvi-3 0}ol.lst-kix_bckv81spu2ej-4.start{counter-reset:lst-ctn-kix_bckv81spu2ej-4 0}
+
+背景
+
+社群平台和通訊軟體近日流傳訊息指稱：
+
+「問：關於去施打COVID疫苗的前後 有沒有什麼是自己在作息 生活飲食或營養上可特別注意的答：疫苗的原理就是把病毒的基因序列 利用載體打入人體 讓身體的抗體 去認識這個病毒 並且練習去攻擊他 同時記住這個病毒的攻擊模式等到大規模病毒入侵的時候 身體就有自然的反應 可以去攻擊這個病毒所以身體的免疫系統 會有記憶病毒的能力但是在記憶病毒之前 本身的免疫系統要很強壯 數量要很多 這就取決於蛋白質平常的攝取是否足夠如果蛋白質攝取不足 那麼即使記憶了病毒 也沒有能力攻擊他這就是為什麼很多人打了疫苗 每個人的副作用都不一樣如果免疫系統比較強的人暈症狀就很輕微 甚至完全沒有感覺免疫系統比較差的人 打完疫苗就好像重感冒一樣 全身發燒 肌肉酸痛 全身無力甚至嚴重的人 還會有死亡的問題代表免疫系統太差 連防空演習都無法接受所以 如果想減輕疫苗的副作用 三餐就要認真吃提升免疫力的金三角也就是：蛋白質 維生素A 維生素C蛋白質 可以增加免疫系統的數量 也可以讓免疫系統比較強壯維生素A 可以讓黏膜組織比較健康 預防細菌病毒感染 降低呼吸道的症狀維生素C 可以提供免疫系統武器彈藥 同時也有消炎的效果按照西餐吃法 可以這樣吃：1.先吃一碗深綠色的青菜 這樣就有一份維生素A2.再吃兩份蛋白質的食物 兩份蛋白質的食物 其中一份可以用蕃茄炒蛋 紅蘿蔔炒蛋 山苦瓜炒蛋 玉米炒蛋 或是川七炒蛋九層塔炒蛋等這樣除了有一份蛋白質之外 又多了一份維生素A另外一份蛋白質可以用肉類 或是黃豆類的食物3.後面就不要吃飯 把澱粉改成木瓜 南瓜 紅蘿蔔 地瓜 西瓜 火龍果 芒果 玉米 酪梨等 柿子維生素A的食物這樣每一餐就有三份維生素A4.然後三個小時吃一顆奇異果 大量補充維生素C 而且奇異果也有維生素A這樣就有兩份蛋白質 四份維生素A 一份維生素C如果有益生菌的話 也可以三餐各一包讓腸道增加好菌 也可以協助提升免疫力這樣即使打完疫苗 或是真的被感染 症狀就會比較輕微」
+
+圖1：社群平台流傳訊息擷圖。
+
+傳言也有影片版本。
+
+圖2：通訊軟體7月26日起流傳影片版本。
+
+查核
+
+爭議點一、傳言宣稱「疫苗的原理就是把病毒的基因序列，利用載體打入人體，讓身體的抗體，去認識這個病毒，並且練習去攻擊他」，是否屬實？
+
+中央研究院生醫研究所兼任研究員何美鄉指出，傳言敘述應是AZ、嬌生開發的「腺病毒載體疫苗」，腺病毒載體疫苗是將病毒的特定基因序列放在載體上，再注射進人體；但像mRNA疫苗就沒有「載體」，而是用類似細胞膜的脂質，把病毒棘蛋白mRNA包起來，注射進入人體。
+
+另外，傳言後續說「讓身體的抗體來認識這個病毒」並不準確，正確來說，應是「讓抗體去認識病毒的抗原」。
+
+振興醫院感染科主治醫師顏慕庸指出，疫苗有很多種，其運作機制各有不同，傳言描述過於籠統，也不代表所有疫苗的機制。
+
+爭議點二、傳言稱「（免疫系統）在記憶病毒之前，本身的免疫系統要很強壯，取決於蛋白質平常的攝取是否足夠…如果蛋白質攝取不足，那麼即使記憶了病毒，也沒有能力攻擊他」，是否屬實？
+
+顏慕庸指出，「攝取蛋白質」和「疫苗效果」之間沒有直接的相關性。攝取蛋白質是供給人體營養均衡之所需，人體需要蛋白質、碳水化合物、脂肪，以及多種維生素、礦物質……等，構成人體正常運作的有機體。人體對抗外來的抗原所形成的保護作用，是一套複雜的免疫機轉，除了營養均衡外，和情緒、壓力也有關，並不是只有攝取蛋白質這麼簡單，傳言過於簡化。
+
+何美鄉指出，免疫系統的運作需要多種營養素，包括各種維生素，並不是補充蛋白質就足夠。
+
+爭議點三、傳言宣稱「如果免疫系統比較強的人暈症狀就很輕微，甚至完全沒有感覺，免疫系統比較差的人，打完疫苗就好像重感冒一樣，全身發燒、肌肉酸痛、全身無力甚至嚴重的人還會有死亡的問題」，是否屬實？
+
+（一）顏慕庸指出，免疫系統的好壞和疫苗副作用的強弱沒有絕對的關係。發燒是人體對外來的抗原反應的過程，所以是免疫反應的結果，有這些副作用是正常的，但是沒有說免疫系統越強，反應就越強。
+
+（二）陽明交通大學臨床醫學研究所副教授陳斯婷指出，以AZ疫苗來說，發燒、頭痛等副作用，是人體對於腺病毒載體在進行免疫反應。免疫力弱的人，因為其免疫系統沒有被病毒感染而活化，理論上比較不會有太多免疫反應。目前也觀察到，長者接種AZ疫苗後產生的倦怠感，發燒、不適，其程度沒有年輕人高。
+
+陳斯婷也強調，免疫力強的人，不見得副作用就比較強，兩者沒有絕對的關聯。此外，發燒程度的高低，不代表在未來抗體生成效價的高低。而且發燒是「先天免疫反應」，和「免疫力」不一樣。
+
+（三）何美鄉指出，免疫系統與接種疫苗產生的副作用，兩者不是一對一的相關。但就目前所觀察到，年輕人在接種疫苗後，免疫反應比年長者強烈，因此副作用比較明顯。
+
+何美鄉強調，臨床上沒有觀察到因為免疫系統差，打疫苗後引發重症死亡的現象。對於目前台灣接種疫苗後死亡的個案，死因仍在調查中，尚未證明死因和疫苗有因果關係。
+
+爭議點四、傳言宣稱「如果想減輕疫苗的副作用，三餐就要認真吃提升免疫力的金三角…蛋白質 維生素A 維生素C」，是否屬實？
+
+顏慕庸指出，補充特定營養素的觀念不正確，應該均衡飲食，攝取多樣營養素來源，並保持好心情、充足睡眠，才是維持免疫系統正常的狀態。
+
+陳斯婷指出，「免疫力」跟「免疫反應」不一樣，免疫反應是當下對這個外來物的刺激所產生的反應；「免疫力」是一個保護力的作用，在打疫苗的前一兩天，其實不需要有「免疫力」來保護身體。攝取蛋白質、維生素可以增加免疫力，但和「免疫反應」沒有劃上等號。
+
+陳斯婷補充，因為疫苗打完後會有倦怠感、食慾不振等類似感冒的症狀，可以多喝水、多休息，但這跟「免疫力」沒有關係。
+
+爭議點五、傳言宣稱「如果有益生菌的話 也可以三餐各一包讓腸道增加好菌 也可以協助提升免疫力」，是否屬實？
+
+顏慕庸指出，益生菌跟免疫系統沒有直接關聯，而且益生菌有很多種，要攝取適合自己的益生菌，才會對健康有幫助。
+
+陳斯婷指出，「免疫力」和「免疫反應」不一樣，打完疫苗，身體會對這個疫苗會短暫產生發燒、倦怠、嘔吐的症狀，這是短期的「免疫反應」，和傳言所稱的「免疫力」沒有直接關聯。
+
+結論
+
+【報告將隨時更新 2021/6/21版】
+
+一、專家指出，傳言敘述疫苗的原理，是AZ、嬌生疫苗採用的「腺病毒載體疫苗」，不代表所有疫苗的原理。
+
+二、專家指出，免疫機轉非常複雜，免疫系統的正常運作需要營養均衡，並與情緒、壓力也有關聯，並不是攝取蛋白質、維生素A、維生素C等特定營養就足夠。
+
+三、專家指出，免疫系統與接種疫苗產生的副作用，兩者沒有絕對的關聯。就目前所觀察，年輕人接種疫苗後，免疫反應比年長者強烈，副作用比較明顯。傳言宣稱「免疫系統強，打疫苗副作用較輕微」，為錯誤說法。
+
+四，專家指出，「免疫力」跟「免疫反應」不同，免疫反應是當下對特定外來物的刺激所產生的反應；「免疫力」是一個長期保護力的作用。傳言建議「打疫苗前補充特定營養成分來提升免疫力，以減輕副作用」，是混淆「免疫力」和「免疫反應」兩者。
+
+因此，傳言為「錯誤」訊息。
+
+【查核聲明】資訊若有更新，本報告亦會同步更新。
+
+〈首圖來源：Pixabay；作者：zuzyusa〉

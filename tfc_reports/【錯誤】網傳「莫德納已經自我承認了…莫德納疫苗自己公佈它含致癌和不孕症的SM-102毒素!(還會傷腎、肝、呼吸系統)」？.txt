@@ -1,0 +1,129 @@
+標題：【錯誤】網傳「莫德納已經自我承認了…莫德納疫苗自己公佈它含致癌和不孕症的SM-102毒素!(還會傷腎、肝、呼吸系統)」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-6065/
+--------------------------------------------------
+
+【報告將隨時更新 2021/7/28版】
+
+一、SM-102是莫德納疫苗專有的脂質成份。專家指出，脂質在疫苗中的作用是，讓mRNA順利遞送至人體細胞之中。
+
+二、網傳文章引用 Cayman Chemicals公司的化學安全資料報告，而這份報告記錄的產品為「90% 的氯仿和 10% 的 SM-102」。其中的有害成份是氯仿，並非SM-102。
+
+因此，傳言錯誤解讀Cayman Chemicals公司的化學安全資料報告，宣稱「SM-102會致癌和不孕症，還會傷腎、肝、呼吸系統」，為「錯誤」訊息。
+
+【查核聲明】疫情資訊若有更新，本報告亦會同步更新。
+
+背景
+
+社群平台與通訊群組在2021年7月間流傳一則訊息：「?勁爆消息?
+
+莫得納已經自我承認了！快分享給親友廣傳❕❕❕」
+
+傳言同時附上一支連結，該連結網站為「純正福音和復興網站」，網站文章發布於2021年7月2日，其宣稱：「莫德納疫苗自己公佈它含致癌和不孕症的SM-102毒素!(還會傷腎、肝、呼吸系統)
+
+Moderna vaccine Contains Deadly Poison SM-102 that causes cancer and infertility」
+
+此網站文章在2021年7月25日修改，稱：「證據已被更改」。
+
+傳言有多種版本，亦有傳言以圖文的形式流傳。
+
+圖1：社群平台傳言擷圖。
+
+圖2：社群平台傳言擷圖。
+
+圖3：網傳圖文擷圖。
+
+查核
+
+爭議點一、莫德納疫苗是否含有「SM-102」成份？SM-102 的作用為何？
+
+（一）查核中心查找莫德納官網，找到〈供疫苗接受者和照顧者使用的情況說明書〉，其中指出，莫德納疫苗的成份包括mRNA、脂質等，而SM-102即為脂質的成份之一。
+
+查核中心同時找到莫德納在2020年12月23日公布的第3期試驗疫苗說明文件。這份文件指出，莫德納疫苗中的脂質，由四種成份組成，其中之一為SM-102，這是莫德納專有的可游離脂質（the proprietary ionizable lipid），其化學式為「heptadecan-9-yl 8-((2-hydroxyethyl) (6-oxo-6-(undecyloxy) hexyl) amino) octanoate」。
+
+（二）查核中心採訪食藥署。食藥署表示，莫德納疫苗確實含有SM-102成分，SM-102為一種脂質，是用於將 mRNA 運送到疫苗接種者的細胞中，SM-102並非毒素。
+
+（三）查核中心諮詢國衛院感染症與疫苗研究所副研究員級主治醫師齊嘉鈺。她表示，mRNA非常脆弱，環境和人體中的酶會迅速將mRNA切成碎片，而且mRNA鏈帶負電荷，造成它無法輕易地穿過人體細胞的脂質膜。因此，要成功將mRNA遞送至人體細胞內，是一項高難度的挑戰。脂質奈米顆粒的設計是為解決上述遞送系統的難題。
+
+根據莫德納疫苗成分表，SM-102為其中一種脂質成分。齊嘉鈺說，為了做到結構穩定、隨著環境pH值而改變電荷、延長顆粒的活性等特性，所以脂質奈米顆粒的組成非常精密，莫德納和輝瑞/BNT疫苗各有各的獨門配方。疫苗是為了預防人生病，理應不會放進有毒的物質。
+
+（四）台北榮民總醫院臨床毒物與職業醫學科主治醫師楊振昌協助查找外國醫療文獻，並沒有找到有關SM-102有毒的相關資料，傳言應是謠言。
+
+爭議點二、網傳文章所引用的資料為何？是否支持其宣稱「SM-102會致癌和不孕症，還會傷腎、肝、呼吸系統」？
+
+查核中心檢視網傳文章，其共引用兩份資料。
+
+資料一：Cayman Chemicals的化學安全資料報告
+
+（一）網傳文章在資料一的後方標註「這是證據」，查核中心點入該資料連結，為陰謀論網站「infowars」刊登於2021年5月19日的英文文章〈恐怖重磅炸彈！康涅狄格州警告 Moderna VAX 含有致命毒藥〉（Horrifying Bombshell! Connecticut Warns Moderna VAX Contains Deadly Poison），其論述與網傳文章相同，包括引用Cayman Chemicals的化學安全資料報告，指稱「SM-102毒素是危險的，碰到皮膚是會致命的」。
+
+（二）查核中心找到 Cayman Chemicals 發布於2021年5月19日的聲明稿〈SM-102僅供研究使用〉（SM-102 for Research Use Only (RUO)）。
+
+新聞稿中指出，Cayman Chemical 公司開發和製造僅供研究使用的化合物（RUO），並擁有一個獨立的業務部門，生產用於人類和獸醫用途的小分子作為活性藥物成分。產品編號＃33474的「SM-102」是 Cayman Chemical 其中一項RUO級產品，僅用於體外實驗或動物實驗，而這項產品的化學安全資料報告中精準地指出，該產品中的化學品混合物，是 90% 的氯仿（Chloroform，一種常用溶劑）和 10% 的 SM-102。
+
+這份新聞稿同時指出，氯仿是一種常見的溶劑，但有幾種已知的嚴重危害，被記錄在Cayman公司公布的化學安全資料報告中；至於SM-102，在美國國家職業安全與健康研究所 （NIOSH）、化學物質毒性作用登記處（RTECS） 或歐洲化學品管理局（ECHA）的資料庫中，均未列出與SM-102相關的任何危害。
+
+（三）查核中心在 Cayman Chemicals 網站上找到化學安全資料報告，是5月26日更新版。
+
+查核中心檢視網傳文章，其所引用的化學安全資料報告之擷圖上，顯示版本日期為2021年4月11日」，因此查核中心利用網站備份工具，找到 Cayman Chemicals 公司發布於4月11日的「化學安全資料報告」之備份。
+
+查核中心比對4月11日的版本以及5月26日的版本，後者已將品名從「SM-102」更新為「 SM-102 in Chloroform」，但兩份文件均明確指出，這份報告所指的產品，是一項化學混合物，為「下列物質與無害添加物的混合物」，其中的有害物質為氯仿（Chloroform，一種常用溶劑），比例為90%，其它成份則為SM-102，比例為 10%。
+
+圖4： Cayman 公司在4月11日發布的化學安全資料報告指出，該報告指稱的產品，其成份為 90% 的氯仿和 10% 的 SM-102，其中的有害成份為氯仿。
+
+綜合以上，網傳文章引用5月19日發布的陰謀論網站文章，以及Cayman Chemical 公司發布於4月11日化學安全資料報告指稱「SM-102會致癌和不孕症，還會傷腎、肝、呼吸系統」，這份報告所指稱的產品，其成份為「90% 的氯仿和 10% 的 SM-102」，並不是100%的 SM-102，且其中的有害成份是氯仿，而非SM-102，SM-102本身並未有已知的危害。
+
+資料二：衛福部的疫苗介紹
+
+網傳文章引用的第二份資料，為衛福部疾管署網站上的「疫苗簡介」。根據這份簡介，莫德納疫苗的成份包含：脂類｛SM-102、聚乙二醇[PEG] 2000 二肉豆蔻醯基甘油 [DMG]、膽固醇、1，2-二硬脂醯基-sn-甘油-3-磷酸膽鹼 (DSPC)｝、氨丁三醇、鹽酸氨丁三醇、乙酸、乙酸鈉和蔗糖。
+
+但這份簡介中，並未指出「SM-102會致癌和不孕症，還會傷腎、肝、呼吸系統」。
+
+爭議點三、此傳言流傳程度為何？
+
+查核中心找到《FactCheck.org》、《FullFact》、《LeadStories》、《Delfi》、《Malumatfuruş》、《Ellinikahoaxes.gr》、《Facta》等查核組織的查核報告，以及《美聯社》、《路透社》、《澳聯社》、《法新社》、《USA Today》等媒體對此傳言的查核，查證結果均指出，傳言宣稱「莫德納含有毒成份SM-102」，為不實訊息。
+
+綜合上述查核報告與媒體報導，此傳言有英文、立陶宛文、土耳其文、希臘文、義大利文等多種語言版本，於2021年5月間廣為流傳，而英文版傳言除了文字形式，另有影片形式，並透過Instagram、Facebook、TikTok等形式流傳。
+
+結論
+
+一、SM-102是莫德納疫苗專有的脂質成份。專家指出，脂質在疫苗中的作用是，讓mRNA順利遞送至人體細胞之中。
+
+二、網傳文章引用 Cayman Chemicals公司的化學安全資料報告，而這份報告紀錄的產品為「90% 的氯仿和 10% 的 SM-102」，其中的有害成份是氯仿，並非SM-102。
+
+因此，傳言錯誤解讀Cayman Chemicals公司的化學安全資料報告，宣稱「SM-102會致癌和不孕症，還會傷腎、肝、呼吸系統」，為「錯誤」訊息。
+
+參考資料
+
+Moderna – 供疫苗接受者和照顧者使用的情況說明書
+
+Moderna – the Phase 3 COVE Study Protocol
+
+Cayman Chemicals – SM-102 for Research Use Only (RUO)
+
+Cayman Chemicals – Safety Data Sheet（2021/5/26）
+
+Cayman Chemicals – Safety Data Sheet（2021/4/11）
+
+FactCheck.org〈Vaccine Ingredient SM-102 Is Safe〉
+
+FullFact〈The Moderna vaccine contains SM-102 not chloroform〉
+
+LeadStories〈Fact Check: Material Safety Warnings for ＇Deadly Poison SM-102＇ Are NOT For The Form Used In Moderna＇s COVID Vaccine〉
+
+Delfi〈Skirtingai nei teigia skiepų priešininkai, „Moderna“ vakcinos ingredientas SM-102 žmonių sveikatai nekenkia〉
+
+Malumatfuruş〈Aşılardaki SM-102 Adlı Maddenin Sağlığa Zararlı Olduğu İddiası〉
+
+Ellinikahoaxes.gr〈Όχι, το εμβόλιο της Moderna ΔΕΝ περιέχει θανατηφόρα χημική ένωση〉
+
+Facta〈L’INGREDIENTE SM-102 DEL VACCINO MODERNA NON È TOSSICO〉
+
+美聯社〈Moderna vaccine ingredient falsely targeted as unsafe〉
+
+路透社〈Fact Check-SM-102 lipid in Moderna COVID-19 vaccine is not harmful〉
+
+澳聯社〈Moderna ‘toxic’ vaccine claim a potent dose of misinformation〉
+
+法新社〈Video falsely claims Moderna Covid-19 vaccine contains unsafe ingredient〉
+
+USA Today〈Fact check: Moderna vaccine does not include poisonous substances〉

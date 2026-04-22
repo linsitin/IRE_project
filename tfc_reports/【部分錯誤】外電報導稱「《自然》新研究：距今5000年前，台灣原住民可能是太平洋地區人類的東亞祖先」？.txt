@@ -1,0 +1,105 @@
+標題：【部分錯誤】外電報導稱「《自然》新研究：距今5000年前，台灣原住民可能是太平洋地區人類的東亞祖先」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-5403/
+--------------------------------------------------
+
+一、外電引述的研究為〈大洋洲族群史和生物適應的基因組見解〉，2021年4月14日發表於《自然》（Nature）。此研究為了解現代智人大洋洲特定人群的起源、演化與親緣關係。
+
+二、該研究摘要指出，「太平洋族群源自東亞的祖先（起源），和台灣原住民分家的年代，可能早於一般認為距今 5000 年前，新石器時代的擴張時期。」 但外電報導誤譯為「距今5000年之前，台灣原住民是太平洋地區人類的東亞祖先。」
+
+三、專家表示，遺傳學者的探討「現代人群間是否有共祖」，提出大洋洲沿岸人與台灣原住民有基因共祖，時間點約為5千年之前。研究未討論「誰是誰的祖先」，也未提到證據或說法支持「太平洋沿岸東亞人祖先可能源自台灣」。
+
+因此，媒體外電報導為「部分錯誤」訊息。
+
+圖文版（可左右滑動）
+
+台灣事實查核中心（@taiwan_factcheckcenter）分享的貼文
+
+背景
+
+2021年4月有多家媒體的外電報導指稱，「《自然》期刊（Nature）刊出法國國家科學研究中心（CNRS）研究員坤塔納-馬奇（Lluis Quintana-Murci）的最新太平洋人種研究。摘要指稱，距今5000年的新石器時代擴張時期之前，台灣原住民可能是太平洋地區人類的東亞祖先。」
+
+外電報導的標題更指稱，「中國崩潰！《自然》新研究：太平洋沿岸東亞人祖先可能源自台灣。」
+
+圖1-2：媒體外電報導擷圖
+
+查核
+
+爭議點一、外電報導提到的研究為何？其研究內容及方法為何 ?
+
+（一）經查核中心檢索，此研究全名為〈大洋洲族群史和生物適應的基因組見解〉（Genomic insights into population history and biological adaptation in Oceania），研究團隊由法國國家科學中心（CNRS）巴斯德研究所人類進化遺傳學系（Human Evolutionary Genetics Unit, Institut Pasteur）研究員艾蒂安·帕汀（Etienne Patin）以及路易斯·金塔納·穆爾奇（Lluis Quintana-Murci）共同領導。該研究在2021年4月14日發表於《自然》期刊（Nature）。
+
+（二）查核中心透過新興科技媒體中心（Science Media Center Taiwan）訪問國立自然科學博物館人類學組助理研究員陳叔倬、中央研究院社會學研究所研究員蔡友月，解讀此篇研究。
+
+陳叔倬說，此篇研究收錄現代人群大洋洲相關20人群、共462人的35,870,981單核苷酸位點突變分布，並與古人類丹尼索瓦人基因、尼安德塔人基因進行對比，比較人群間起源、基因交流以及自古人類演化至今適應的歷史。
+
+陳叔倬說，大洋洲人始祖起源、基因交流相關研究論文過去發表非常多，此論文提出更多的基因組資訊進行討論，並與古人類基因進行演化適應比對，是較新的嘗試。
+
+（三）蔡友月說，該論文的研究方法先以全基因組定序，再藉由主成分分析、ADMIXTURE軟體、FST遺傳距離等方法來了解大洋洲特定族群的起源、演化與親緣關係。
+
+此研究的群體是近大洋洲（Near Oceania）新幾內亞島、俾斯麥群島、所羅門群島以及遠大洋洲（Remote Oceania）西部的萬那杜群島的人群。也包含南島民族如泰雅族、魯凱族與菲律賓人樣本。
+
+爭議點二、外電報導引述研究指稱，「摘要指稱，距今5000年的新石器時代擴張時期之前，台灣原住民可能是太平洋地區人類的東亞祖先」、「東亞人祖先可能就是台灣人」等，外電報導是否符合研究內容？
+
+（一）研究的摘要是否符合外電報導的內容？
+
+查核中心檢視研究摘要，並諮詢寒波（演化人類學「盲眼的尼安德塔石器匠」粉專版主）協助翻譯校正。
+
+查核中心檢視，外電報導稱「距今5000年的新石器時代擴張時期之前，台灣原住民可能是太平洋地區人類的東亞祖先。」是出自研究摘要的其中一段：
+
+We infer that the East Asian ancestors of Pacific populations may have diverged from Taiwanese Indigenous peoples before the Neolithic expansion, which is thought to have started from Taiwan around 5,000 years ago.
+
+寒波表示，此段應正確翻譯為：「我們推斷，太平洋族群源自東亞的祖先（起源），和台灣原住民分家的年代，可能早於一般認為距今 5000 年前，新石器時代的擴張時期。」
+
+意指，台灣原住民與源自東亞的大洋洲地區人類，分家各自發展超過 5000 年，比新石器時代南島擴張的年代更早，無法以此確認太平洋人群直接源自台灣。
+
+寒波表示，外電報導應為誤讀原文，誤譯成「台灣原住民是太平洋地區人類的東亞祖先。」
+
+（二）如何正確解讀研究發現？
+
+陳叔倬解釋，所有現代智人（modern human）為同一人種，人類的基因組成在遷徙過程中產生人群差異、也產生基因交流，故現代人群的基因組成，與1千年前、5千年前、1萬年前、5萬年前的人群不同。因此遺傳學者根據現代人群的基因組成，討論議題的方式就是「現代人群間是否有共祖（相同的祖先來源）」，而非「現代人群誰是誰的祖先」。共祖是生物學者討論議題的方式，譬如人與黑猩猩700萬年前有共祖，爾後逐漸分別發展，而不是黑猩猩是人的祖先。
+
+至於如何解讀此研究的發現，陳叔倬說，「此文章提出，大洋洲沿岸人與台灣原住民有基因共祖，時間點約為5千年前，之後才分家。此外大洋洲沿岸人與巴布亞人亦有基因共祖，時間點為2-4萬年前。
+
+蔡友月說，此論文的重點在探討近大洋洲（新幾內亞島、俾斯麥群島、所羅門群島）以及遠大洋洲西部（萬那杜群島）人群的起源與遷徙。而近大洋洲的人群主要是巴布亞人（Papuan）而非南島民族。雖然文中有提及南島民族在該地區人群的遷徙過程中可能扮演的角色，但台灣並不是該論文的重點。
+
+蔡友月強調，該論文與台灣相關的發現為，遺傳上，台灣原住民與其他南島民族在7,300年前分家，早於過去學者認為是4,800年前的南島民族新石器時代（農業）擴散。但並未在文章中提到證據或說法支持「太平洋沿岸東亞人祖先可能源自台灣」。
+
+蔡友月說，事實上這篇研究的主要焦點並非是台灣，考古證據顯示，現代人類45,000年前到達近大洋洲，該論文研究結果發現近大洋洲人群，如新幾內亞島人群、俾斯麥群島和所羅門群島人群在39,000年前分家；俾斯麥群島人群、所羅門群島人群在20,000年前分家。遠大洋洲西部的萬那杜群島人群主要源於近大洋洲人群，其基因庫中僅有少於3%的比例來自台灣原住民。
+
+蔡友月說，該文章另一個重點是在探討丹尼索瓦人和尼安德塔人這些古人類的基因，在近大洋洲以及遠大洋洲西部人群的分佈狀況，以及這些古人類基因對這些大洋洲民族環境適應的影響。
+
+綜合以上，外電報導「研究摘要指稱，距今5000年之前，台灣原住民可能是太平洋地區人類的東亞祖先。」為錯誤翻譯，學術研究指出「太平洋族群源自東亞的祖先（起源），和台灣原住民分家的年代，可能早於一般認為距今 5000 年前，新石器時代的擴張時期。」
+
+專家指稱，此研究是根據現代人群的基因組成，探討「現代人群間是否有共祖」，因此，應正確解讀研究為，「大洋洲沿岸人與台灣原住民有基因共祖，時間點約為5千年之前，之後才分家。」
+
+結論
+
+一、外電引述的研究為〈大洋洲族群史和生物適應的基因組見解〉，2021年4月14日發表於《自然》（Nature）。此研究為了解現代智人大洋洲特定人群的起源、演化與親緣關係。
+
+二、該研究摘要指出，「太平洋族群源自東亞的祖先（起源），和台灣原住民分家的年代，可能早於一般認為距今 5000 年前，新石器時代的擴張時期。」 但外電報導誤譯為「距今5000年之前，台灣原住民是太平洋地區人類的東亞祖先。」
+
+三、專家表示，遺傳學者的探討「現代人群間是否有共祖」，提出大洋洲沿岸人與台灣原住民有基因共祖，時間點約為5千年之前。研究未討論「誰是誰的祖先」，也未提到證據或說法支持「太平洋沿岸東亞人祖先可能源自台灣」。
+
+因此，媒體外電報導為「部分錯誤」訊息。
+
+參考資料
+
+〈大洋洲族群史和生物適應的基因組見解〉（Genomic insights into population history and biological adaptation in Oceania）
+
+補充資料
+
+查核中心諮詢寒波（演化人類學「盲眼的尼安德塔石器匠」版主）協助研究摘要翻譯校正。
+
+以下為研究摘要翻譯全文中英對照：
+
+認識人類散佈、與古人類之間的關係，以及天擇過程這些問題，太平洋地區十分重要。然而，大洋洲族群之人口統計和適應的歷史，卻多有未知。這篇研究中，我們報告 317 個高覆蓋率基因組，來自太平洋地區的 20 個族群。
+
+The Pacific region is of major importance for addressing questions regarding human dispersals, interactions with archaic hominins and natural selection processes1. However, the demographic and adaptive history of Oceanian populations remains largely uncharacterized. Here we report high-coverage genomes of 317 individuals from 20 populations from the Pacific region.
+
+我們發現巴布亞相關族群（近大洋洲）的祖先，在移民進入目前的地區之前，經歷過強烈地瓶頸效應，隨後在距今 2 到 4 萬年前之間，分化成為目前的分佈狀態。我們推斷太平洋族群源自東亞的祖先，和台灣原住民分家的年代，可能早於一般認為距今 5000 年前起，新石器時代的擴張。除此之外，此一散佈過後，和近大洋洲族群之間的遺傳交流，並非迅速發生的一次性事件，而是多次反覆的過程。
+
+We find that the ancestors of Papuan-related (‘Near Oceanian’) groups underwent a strong bottleneck before the settlement of the region, and separated around 20,000–40,000 years ago. We infer that the East Asian ancestors of Pacific populations may have diverged from Taiwanese Indigenous peoples before the Neolithic expansion, which is thought to have started from Taiwan around 5,000 years ago. Additionally, this dispersal was not followed by an immediate, single admixture event with Near Oceanian populations, but involved recurrent episodes of genetic interactions.
+
+我們的分析也釐清，太平洋地區的族群們各自傳承，不同的丹尼索瓦人遺傳比例和成分，意謂高度結構分化的古人類族群們，或許曾經獨立與太平洋族群們混血。另外，儘管尼安德塔人對智人的遺傳滲入，在促進適應的項目和多種表現型（例如代謝、色素形成和神經發育）相關，丹尼索瓦人的遺傳滲入，則主要有利於免疫相關功能。最後我們報告在太平洋地區，和病原體暴露與脂質代謝，相關的選汰掃蕩與多基因適應，增進我們對島嶼環境下，生物適應的認識。
+
+Our analyses reveal marked differences in the proportion and nature of Denisovan heritage among Pacific groups, suggesting that independent interbreeding with highly structured archaic populations occurred. Furthermore, whereas introgression of Neanderthal genetic information facilitated the adaptation of modern humans related to multiple phenotypes (for example, metabolism, pigmentation and neuronal development), Denisovan introgression was primarily beneficial for immune-related functions. Finally, we report evidence of selective sweeps and polygenic adaptation associated with pathogen exposure and lipid metabolism in the Pacific region, increasing our understanding of the mechanisms of biological adaptation to island environments.

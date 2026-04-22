@@ -1,0 +1,95 @@
+標題：【部分錯誤】媒體報導「日本接種率低 揭4黑歷史…日本在接種類風濕性關節炎疫苗的時候，因為劑量過重，所以也導致22人罹患間質性肺炎，甚至有9個人死亡」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-5862/
+--------------------------------------------------
+
+【報告將隨時更新 2021/06/23版】
+
+一、新聞媒體所提到的事件，為2003年至2006年間，22名風濕關節炎病患被回報使用「來氟米特」後有肺損傷，其中9人死亡；這9人中，有8名預先存在間質性肺炎。事件中的「來氟米特」是治療風濕關節炎的其中一種藥物，不是疫苗。
+
+二、醫師指出，目前沒有針對類風濕性關節炎的疫苗。
+
+三、醫師表示，類風濕關節炎患者可以接種新冠疫苗，但部份藥物可能影響疫苗效力，因此建議患者接種新冠疫苗前先諮詢醫師，安排合適的接種時間。
+
+媒體報導稱「類風濕性關節炎疫苗在日本導致22人罹患間質性肺炎，9人死亡」，為「部分錯誤」訊息。
+
+【查核聲明】疫情資訊若有更新，本報告亦會同步更新。
+
+.lst-kix_vmzp8so4g71a-8 > li:before{content:”■  “}.lst-kix_9f7b35bdvwbl-8 > li:before{content:”■  “}.lst-kix_9f7b35bdvwbl-7 > li:before{content:”○  “}.lst-kix_9f7b35bdvwbl-6 > li:before{content:”●  “}.lst-kix_vmzp8so4g71a-2 > li:before{content:”■  “}.lst-kix_9f7b35bdvwbl-4 > li:before{content:”○  “}.lst-kix_9f7b35bdvwbl-3 > li:before{content:”●  “}.lst-kix_9f7b35bdvwbl-5 > li:before{content:”■  “}.lst-kix_vmzp8so4g71a-1 > li:before{content:”○  “}.lst-kix_vmzp8so4g71a-0 > li:before{content:”●  “}.lst-kix_9f7b35bdvwbl-1 > li:before{content:”○  “}.lst-kix_9f7b35bdvwbl-2 > li:before{content:”■  “}.lst-kix_v855t23cb9lw-0 > li:before{content:”●  “}ul.lst-kix_9gg4iuw7425p-7{list-style-type:none}ul.lst-kix_vmzp8so4g71a-7{list-style-type:none}ul.lst-kix_9gg4iuw7425p-8{list-style-type:none}.lst-kix_v855t23cb9lw-1 > li:before{content:”○  “}.lst-kix_v855t23cb9lw-2 > li:before{content:”■  “}ul.lst-kix_vmzp8so4g71a-6{list-style-type:none}ul.lst-kix_9gg4iuw7425p-5{list-style-type:none}ul.lst-kix_vmzp8so4g71a-5{list-style-type:none}ul.lst-kix_9gg4iuw7425p-6{list-style-type:none}ul.lst-kix_vmzp8so4g71a-4{list-style-type:none}ul.lst-kix_9gg4iuw7425p-3{list-style-type:none}ul.lst-kix_9gg4iuw7425p-4{list-style-type:none}ul.lst-kix_9gg4iuw7425p-1{list-style-type:none}ul.lst-kix_v855t23cb9lw-8{list-style-type:none}ul.lst-kix_9gg4iuw7425p-2{list-style-type:none}ul.lst-kix_v855t23cb9lw-7{list-style-type:none}ul.lst-kix_vmzp8so4g71a-8{list-style-type:none}.lst-kix_9f7b35bdvwbl-0 > li:before{content:”●  “}ul.lst-kix_v855t23cb9lw-6{list-style-type:none}.lst-kix_v855t23cb9lw-5 > li:before{content:”■  “}ul.lst-kix_v855t23cb9lw-5{list-style-type:none}ul.lst-kix_v855t23cb9lw-4{list-style-type:none}ul.lst-kix_v855t23cb9lw-3{list-style-type:none}ul.lst-kix_v855t23cb9lw-2{list-style-type:none}ul.lst-kix_v855t23cb9lw-1{list-style-type:none}.lst-kix_v855t23cb9lw-3 > li:before{content:”●  “}.lst-kix_v855t23cb9lw-4 > li:before{content:”○  “}ul.lst-kix_v855t23cb9lw-0{list-style-type:none}.lst-kix_3lz90njhuqfy-7 > li:before{content:”○  “}.lst-kix_3lz90njhuqfy-4 > li:before{content:”○  “}.lst-kix_3lz90njhuqfy-8 > li:before{content:”■  “}.lst-kix_v855t23cb9lw-6 > li:before{content:”●  “}.lst-kix_3lz90njhuqfy-5 > li:before{content:”■  “}ul.lst-kix_vmzp8so4g71a-3{list-style-type:none}.lst-kix_v855t23cb9lw-7 > li:before{content:”○  “}.lst-kix_v855t23cb9lw-8 > li:before{content:”■  “}ul.lst-kix_vmzp8so4g71a-2{list-style-type:none}ul.lst-kix_vmzp8so4g71a-1{list-style-type:none}.lst-kix_3lz90njhuqfy-6 > li:before{content:”●  “}ul.lst-kix_vmzp8so4g71a-0{list-style-type:none}.lst-kix_3lz90njhuqfy-1 > li:before{content:”○  “}.lst-kix_3lz90njhuqfy-0 > li:before{content:”●  “}.lst-kix_9gg4iuw7425p-0 > li:before{content:”●  “}.lst-kix_3lz90njhuqfy-3 > li:before{content:”●  “}.lst-kix_9gg4iuw7425p-1 > li:before{content:”○  “}.lst-kix_3lz90njhuqfy-2 > li:before{content:”■  “}ul.lst-kix_9gg4iuw7425p-0{list-style-type:none}ul.lst-kix_3lz90njhuqfy-8{list-style-type:none}ul.lst-kix_3lz90njhuqfy-7{list-style-type:none}ul.lst-kix_3lz90njhuqfy-6{list-style-type:none}.lst-kix_9gg4iuw7425p-7 > li:before{content:”○  “}ul.lst-kix_3lz90njhuqfy-1{list-style-type:none}ul.lst-kix_3lz90njhuqfy-0{list-style-type:none}.lst-kix_9gg4iuw7425p-8 > li:before{content:”■  “}ul.lst-kix_3lz90njhuqfy-5{list-style-type:none}ul.lst-kix_3lz90njhuqfy-4{list-style-type:none}ul.lst-kix_3lz90njhuqfy-3{list-style-type:none}ul.lst-kix_3lz90njhuqfy-2{list-style-type:none}.lst-kix_9gg4iuw7425p-2 > li:before{content:”■  “}.lst-kix_9gg4iuw7425p-4 > li:before{content:”○  “}.lst-kix_vmzp8so4g71a-3 > li:before{content:”●  “}ul.lst-kix_9f7b35bdvwbl-1{list-style-type:none}ul.lst-kix_9f7b35bdvwbl-0{list-style-type:none}.lst-kix_9gg4iuw7425p-3 > li:before{content:”●  “}.lst-kix_vmzp8so4g71a-4 > li:before{content:”○  “}ul.lst-kix_9f7b35bdvwbl-5{list-style-type:none}ul.lst-kix_9f7b35bdvwbl-4{list-style-type:none}ul.lst-kix_9f7b35bdvwbl-3{list-style-type:none}ul.lst-kix_9f7b35bdvwbl-2{list-style-type:none}.lst-kix_9gg4iuw7425p-6 > li:before{content:”●  “}.lst-kix_vmzp8so4g71a-5 > li:before{content:”■  “}.lst-kix_vmzp8so4g71a-7 > li:before{content:”○  “}ul.lst-kix_9f7b35bdvwbl-8{list-style-type:none}ul.lst-kix_9f7b35bdvwbl-7{list-style-type:none}ul.lst-kix_9f7b35bdvwbl-6{list-style-type:none}.lst-kix_9gg4iuw7425p-5 > li:before{content:”■  “}.lst-kix_vmzp8so4g71a-6 > li:before{content:”●  “}
+
+背景
+
+新聞媒體在2021年6月20日報導「日本接種率低 揭4黑歷史」，該報導指稱，日本新冠疫苗施打率低，與日本人對疫苗沒有信心有相關性，報導同時指稱：「我們就來看到日本他們疫苗的相關歷史，在美軍攻佔日本的時候呢，日本他們是沿用了美方的預防接種方法，但是這樣的方法也讓他們有些針頭重複使用的狀況，因為當時日本的公衛觀念並沒有這麼的進步，沒有那麼發達，所以也間接導致了有六十八名的嬰兒接種白喉疫苗之後死亡，甚至有超過四十三萬人感染了B型肝炎。
+
+而相關爭議其實還不少，還有這一件，日本在接種麻疹疫苗的時候引發了腦膜炎，也讓日本他們付出巨額的賠償，預防接種的方法之後也慢慢改變成「強烈建議接種」了。另外還有看到這個，就是日本在接種HPV疫苗的時候呢，有一些女性，出現了肌肉痠痛還有睡眠障礙等等的症狀，因此也讓日本接種疫苗的人數是小於百分之一，甚至有超過兩萬人因此罹患了子宮頸癌，有五千人而死亡。
+
+再來看到這個事件，那就是日本在接種類風濕性關節炎疫苗的時候，因為劑量過重，所以也導致二十二人罹患間質性肺炎，甚至有九個人死亡。而這些疫苗而衍生出來的一些疾病，都是讓日本人對於疫苗沒有太大信心，讓這一次新冠肺炎的疫苗在日本接種率相當低的原因之一。」
+
+圖1：媒體報導擷圖。
+
+查核
+
+爭議點一、新聞媒體報導稱日本曾發生「68嬰幼兒接種白喉疫苗後死亡」、「蕁麻疹疫苗引發腦膜炎」、「HPV疫苗導致肌肉痠痛、睡眠障礙，接種率小於1% 」，是否有相關新聞報導？
+
+（一）查核中心以中文檢索，找到在《風傳媒》2021年6月17日的報導，以及《公視新聞》發布於2020年12月24日的報導。上述報導指出，美軍佔領時期在日本建立強制接種疫苗的制度，戰後日本政府沿用該法，卻不知道針頭不可重複使用，導致接種白喉、百日咳等疫苗的嬰幼兒中，至少有68人死亡、逾43萬人感染B型肝炎。
+
+1993年日本政府推動施打「麻疹腮腺炎德國麻疹混合疫苗」（MMR），有民眾在接種後引發腦膜炎，日本政府因此付出巨額國賠，並修改《預防接種法》，將「強制接種」規定改為「強烈建議」接種。2013年日本推動施打「人類乳突病毒疫苗」（HPV），部分青少女出現肌肉痠痛、睡眠障礙的副作用， 導致日本HPV疫苗接種率大幅下滑，而後有超過2萬人罹患子宮頸癌，5000多人因罹病死亡。
+
+（二）查核中心找到《彭博社》發布於2020年12月23日的報導〈對疫苗有強烈謹慎意識的日本，有可能施打普及落後——過去的藥害是陰影嗎？〉（ワクチンに警戒感根強い日本、普及後れの可能性－過去の薬害が影か）。
+
+查核中心以Google翻譯解讀，該報導指出，1948年到1949年間，由於製造企業的失誤，白喉疫苗接種在日本造成924人的健康危害、83 人死亡。在1989年到1993年間，MMR疫苗引發兒童感染無菌性腦膜炎，造成約1800名受害者。日本政府因而在1994年修訂《預防接種法》，將「義務接種」改為「努力義務」，而近年則是HPV感染與接種疫苗的副作用帶來的熱烈討論。
+
+爭議點二、新聞媒體報導日本曾發生「類風濕性關節炎疫苗劑量過重導致22人罹間質性肺炎、9人死亡」，原始事件脈絡為何？醫師看法為何？
+
+（一）查核中心檢視《風傳媒》與《公視新聞》的報導，其中指出，日本疫苗施打率低的原因除了對疫苗的不信任，也包括對藥物療效的癮憂。2003年，日本政府在有經過本土最終試驗的情況下，批准類風溼性關節炎藥物「來氟米特」（Leflunomide）上市，造成22人罹患間質性肺炎，其中9人死亡，調查後發現，原因在於國外使用的劑量對日本人來說太高。
+
+（二）查核中心以英文關鍵字檢索，找到2009年發表於《風濕病學》（Rheumatology）的研究論文〈日本類風濕性關節炎患者中來氟米特致肺損傷死亡的相關因素〉（Factors associated with fatal outcome of leflunomide-induced lung injury in Japanese patients with rheumatoid arthritis）。
+
+這篇研究指出，日本政府要求藥商進行上市後監測（PMS），而在2003年9月到2006年6月間，共有22名類風濕性關節炎患者患者明確符合來氟米特導致肺損傷的標準，而這22名患者中，有9人死亡，13人康復。研究人員檢視來氟米特所誘發的肺損傷之背景、臨床與實驗室特徵，並比較了死者與康復患者，結果發現，這9名死亡患者中，有8名預先存在間質性肺炎（pre-existing interstitial pneumonia），而康復的患者中，只有不到一半患有間質性肺病。因此研究人員建議避免對已患有間質性肺炎的患者使用「來氟米特」藥物。
+
+（三）查核中心採訪嘉義長庚醫院風濕免疫科醫師林靖麒。林靖麒表示，目前並沒有針對類風濕關節炎的疫苗，因此不可能有「類風濕性關節炎疫苗劑量過重導致間質性肺炎」的狀況。該新聞訊息有誤，會加深民眾對疫苗的恐慌，造成誤導，影響類風溼性關節炎患者施打新冠疫苗的意願。
+
+林靖麒說明，類風溼性關節炎與間質性肺炎有相關性，類風濕關節炎本身就可能造成間質性肺炎，而類風濕性關節炎的藥物也可能誘發間質性肺炎。
+
+綜合以上，新聞媒體所提到的事件，為2003年至2006年間，22名風濕關節炎病患被回報使用來氟米特後有肺損傷，其中9人死亡。來氟米特是治療類風溼性關節炎的藥物，並不是疫苗。醫師指出，目前沒有針對類風濕性關節炎的疫苗。
+
+爭議點三、類風濕關節炎患者是否可施打新冠疫苗？
+
+（一）查核心採訪台大醫院家醫部主治醫師、COVID-19門診醫師張皓翔。張皓翔說明，類風溼性關節炎患者是可以打新冠疫苗的，但是這類病人會使用免疫調節的藥物，而部分免疫調節藥物會影響疫苗效力，因此接種新冠疫苗的時間需要跟使用藥物的時間有所區隔，因此風濕病患在接種新冠疫苗時需要先諮詢醫師，確認目前的治療是否會影響新冠疫苗的效果。
+
+張皓翔表示，台大醫院已將COVID-19的疑問與釋疑整理成文件供民眾參考，文件中說明了各類疾病患者是否可施打新冠疫苗以及相關注意事項，其中也包括風濕性關節炎等自體免疫疾病。
+
+（二）查核中心檢視台大醫院在2021年6月21日公布的文件〈COVID-19 疫苗 知識就是力量〉。文件中提到，風濕免疫科的患者，基本上可以注射新冠肺炎疫苗，據美國風濕病醫學會的資訊，雖然接種新冠疫苗在學理上可能惡化原有風濕疾病，但權衡利弊後，仍建議風濕疾病患者接受新冠肺炎疫苗接種。該文件同時說明，如果病患正在使用免疫抑制劑藥物，應先與醫師討論，不同的藥物有不同的建議施打時間。
+
+（三）林靖麒表示，類風濕關節炎患者可以施打新冠疫苗，中華民國風濕病醫學會已多次說明類風濕性關節炎患者可施打疫苗，並澄清相關傳言。
+
+（四）查核中心查找中華民國風濕病醫學會網站，找到2021年6月18日發布的聲明稿，以及2021年6月9日發布的〈新冠疫苗肺炎與風濕病Q&A第2版〉。聲明稿中指出，目前並無證據顯示自體免疫疾病的患者不能接受哪一種特定的疫苗，免疫風濕病友施打疫苗準則請參照風濕病醫學會所公佈之說明。
+
+〈新冠疫苗肺炎與風濕病Q&A第2版〉則說明，除非對疫苗成分過敏，否則沒有其他狀況是新冠疫苗的絕對禁忌症。風濕病友經醫師評估後，也可接受新冠疫苗注射，且無論何種品牌的疫苗都可以，能越早施打的就是好疫苗。
+
+雖然任何疫苗在學理上都有惡化風溼疾病的可能，但現有報告指出新冠肺炎疫苗造成風濕疾病惡化的可能性低，據美國風濕病醫學會建議，只要沒有嚴重到需要住院治療，都可接種新冠肺炎疫苗。
+
+結論
+
+一、新聞媒體所提到的事件，為2003年至2006年間，22名風濕關節炎病患被回報使用來氟米特後有肺損傷，其中9人死亡；這9人中，有8名預先存在間質性肺炎。事件中的「來氟米特」是治療風濕關節炎的其中一種藥物，不是疫苗。
+
+二、醫師指出，目前沒有針對類風濕性關節炎的疫苗。
+
+三、醫師表示，類風濕關節炎患者可以接種新冠疫苗，但部份藥物可能影響疫苗效力，因此建議患者接種新冠疫苗前先諮詢醫師，安排合適的接種時間。
+
+媒體報導稱「類風濕性關節炎疫苗在日本導致22人罹患間質性肺炎，9人死亡」，為「部分錯誤」訊息。
+
+參考資料
+
+風傳媒〈醫療強國日本，為何新冠疫苗施打率僅有15%？揭4段不為人知黑歷史，嚇得沒人敢接種〉
+
+公視新聞網〈疫苗歷史紀錄陰霾 日全民接種疫苗有障礙〉
+
+彭博社〈ワクチンに警戒感根強い日本、普及後れの可能性－過去の薬害が影か〉
+
+〈Factors associated with fatal outcome of leflunomide-induced lung injury in Japanese patients with rheumatoid arthritis〉
+
+中華民國風濕病醫學會聲明稿
+
+中華民國風濕病醫學會-新冠疫苗肺炎與風濕病Q&A（民眾版）第2版
+
+〈COVID-19 疫苗 知識就是力量〉

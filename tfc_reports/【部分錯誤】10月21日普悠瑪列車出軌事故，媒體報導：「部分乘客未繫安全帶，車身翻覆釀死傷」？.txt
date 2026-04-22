@@ -1,0 +1,135 @@
+標題：【部分錯誤】10月21日普悠瑪列車出軌事故，媒體報導：「部分乘客未繫安全帶，車身翻覆釀死傷」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-203/
+--------------------------------------------------
+
+一、台鐵列車一般座位並無設置安全帶。僅於親子車廂與輪椅殘障座位，設置綁帶固定移動式物品，如嬰兒車和輪椅。
+
+二、專家指出，鐵路列車不需要安全帶。法國、德國、日本等國，軌道運輸的車廂座位也都沒有安全帶。軌道運輸的重點應在於維護系統運行的安全，確保列車不要出軌。安全帶只是被動的安全措施。
+
+因此，報導為「錯誤」訊息。
+
+背景
+
+台鐵6432次普悠瑪列車2018年10月21日16:50在冬山=蘇新間東正線發生出軌事故，目前已知造成18人死亡、205人受傷。有媒體報導指出「部分乘客未繫安全帶 車身翻覆釀死傷」、「部分乘客未繫安全帶，拋出車外死傷慘重」等……
+
+查核
+
+爭議點一、台鐵普悠瑪號有沒有安全帶？台鐵其他列車有沒有安全帶？
+
+查核中心求證台灣鐵路管理局，台鐵所有列車的一般座位都沒有設置安全帶，僅在部分特殊座位設置安全帶或固定物品用的綁帶，例如親子車廂的綁帶可以固定嬰兒車，但並非用於人員固定。
+
+來源：wiki維基百科〈普悠瑪號身障車廂內部〉，CC BY-SA 3.0
+
+台鐵表示，台鐵購置時列車上就沒有設置安全帶。台鐵並強調，據了解多數國外列車上也沒有安全帶。而台鐵也表示未來不排除參考外界建議，將是不是加裝安全帶對旅客較有保護，納入考量。
+
+查核中心在wiki維基百科上搜尋到車廂座位照片，圖中可見一般座位無安全帶，而身障座位則有安全帶。
+
+爭議點二、台鐵列車沒有設置安全帶，是否因此危及旅客安全？
+
+（一）查核中心諮詢成功大學交通管理科學系鄭永祥教授。鄭教授表示，列車軌道是獨立路權，列車行駛在軌道上不會受到干擾，因此不需要安全帶。法國、德國、日本軌道運輸的車廂座位也都沒有安全帶。安全帶通常是在公路車輛上使用，因為公路上隨時有各種狀況，例如紅綠燈、對向來車，或是高速行駛時有其他車子要變換車道、插進來，駕駛人可能要減速，才需要安全帶來保護乘客。
+
+鄭永祥教授指出，飛機上使用安全帶，也只有在起飛跟降落的時候使用，而且飛機飛行軌跡是三度空間、立體的，考量天候的影響，所以設置安全帶。相較之下火車只在平面運行，而且有獨立路權，因此設計上不一樣。
+
+鄭永祥教授認為，與其討論列車上是否要裝設安全帶，不如將重點放在如何維護系統運行的安全，也就是確保列車不要出軌。安全帶只是被動的安全措施。
+
+（二）關於安全帶究竟安不安全？歷任林口長庚醫院、台北馬偕醫院、台北醫學大學附設醫院急診醫學科的王士豪醫師則指出，從事故分析、模擬碰撞測試及電腦模型測試中得到的結論是，鐵路車輛中不應使用任何類型的安全帶。
+
+王士豪表示，火車事故通常伴隨高速的減速與翻滾，所以兩點式安全帶會增加內臟的傷害與上半身甩動傷害。三點式安全帶則因為身體被牢牢綁住，而讓沒有使用安全帶的人，會因為快速減速而往前拋出，撞到前頭有繫安全帶的人，造成兩人都受傷，所以要加強椅背強度。然而，高強度的椅背，則會讓沒綁安全帶的人，高速撞擊時，受到更嚴重的傷害。
+
+使用安全帶雖然能免於讓乘客直接被拋出火車外，但是由於會讓乘客無法被拋出一開始承受撞擊而損壞的結構，而干擾病患脫困與存活的空間，反而會讓傷亡增加。
+
+王士豪醫師進一步解釋，鐵道事故發生時，因爲結構重大損壞，且有可能發生火災，有時候乘客被拋出原本承受撞擊結構受損的部位，或是乘客沒有被固定在座位上，反而更有利於救援及增加存活機會。一個結構損壞的列車，若每個乘客都被安全帶牢牢繫住，就算沒有失火，也會讓乘客被救出更耗時耗力，而增加傷亡。
+
+急診專科醫師王士豪並引述英國鐵路安全標準委員會2007年的研究報告《改善座椅及桌子的設計來減少乘客傷害（Improving the design of seats and tables to minimise passenger injuries）》，補充說明為何鐵路列車不使用安全帶設計。該報告結論如下：
+
+1) Three-point restraints reduce injuries compared with the use of crashworthy seats, although both are well within accepted limits as advised by the medical profession. However, since it would be necessary to stiffen seats to counter the increased loads imposed by three-point restraints, the crashworthiness characteristics of the seats would be eliminated and injuries to unrestrained passengers would be increased to unacceptable levels.（與緩衝座椅相比，使用三點式安全帶可減少傷害，雖然兩者所造成之傷害皆在醫學專家們所建議的允許界線內。然而，當使用三點式安全帶就必須加固座椅以抗衡三點式安全帶於意外發生所增加的載重時，緩衝座椅的緩衝作用將被抵銷，並且，未被固定住的乘客們將可能陷於更無法接受的傷害水準。）
+
+2) Crucially, restraining passengers in their seats would prevent passengers being thrown clear of structural intrusion and would be likely to lead to fatalities where current practice would likely have prevented them.（重要的是，將乘客們固定在座位上，將妨礙乘客們在遭受結構入侵時被拋離座位而倖免於這類危險的機會，並可能導致死亡事故──那些目前實務上已盡可能避免的死亡事故。）
+
+3) Taking the net effect of the above into account three-point restraints should not be fitted to rail vehicles.（考慮到上述效應，三點式安全帶不應適用於鐵路列車。）
+
+4) The predicted injuries for children using three-point restraints have not been tested; however specialist knowledge indicates that adult restraints are unsuitable for children unless using booster seats.（使用三點式安全帶的兒童的預期傷害尚未經過測試；但專家指出，除非使用加高座椅，否則成人的安全帶不適合兒童。）
+
+5) The fitting of seat belts would not prevent fatalities or serious injuries resulting from objects penetrating the windows during a derailment or accident.（設置安全帶不能防止物體在脫軌或事故中穿透窗戶而導致的死亡或嚴重傷害。）
+
+三、對於王士豪醫師指出的這份研究報告，鄭永祥教授也認為值得參考。不過查核中心求證台鐵和交通部對於這項說法的態度，迄今未獲得回覆。
+
+結論
+
+針對媒體報導指稱台鐵普悠瑪事故「部分乘客，車身翻覆釀死傷」、「部分乘客未繫安全帶，拋出車外死傷慘重」等訊息，經台灣事實查核中心求證：
+
+1.台鐵列車一般座位並無設置安全帶。僅於親子車廂與輪椅殘障座位，設置綁帶固定移動式物品，如嬰兒車和輪椅等。
+
+2.台鐵列車沒有設置安全帶，是否因此危及旅客安全？成功大學交通管理科學系鄭永祥教授表示，列車軌道是獨立路權，列車行駛在軌道上不會受到干擾，因此不需要安全帶。法國、德國、日本等國，軌道運輸的車廂座位也都沒有安全帶。與其討論列車上是否要裝設安全帶，不如將重點放在如何維護系統運行的安全，也就是確保列車不要出軌。安全帶只是被動的安全措施。
+
+3、急診醫學專科醫師王士豪指出，從事故分析、模擬碰撞測試及電腦模型測試中得到的結論是，鐵路車輛中不應使用任何類型的安全帶。火車事故通常伴隨高速的減速與翻滾，所以兩點式安全帶會增加內臟的傷害與上半身甩動傷害。三點式安全帶則因為身體被牢牢綁住，而讓沒有使用安全帶的人，會因為快速減速而往前拋出，撞到前頭有繫安全帶的人，造成兩人都受傷，所以要加強椅背強度。然而，高強度的椅背，則會讓沒綁安全帶的人，高速撞擊時，受到更嚴重的傷害。同時，根據英國鐵路安全標準委員會2007年的研究報告，也建議鐵路列車不宜使用安全帶。
+
+補充資料
+
+急診專科醫師王士豪之說明：
+
+標題：鐵路車輛中不應使用任何類型的安全帶
+
+作者及譯者：王士豪
+
+版權沒有，歡迎分享
+
+普悠瑪列車出軌，造成重大傷亡，令人哀傷。
+
+許多朋友問我為何高鐵和台鐵的各型列車，許多是日系列車，理論上很注重安全。那為何只有身心障礙座位或是輪椅固定區有設置安全帶？一般座位沒有設置安全帶呢？
+
+先說重點：
+
+從事故分析、模擬碰撞測試及電腦模型測試中得到的結論是，鐵路車輛中不應使用任何類型的安全帶。
+
+兩點式安全帶通常會在碰撞中增加乘客受傷，而三點式安全帶雖然可以減少對有使用安全帶的乘客的傷害，但他們卻同時需要加強座椅的靠背強度，而加強座椅的靠背強度會增加對沒有綁安全帶的乘客的傷害。
+
+說明：火車事故通常伴隨高速的減速與翻滾，所以兩點式安全帶會增加內臟的傷害與上半身甩動傷害。三點式安全帶則因為身體被牢牢綁住，而讓沒有使用安全帶的人，會因為快速減速而往前拋出，撞到前頭有繫安全帶的人，造成兩人都受傷，所以要加強椅背強度。然而，高強度的椅背，則會讓沒綁安全帶的人，高速撞擊時，受到更嚴重的傷害。
+
+使用安全帶雖然能免於讓乘客直接被拋出火車外，但是由於會讓乘客無法被拋出一開始承受撞擊而損壞的結構，而干擾病患脫困與存活的空間，反而會讓傷亡增加。
+
+說明：鐵道事故發生時，因爲結構重大損壞，且有可能發生火災，有時候乘客被拋出原本承受撞擊結構受損的部位，或是乘客沒有被固定在座位上，反而更有利於救援及增加存活機會。一個結構損壞的列車，若每個乘客都被安全帶牢牢繫住，就算沒有失火，也會讓乘客被救出更耗時耗力，而增加傷亡。
+
+全文：
+
+根據英國鐵路安全標準委員會（Railway Safety & Standard Board, RSSB）在2007年公佈，2018年10月最新修訂的編號T-201標題為《改善座椅及桌子的設計來減少乘客傷害（Improving the design of seats and tables to minimise passenger injuries）》作出以下幾點建議，為大家節錄原文、翻譯並說明如下：
+
+1. This research aimed to identify improvements to seat and table design to minimise injuries in an accident.
+
+翻譯：該研究旨在研究並確定用來減少火車事故傷害的各種座椅和桌子設計的改進方式。
+
+2. The research led to the development of an anthropomorphic testing device (ATD – crash test dummy) specifically for the rail environment. The ATD was then used to evaluate the benefits of two-point lap belts (as used in commercial aviation) and three-point, lap and diagonal belts (as used in cars).
+
+翻譯：這個研究設計一個專用於鐵路運輸環境的模擬設備（ATD – 碰撞測試假人）。並使用ATD評估來兩點式安全帶（用於商用航空）和三點式安全帶（用於汽車）的好處。
+
+3. Accident analysis, sled testing, and computer modelling concluded that neither type of seat belt should be used in rail vehicles.
+
+翻譯：從事故分析、模擬碰撞測試及電腦模型測試中得到的結論是，鐵路車輛中不應使用任何類型的安全帶。
+
+4. Two-point seat belts would usually increase passenger injuries in a crash, and while three-point seat belts could reduce injury to restrained passengers, they require the strengthening of seat backs which would increase injuries to unrestrained passengers.
+
+翻譯：兩點式安全帶通常會在碰撞中增加乘客受傷，而三點式安全帶雖然可以減少對有使用安全帶的乘客的傷害，但他們卻同時需要加強座椅的靠背強度，而加強座椅的靠背強度會增加對沒有綁安全帶的乘客的傷害。
+
+王士豪補充說明：火車事故通常伴隨高速的減速與翻滾，所以兩點式安全帶會增加內臟的傷害與上半身甩動傷害。三點式安全帶則因為身體被牢牢綁住，而讓沒有使用安全帶的人，會因為快速減速而往前拋出，撞到前頭有繫安全帶的人，造成兩人都受傷，所以要加強椅背強度。然而，高強度的椅背，則會讓沒綁安全帶的人，高速撞擊時，受到更嚴重的傷害。
+
+5. Seat belts also prevent passengers being thrown clear of structural damage.  The investigation suggested that for every life that may have been saved by fitting seat belts eight lives may have been lost due to major structural collapse.
+
+翻譯：使用安全帶會讓乘客無法被拋出一開始承受撞擊而損壞的結構，而干擾病患脫困與存活的空間，反而會讓傷亡增加。研究顯示，在這種情況下，繫安全帶也許可以救到一些人，但每多救一條生命，同時會有更多人因為由結構坍塌無法逃生，導致額外增加損失八條生命。
+
+王士豪補充說明：鐵道事故發生時，因爲結構重大損壞，且有可能發生火災，有時候乘客被拋出原本承受撞擊結構受損的部位，或是乘客沒有被固定在座位上，反而更有利於救援及增加存活機會。一個結構損壞的列車，若每個乘客都被安全帶牢牢繫住，就算沒有失火，也會讓乘客被救出更耗時耗力，而增加傷亡。
+
+6. Current crashworthy seats, that are designed to absorb energy in accidents, thus reducing injury to passengers, should be retained.
+
+翻譯：目前的防撞座椅，可以吸收鐵路事故中的能量，並減少對乘客的傷害，建議予以保留。
+
+原文出處：英國鐵路安全標準委員會（Railway Safety & Standard Board, RSSB）網頁。
+
+英文摘要網址：https://www.rssb.co.uk/pages/research-catalogue/t201.aspx
+
+英文全文網址：https://www.rssb.co.uk/library/research-development-and-innovation/research-brief-T201.pdf
+
+王士豪醫師 2018.10.21
+
+參考資料
+
+Improving the design of seats and tables, and evaluating restraints to minimise passenger injuries – Review of three-point passenger restraints

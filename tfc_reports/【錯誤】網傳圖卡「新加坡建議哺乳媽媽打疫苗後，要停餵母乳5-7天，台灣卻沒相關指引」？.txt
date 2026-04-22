@@ -1,0 +1,179 @@
+標題：【錯誤】網傳圖卡「新加坡建議哺乳媽媽打疫苗後，要停餵母乳5-7天，台灣卻沒相關指引」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-5871/
+--------------------------------------------------
+
+【報告將隨時更新 2021/6/25版】
+
+一、新加坡衛生部最新（2021年5月31日更新）的COVID-19疫苗接種指引，建議孕婦、哺乳期婦女均可接種，哺乳期婦女打完新冠疫苗後，可哺餵母乳；新加坡施打的疫苗為輝瑞、莫德納，未包括AZ疫苗。
+
+前一版本的指引，並不建議孕婦接種，並建議哺乳期婦女應暫緩哺乳5-7天。
+
+二、台灣婦產科醫學會、母乳哺育聯合學會均表示，針對孕婦、哺乳期婦女，能施打任何獲得授權的新冠疫苗，且哺乳期婦女接種後可繼續餵母乳。其中，孕婦可優先考慮mRNA 疫苗，因其增加血栓機率更小，且較多安全性資料。
+
+三、專家表示，從學理上，疫苗機轉與母乳分泌的系統並不相同，疫苗並不會透過母乳系統直接傳給嬰兒。根據目前研究，母親在接種mRNA COVID-19疫苗後，誘發出的抗體能夠透過母乳給嬰兒。
+
+傳言「新加坡建議暫緩哺餵母乳5-7天」為過時訊息，因此，為「錯誤」訊息。
+
+【查核聲明】報告針對傳言所稱「新加坡停餵乳母」政策訊息，進行查核。至於施打疫苗對哺乳期婦女、喝母乳嬰兒之健康風險，仍缺乏科學證據；而台灣近期嬰兒哺乳後猝死之個案仍待調查。兩者均不在本報告查核範疇。
+
+li:before{content:”○  “}.lst-kix_purj9nx0s05t-3 > li:before{content:”●  “}.lst-kix_purj9nx0s05t-1 > li:before{content:”○  “}.lst-kix_purj9nx0s05t-5 > li:before{content:”■  “}.lst-kix_vqa9nn66u42w-1 > li:before{content:”○  “}.lst-kix_e0l7sny9xxvk-6 > li:before{content:”●  “}.lst-kix_purj9nx0s05t-0 > li:before{content:”●  “}.lst-kix_purj9nx0s05t-4 > li:before{content:”○  “}.lst-kix_e0l7sny9xxvk-3 > li:before{content:”●  “}.lst-kix_e0l7sny9xxvk-5 > li:before{content:”■  “}.lst-kix_vqa9nn66u42w-0 > li:before{content:”●  “}.lst-kix_e0l7sny9xxvk-4 > li:before{content:”○  “}.lst-kix_purj9nx0s05t-2 > li:before{content:”■  “}.lst-kix_vqa9nn66u42w-6 > li:before{content:”●  “}.lst-kix_vqa9nn66u42w-5 > li:before{content:”■  “}.lst-kix_e0l7sny9xxvk-2 > li:before{content:”■  “}.lst-kix_vqa9nn66u42w-2 > li:before{content:”■  “}.lst-kix_vqa9nn66u42w-3 > li:before{content:”●  “}.lst-kix_e0l7sny9xxvk-1 > li:before{content:”○  “}.lst-kix_vqa9nn66u42w-4 > li:before{content:”○  “}.lst-kix_e0l7sny9xxvk-0 > li:before{content:”●  “}ul.lst-kix_2xbecgvg7yn7-3{list-style-type:none}ul.lst-kix_2xbecgvg7yn7-2{list-style-type:none}ul.lst-kix_2xbecgvg7yn7-1{list-style-type:none}ul.lst-kix_2xbecgvg7yn7-0{list-style-type:none}ul.lst-kix_2xbecgvg7yn7-7{list-style-type:none}ul.lst-kix_2xbecgvg7yn7-6{list-style-type:none}ul.lst-kix_2xbecgvg7yn7-5{list-style-type:none}ul.lst-kix_2xbecgvg7yn7-4{list-style-type:none}.lst-kix_vqa9nn66u42w-8 > li:before{content:”■  “}.lst-kix_vqa9nn66u42w-7 > li:before{content:”○  “}.lst-kix_2xbecgvg7yn7-7 > li:before{content:”○  “}.lst-kix_2xbecgvg7yn7-8 > li:before{content:”■  “}ul.lst-kix_2xbecgvg7yn7-8{list-style-type:none}.lst-kix_e0l7sny9xxvk-8 > li:before{content:”■  “}ul.lst-kix_purj9nx0s05t-8{list-style-type:none}ul.lst-kix_purj9nx0s05t-7{list-style-type:none}ul.lst-kix_purj9nx0s05t-4{list-style-type:none}ul.lst-kix_purj9nx0s05t-3{list-style-type:none}ul.lst-kix_purj9nx0s05t-6{list-style-type:none}ul.lst-kix_purj9nx0s05t-5{list-style-type:none}ul.lst-kix_purj9nx0s05t-0{list-style-type:none}ul.lst-kix_purj9nx0s05t-2{list-style-type:none}ul.lst-kix_purj9nx0s05t-1{list-style-type:none}.lst-kix_ckw5cy92n60h-1 > li:before{content:”○  “}.lst-kix_ckw5cy92n60h-0 > li:before{content:”●  “}ul.lst-kix_e0l7sny9xxvk-0{list-style-type:none}ul.lst-kix_vqa9nn66u42w-8{list-style-type:none}ul.lst-kix_e0l7sny9xxvk-1{list-style-type:none}ul.lst-kix_vqa9nn66u42w-7{list-style-type:none}ul.lst-kix_e0l7sny9xxvk-2{list-style-type:none}.lst-kix_ckw5cy92n60h-5 > li:before{content:”■  “}ul.lst-kix_vqa9nn66u42w-6{list-style-type:none}ul.lst-kix_vqa9nn66u42w-5{list-style-type:none}ul.lst-kix_vqa9nn66u42w-4{list-style-type:none}.lst-kix_2xbecgvg7yn7-6 > li:before{content:”●  “}.lst-kix_ckw5cy92n60h-6 > li:before{content:”●  “}ul.lst-kix_vqa9nn66u42w-3{list-style-type:none}.lst-kix_ckw5cy92n60h-2 > li:before{content:”■  “}ul.lst-kix_vqa9nn66u42w-2{list-style-type:none}ul.lst-kix_e0l7sny9xxvk-7{list-style-type:none}ul.lst-kix_vqa9nn66u42w-1{list-style-type:none}ul.lst-kix_e0l7sny9xxvk-8{list-style-type:none}ul.lst-kix_vqa9nn66u42w-0{list-style-type:none}.lst-kix_2xbecgvg7yn7-4 > li:before{content:”○  “}.lst-kix_2xbecgvg7yn7-5 > li:before{content:”■  “}.lst-kix_ckw5cy92n60h-3 > li:before{content:”●  “}ul.lst-kix_e0l7sny9xxvk-3{list-style-type:none}ul.lst-kix_e0l7sny9xxvk-4{list-style-type:none}.lst-kix_2xbecgvg7yn7-3 > li:before{content:”●  “}ul.lst-kix_e0l7sny9xxvk-5{list-style-type:none}ul.lst-kix_e0l7sny9xxvk-6{list-style-type:none}.lst-kix_ckw5cy92n60h-4 > li:before{content:”○  “}ul.lst-kix_ckw5cy92n60h-1{list-style-type:none}ul.lst-kix_ckw5cy92n60h-0{list-style-type:none}.lst-kix_2xbecgvg7yn7-0 > li:before{content:”●  “}.lst-kix_2xbecgvg7yn7-1 > li:before{content:”○  “}ul.lst-kix_ckw5cy92n60h-3{list-style-type:none}ul.lst-kix_ckw5cy92n60h-2{list-style-type:none}.lst-kix_2xbecgvg7yn7-2 > li:before{content:”■  “}ul.lst-kix_ckw5cy92n60h-8{list-style-type:none}ul.lst-kix_ckw5cy92n60h-5{list-style-type:none}.lst-kix_ckw5cy92n60h-7 > li:before{content:”○  “}ul.lst-kix_ckw5cy92n60h-4{list-style-type:none}ul.lst-kix_ckw5cy92n60h-7{list-style-type:none}.lst-kix_ckw5cy92n60h-8 > li:before{content:”■  “}ul.lst-kix_ckw5cy92n60h-6{list-style-type:none}.lst-kix_purj9nx0s05t-8 > li:before{content:”■  “}.lst-kix_purj9nx0s05t-7 > li:before{content:”○  “}.lst-kix_purj9nx0s05t-6 > li:before{content:”●  “}]]>
+
+背景
+
+社群平台、通訊軟體6月22日開始流傳訊息指稱：「台灣發生了媽媽打疫苗後哺乳，嬰兒瘁死的新聞。這新加坡就明講了要停餵5-7天。台灣卻沒相關指引。以下是新加坡政府推動施打疫苗的部分資料，提供各位接種前後參考！」
+
+圖1：通訊軟體流傳訊息擷圖
+
+查核
+
+爭議點一、網傳圖卡稱「新加坡建議孕婦不得接種、正哺乳的婦女可以接種，但建議注射疫苗後的5-7天暫停哺乳」，是否屬實？
+
+新加坡衛生健康部<COVID-19疫苗接種QA>
+
+查核中心檢視新加坡衛生健康部（Singapore Ministry of Health）網站，COVID-19疫苗接種QA（更新時間為6月23日）。
+
+關於「孕婦、哺乳者是否能接種新冠疫苗」問題。新加坡政府建議，「根據國際研究，沒有證據表明輝瑞 BioNTech 或 莫德納Moderna COVID-19 疫苗可能對孕婦或其嬰兒造成傷害。mRNA 疫苗不是活疫苗，在生物學上不太可能對母乳餵養的嬰兒產生不利影響。
+
+此外，接種疫苗後的母親，其母乳中含有抗體，可能有助於保護嬰兒免受 COVID-19 的侵害。哺乳婦女接種疫苗後再餵養母乳，尚未有相關案例顯示，被餵養母乳的嬰兒產生疫苗導致的副作用。」
+
+此指引並未提到，哺乳婦女接種疫苗後，需要暫停哺乳。
+
+圖2：新加坡衛生部COVID-19疫苗接種QA
+
+新加坡衛生健康部2021年5月31日曾發布新聞稿表示，將更新「孕婦、哺乳婦女、接受治療的癌症病患、曾有嚴重皮膚不良反應者」接種疫苗指引。
+
+這份指引中指出，目前沒有證據表明輝瑞、莫德納疫苗可能對母親或孩子造成傷害。孕婦可與醫生討論後，決定是否接種疫苗，2021年6月4日起，開放孕婦註冊和預約接種疫苗。另針對「哺乳期婦女」，最新指引指出，母乳餵養的婦女接種疫苗是安全的，且接種輝瑞、莫德納疫苗後，無需暫停哺餵母乳。
+
+截至2021年6月23日，新加坡衛生健康部僅核准輝瑞、莫德納疫苗授權施打。因此，指引中僅提到輝瑞、莫德納疫苗。
+
+新加坡衛生健康部過去是否建議「哺乳者應暫緩母乳餵養」？
+
+查核中心檢視網頁備份資料，查找到新加坡衛生健康部在2021年1月13日時，在COVID-19疫苗接種QA中，針對「誰不應該接種新冠疫苗」中提到，「不建議孕婦、嚴重免疫功能低下者和 16 歲以下兒童接種 COVID-19 疫苗，直到有更多有效性和安全性數據。對於哺乳期婦女，建議她們可以接種疫苗，但建議在接種疫苗後 5 至 7 天內，應避免哺餵母乳。
+
+綜合以上，新加坡衛生部於2021年5月31日的更新指引指出，哺乳期婦女施打疫苗後，不需要停止哺餵母乳。在此之前，不建議孕婦接種，並建議哺乳婦女接種新冠疫苗後，暫緩哺餵母乳5-7天。
+
+但值得注意的是，新加坡並未開放AZ疫苗，其疫苗接種計劃僅開放輝瑞、莫德納疫苗。
+
+爭議點二、目前台灣對於孕婦、哺乳期婦女接種建議為何？哺乳期婦女接種後，可繼續哺餵母乳嗎？
+
+（一）台灣孕婦、哺乳期婦女是否能接種新冠疫苗，根據衛福部COVID-19疫苗QA，孕婦若為COVID-19之高職業暴露風險者或具慢性疾病而易導致重症者，可與醫師討論接種疫苗之效益與風險後，評估是否接種。
+
+針對哺乳期婦女，一般認為，接種疫苗不會對哺乳期婦女、嬰幼兒造成相關風險，接種COVID-19疫苗後，仍可持續哺乳。
+
+中央流行疫情指揮中心6月22日發布新聞稿表示，專家小組會議決定，經考量，孕婦為 COVID-19 感染後容易產生嚴重併發症或導致死亡之族群，為保障懷孕婦女及胎兒健康，建議孕婦應接種COVID-19 疫苗並納入第六類優先接種對象。此外，建議孕婦接種前應與醫師就風險效益詳細評估後，擇適合廠牌進行接種。
+
+（二）根據台灣婦產科醫學會在2021年6月22日公布COVID-19疫苗孕婦諮詢要點，其中提到「雖然數據有限，但在懷孕期間接受COVID-19疫苗的臨床數據，至今並未顯示有任何安全上的疑慮。」基於尊重個人自主，孕婦可自行決定是否施打疫苗，同時鼓勵和臨床照護團隊討論。
+
+台灣婦產科醫學會指出，任何目前授權的COVID-19疫苗均可用於孕期或哺乳期施打，打完後也可以繼續哺乳。年齡小於50歲的孕婦、哺乳期和產後的婦女須注意在接受AZ疫苗後可能產生罕見的（約十萬分之一）血栓併血小板低下症侯群 （TTS），也應知道有其它種類的疫苗可選。每個人可以接受任何可施打的疫苗，皆能提供對於 COVID-19 的保護力。孕婦可優先考慮mRNA 疫苗，因其增加血栓機率更小，且較多安全性資料。
+
+台灣婦產科醫學會表示，任何孕期都可以施打疫苗，目前資料顯示不會因此增加異常懷孕、流產、畸胎等問題，但因懷孕12周內本就常有上述情況，施打前建議給予孕婦說明並諮商。
+
+（三）台灣母乳哺育聯合學會指出，在接種AZ疫苗最多的英國，沒有看到哺乳期婦女接種後導致嬰兒死亡的報導，但根據英國皇家婦產科醫學會是建議接種。世界衛生組織的建議是如果哺乳母親屬於優先接種族群時，也可以使用AZ疫苗。在接種疫苗之後，無須停止哺乳。
+
+（四）查核中心採訪台北市立聯合醫院和平婦幼院區小兒科主任、母乳庫中心負責人方麗容。她表示，過去國際藥廠疫苗臨床試驗沒有針對「孕婦」、「哺乳期婦女」族群接種後的實驗資料，在缺少科學資料的前提下，部份國家會建議孕婦暫緩施打。但隨著國際施打比例變高，開始有「孕婦」、「哺乳期婦女」施打疫苗的資料，並認為孕婦、哺乳期婦女施打疫苗沒有安全疑慮，哺乳期的婦女也可以繼續哺餵母乳。
+
+方麗容說，施打疫苗的政策會隨著科學的證據而滾動，如英國接種最多AZ疫苗，並沒有看到哺乳期婦女接種後導致嬰兒死亡的報導，WHO的建議是如果哺乳母親屬於優先接種族群時，也可以使用AZ疫苗。在接種疫苗之後，無須停止哺乳。
+
+方麗容表示，目前指揮中心開放孕婦可以選擇疫苗廠牌（AZ、莫德納）。若不確定該如何選擇，可以和主治醫師討論再做出選擇。
+
+爭議點三、英國如何建議哺乳期婦女接種新冠疫苗？
+
+英國接種計畫有AZ疫苗、莫德納和輝瑞等多種疫苗，查核中心整理英國對哺乳期婦女的新冠疫苗指引。另在補充資料，整理英國對懷孕期婦女施打疫苗的建議。
+
+英國政府的〈疫苗綠皮書〉（2021年5月7日更新）
+
+英國政府2021年5月7日發布〈疫苗綠皮書〉，引述JCVI建議。說明為：目前在哺乳期間接種去活化疫苗，尚未有已知的風險（there is no known risk），因此，建議哺乳期婦女可選擇任何一種合適疫苗，應該顧及哺乳優點和媽媽防疫的雙重需求。同時，婦女應被告知，目前缺乏疫苗在哺乳期的安全性資料。
+
+JCVI的建議發布於2020年12月30日，建議哺乳期婦女可以接種輝瑞（Pfizer-BioNTech）或阿斯利康（AstraZeneca）的COVID-19 疫苗，且施打疫苗後，不需要停止哺餵母乳。
+
+英國皇家婦產科醫學會懷孕和哺乳者施打COVID-19疫苗QA（2021年5月28日更新）
+
+英國皇家產科醫學會同樣是援引JCVI於2020年12月30日發布的建議，指出接種COVID-19疫苗尚未有已知的風險（no known risk），若民眾符合政府實施接種的條件就接種。
+
+英國皇家產科醫學會指出，儘管缺乏疫苗的安全性資料，但就目前所知來做合理推論（plausible mechanism），疫苗成分不太可能透過母乳傳給嬰兒。因此，民眾不應為了接種疫苗而停餵母乳。
+
+英國國民保健署疫苗說明（2021年6月24日版）
+
+在英國有多品牌疫苗可選擇為前提，英國國民保健署關於〈懷孕、哺乳和求孕婦女與疫苗〉建議，針對哺乳期婦女，依照年齡來選擇疫苗品牌：40歲以上，可選擇任何品牌的疫苗；小於40歲，選擇打輝瑞或莫德納疫苗較好，主要是考量到AZ疫苗在40歲以下的族群，比另外兩種疫苗容易出現血栓的罕見副作用。
+
+爭議點四、國際公衛組織對於「孕婦、哺乳者」接種建議為何？
+
+世界衛生組織（WHO）在4月21日發布的〈AZ疫苗接種建議〉
+
+WHO表示，餵母乳對媽媽和寶寶都很有益，疫苗保護力對哺乳期媽媽相同，不過，還沒有證據顯示對喝母[a]乳的寶寶會有任何效果。
+
+WHO指出，AZ疫苗並非活性病毒疫苗，它在生物學和臨床上不太可能會對喝母乳的寶寶產生危害。基於這些考量，哺乳期婦女若是在接種優先的族群，比如，醫護人員等，可接種AZ疫苗，且不建議在接種疫苗後停餵母乳。
+
+WHO在6月15日發布修正版的莫德納疫苗接種建議。WHO表示，在整體考量餵母乳有助於母親與嬰兒，以及疫苗對於餵母乳母親的有效性等，哺育母乳的女性可以比照其他成人，接種莫德納疫苗，且餵母乳的女性不應該因為接種而暫停哺餵母乳。
+
+WHO表示，雖然目前沒有疫苗對喝母乳嬰兒的潛在效益與風險的數據。不過，因為莫德納疫苗不是活性病毒疫苗，mRNA不會進入細胞核，且會快速衰退（degraded），所以從生物學與臨床角度來看，mRNA疫苗對喝母乳的嬰兒並沒有風險。
+
+此外，數個小型研究顯示，mRNA疫苗不只讓懷孕婦女產生免疫反應，且疫苗誘發的抗體可以傳送到臍帶血與母乳，顯示疫苗對於新生兒與母體的保護。
+
+美國疾病控制與預防中心（CDC）懷孕與正在哺乳婦女接種的建議（6月16更新）。
+
+美國CDC指出，基於疫苗的原理，一般認為新冠疫苗不會對正在哺育的女性、或是喝母奶的嬰兒形成風險，因此正在哺育者可以接種新冠疫苗。
+
+美國CDC指出，先前的疫苗臨床試驗對象並未包含正在哺育的女性，因此現階段仍欠缺「疫苗對哺乳人士的安全性」、「疫苗對喝母奶的嬰兒的影響」、「疫苗對母乳與分泌物的影響」等相關數據。不過，最近的幾篇研究報告顯示，接種mRNA疫苗的母親母乳中也有抗體，仍須進一步研究這些抗體具體能為嬰兒提供何種保護力。美國目前接種疫苗為輝瑞、莫德納和嬌生疫苗。
+
+爭議點五、在學理上，疫苗會透過母乳影響嬰兒嗎？專家怎麼看？
+
+（一）查核中心諮詢禾馨婦產科主治醫師烏恩慈（烏烏醫師）。烏恩慈說，在學理上，疫苗不會直接透過肌肉注射進入母乳。疫苗和口服針劑藥物不同，是採取肌肉注射，不論哪種形式的疫苗，過去研究均證實，不會有任何疫苗成分直接藉由母乳傳到寶寶身上。哺乳媽媽打疫苗，也要14天後才能產生抗體保護自身和寶寶，因此就算是抗體造成的影響，也不可能隔天就發生。
+
+烏恩慈說，目前國際間的共識都是哺乳媽媽施打完疫苗，可以繼續餵奶，且有機會產生抗體保護新生兒，呼籲孕產婦們，可接種疫苗預防感染新冠風險。若接種疫苗後發燒，也可吃退燒藥，並不會影響寶寶。
+
+（二）方麗容表示，疫苗對人體產生的機轉，與母乳分泌的系統不相同，疫苗不會透過母乳系統直接傳給嬰兒。
+
+方麗容表示，母親乳房中的乳腺泡是泌乳的基本單位，其中乳腺細胞從相連於細胞的微血管獲取營養素、免疫球蛋白、賀爾蒙等，來製造分泌奶水。而施打疫苗是透過肌肉注射，讓媽媽產生抗體。近期哺乳接種新冠疫苗的文獻指出，母親施打mRNA新冠疫苗後，誘發出的抗體，能透過奶水提供嬰兒免疫保護力。
+
+（三）台灣母乳哺育聯合學會在2021年6月22日發表新聞事件回應指出，近期有兩篇關於哺乳期接種疫苗的文獻，一篇是以色列的研究，另一篇是美國的研究，這兩篇研究所使用的是mRNA疫苗，結論都是母親在接種疫苗後，奶水中的抗新冠肺炎病毒的抗體濃度都增加，同時與其他對照組的婦女比起來，副作用相當。因此，認為哺乳媽媽接種疫苗是安全的，並且能夠提供嬰兒免疫保護力。
+
+結論
+
+【報告將隨時更新 2021/6/25版】
+
+一、新加坡衛生部最新（2021年5月31日更新）的COVID-19疫苗接種指引，建議孕婦、哺乳期婦女均可接種，哺乳期婦女打完新冠疫苗後，可哺餵母乳；新加坡施打的疫苗為輝瑞、莫德納，未包括AZ疫苗。
+
+前一版本的指引，並不建議孕婦接種，並建議哺乳期婦女應暫緩哺乳5-7天。
+
+二、台灣婦產科醫學會、母乳哺育聯合學會均表示，針對孕婦、哺乳期婦女，能施打任何獲得授權的新冠疫苗，且哺乳期婦女接種後可繼續餵母乳。其中，孕婦可優先考慮mRNA 疫苗，因其增加血栓機率更小，且較多安全性資料。
+
+三、專家表示，從學理上，疫苗機轉與母乳分泌的系統並不相同，疫苗並不會透過母乳系統直接傳給嬰兒。根據目前研究，母親在接種mRNA COVID-19疫苗後，誘發出的抗體能夠透過母乳給嬰兒。
+
+傳言「新加坡建議暫緩哺餵母乳5-7天」為過時訊息，因此，為「錯誤」訊息。
+
+【查核聲明】報告針對傳言所稱「新加坡停餵乳母」政策訊息，進行查核。至於施打疫苗對哺乳期婦女、喝母乳嬰兒之健康風險，仍缺乏科學證據；而台灣近期嬰兒哺乳後猝死之個案仍待調查。兩者均不在本報告查核範疇。
+
+參考資料
+
+新加坡衛生健康部（Singapore Ministry of Health）COVID-19疫苗接種QA
+
+美國疾病控制與預防中心（CDC）COVID-19疫苗接種QA
+
+台灣衛福部COVID-19疫苗QA
+
+台灣婦產科醫學會「COVID-19疫苗孕婦諮詢要點」
+
+台灣母乳哺育聯合學會 新聞事件回應
+
+WHO「疫苗安全性QA」
+
+SARS-CoV-2–Specific Antibodies in Breast Milk After COVID-19 Vaccination of Breastfeeding Women JAMA. 2021;325(19):2013-2014. C
+
+Coronavirus disease 2019 vaccine response in pregnant and lactating women: a cohort studyAm J Obstet Gynecol.2021 Mar 26;S0002-9378(21)00187-3.
+
+補充資料
+
+針對孕婦施打新冠疫苗
+
+英國政府疫苗綠皮書指出，由於去活化疫苗並無法在體內重製，所以不會導致母親或是胎兒感染。而阿斯利康疫苗雖然含有活性的腺病毒載體，但該病毒也不會在體內重製，因此不會造成母體與胎兒感染。
+
+綠皮書表示，就像大部分的藥品一樣，大型的疫苗臨床試驗並沒有納入懷孕婦女的試驗。
+
+英國皇家婦產科學會建議。準備懷孕的女性，打完疫苗後，也不需要避免懷孕，沒有證據表明COVID-19疫苗會影響生育能力。
+
+針對孕婦應該接種哪一種疫苗，英國皇家婦產科醫學會表示，根據英國疫苗接種和免疫聯合委員會（JCVI）建議，孕婦可以先接種輝瑞或莫德納等mRNA疫苗。因為這些疫苗在美國已經提供超過1000,000名孕婦，且數據並未顯示出任何安全問題。英國皇家婦產科醫學會表示，孕婦接種前，應與醫師討不同類型疫苗，以及可能的副作用，包括極為罕見的血栓副作用。
+
+至於已經接種了第一劑阿斯利康疫苗，但隨後懷孕的民眾。英國皇家婦產科醫學會建議，應與醫生討論決定是否接種第二劑疫苗。根據英國官方出版的疫苗綠皮書2021年5月7日的建議：「所有年齡的孕婦應優先施打輝瑞和莫德納疫苗，因為這些疫苗於懷孕期間的資料數據更為豐富。但是，如果已經接種第一劑阿斯利康疫苗的孕婦，第二劑應接種相同的疫苗（即阿斯利康疫苗）。」
+
+英國皇家婦產科醫學會表示，JCVI 建議孕婦優先選擇輝瑞與莫德納疫苗，主要是與輝瑞和莫德納疫苗相比，阿斯利康疫苗的懷孕期間的相關資料數據較少。目前，孕婦可以選擇在懷孕期間施打第二劑阿斯利康，或是推遲到懷孕後才施打，但還是建議施打第二劑，以確保能最大程度地預防COVID-19感染。如果不確定是否接受第二劑阿斯利康，應該與婦產科醫生或全科醫生討論。

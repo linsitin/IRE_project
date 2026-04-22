@@ -1,0 +1,95 @@
+標題：【錯誤】媒體報導「果汁喝太多 早死機率多3成」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-550/
+--------------------------------------------------
+
+一、報導引述的是美國醫學會期刊網路公開版在5月17日刊出的兩篇學術研究，其研究結論都未提到「果汁可能比汽水等含糖飲料更不健康」。
+
+二、台大生化系教授黃青真說，《美國成人含糖飲料消費和死亡風險的關聯》研究數據可以解釋為每日多攝取12盎司的果汁，會增加24%的全因死亡風險，但「全因死亡風險」並非「死亡率」，報導內容稱為「早死」亦不恰當。
+
+三、台大生化系教授蕭馨寧說，此研究的實驗受測者是主要是55歲以上的美國人，不能推論到青壯年或青少年，而且台灣人的生活、飲食習慣與美國人不同，此研究只能作為參考。
+
+背景
+
+多家媒體引用「美國醫學會期刊網路公開版」（JAMA Network Open）在5月17日刊登的兩篇學術報告《果汁跟含糖飲料一樣不健康嗎？》和《美國成人含糖飲料消費和死亡風險的關聯》，報導學術研究結果為「果汁可能比汽水等含糖飲料更不健康」的結論，並引用研究數據指出，天然果汁只要飲用過量，「早死機率恐將從9％，大幅提高到42％，早死機率多三成。」
+
+圖1：媒體報導擷圖一
+
+圖2：媒體報導擷圖二
+
+圖3：媒體報導擷圖三
+
+圖4：媒體報導擷圖四
+
+圖5：媒體報導擷圖五
+
+圖6：媒體報導擷圖六
+
+查核
+
+爭議點一、媒體報導的消息來源為何?
+
+查核中心調查，媒體報導是根據美國醫學會期刊（Journal of the American Medical Association）在5月17日刊登的兩份研究報告，一是《果汁跟含糖飲料一樣不健康嗎？》，另一研究是《美國成人含糖飲料食用量和死亡風險的相關性》。這兩篇報告都可以在美國醫學會期刊網路公開版（JAMA Network Open）找到。
+
+《美國成人含糖飲料食用量和死亡風險的相關性》是由公共衛生碩士Lindsay J. Collin、美國阿拉巴馬公共衛生學院生物統計教授Suzanne Judd和康乃爾大學威爾醫學院教授Monika Safford共同撰寫。
+
+媒體指稱此研究是埃默里大學（Emory University）和康乃爾大學（Cornell University）的研究，並不完全正確。其中，Suzanne Judd教授於2008年在埃默里大學得到博士學位，目前任教於阿拉巴馬大學伯明翰分校的公共衛生學院；而Monika Safford教授原本在阿拉巴馬大學伯明翰分校的醫學院任教，如今在康乃爾大學威爾醫學院（Weill Cornell Medical College）任教。
+
+爭議點二、研究的結論為「果汁比汽水等含糖飲料更不健康」嗎?
+
+《果汁跟含糖飲料一樣不健康嗎？》是由哈佛大學公共衛生學院研究員Marta Guasch-Ferre和哈佛大學公共衛生學院教授Frank B. Hu撰寫，是一篇文獻探討，爬梳近期關於果汁、含糖飲料的相關學術研究，探討果汁是否應該被視為含糖飲料。其結論為：
+
+「簡要言之，含糖飲料的負面危害已被證實，個人和政策都有必要減少食用量。儘管果汁不像含糖飲料有這麼多危害，成人和兒童食用仍應適量，特別是想要減重的人。未來的研究有必要進一步探討特定果汁對的健康危害和可能益處。」
+
+《果汁跟含糖飲料一樣不健康嗎？》原文為：
+
+In summary, the deleterious effects of SSBs are well established, and individual efforts and policy solutions are needed to reduce consumption levels. Although fruit juices may not be as deleterious as SSBs, their consumption should be moderated in children and adults, especially for individuals who wish to control their body weight. Further research is needed to examine the health risks and potential benefits of specific fruit juices.
+
+《美國成人含糖飲料消費和死亡風險的相關性》是追蹤美國45歲以上的1萬3,440人，有黑人和白人等非拉丁族裔，追蹤六年時間，觀察他們含糖飲料、果汁等食用量與死亡風險的相關性，其結論為：「這些發現指出，包括純果汁等含糖飲料跟總死亡率有相關性，有必要進一步做詳盡而長期的研究，調查含糖飲料和心血管疾病致死率的死亡風險。」
+
+《美國成人含糖飲料消費和死亡風險的相關性》結論原文為：
+
+Conclusions and Relevance  These findings suggest that consumption of sugary beverages, including fruit juices, is associated with all-cause mortality. Well-powered and longer-term studies are needed to inform their association with CHD mortality risk.
+
+從以上兩篇學術研究報告結論，僅點出不能把果汁視為健康食物，而有必要對果汁進行更多研究果汁的食用量與健康風險，並未有「純果汁比汽水等含糖飲料有更不健康」的結論，媒體的報導並不準確。
+
+爭議點三、「每天喝果汁早逝機率從九％大幅提高至四十二％」？
+
+媒體引用研究數據說每日過量喝果汁的「風險將從9％大幅提高到42％」，台灣大學生化科技學系教授黃青真表示，這完全是錯誤解讀。
+
+她解釋，「All cause Mortality HR= 1.24 (95% CI 1.09-1.42)」是指全因死亡率之風險比（Hazard Ratio, HR值）為1.24，且有95%的機率，會落在1.09到1.42的範圍內。這並非從9％的風險提高到42％。正確解讀應為「經過校正風險因子後全因死亡風險比為1.24」，亦即為每日多飲用12盎司的果汁，會增加全因死亡風險24%。
+
+圖7：研究表格擷圖一
+
+因此，《美國成人含糖飲料消費和死亡風險的相關性》在研究發現指出：「每天多攝取12盎司的含糖飲料，全因死亡率風險提高11％；每天多攝取12盎司的果汁，全因死亡率風險相比增加24％，而沒有觀察到含糖飲料與心血管疾病死亡率的關聯性。」
+
+《美國成人含糖飲料消費和死亡風險的相關性》原文如下：
+
+FindingsIn this cohort study of 13440 black and white adults 45 years and older observed for a mean of 6.0 years, each additional 12-oz serving/d of sugary beverages was associated with an 11% higher all-cause mortality risk, and each additional 12-oz serving/d of fruit juice was associated with a 24% higher all-cause mortality risk. Similar associations were not observed for sugary beverage consumption and coronary heart disease mortality.
+
+黃青真表示，每日多攝取12盎司的果汁，會增加24%的全因死亡風險，可以說死亡風險增加24％，但不應該叫做「死亡率」增加。另外，all-cause mortality 是指所有原因之死亡風險，報導內容稱為「早逝機率」並不正確。
+
+台灣大學生化科技學系教授蕭寧馨強調，這是針對特定族群的統計研究，研究結果的數據無法直接推論至「所有個人」會增加24%的全因死亡風險，而是「研究族群」的全因死亡風險提升。
+
+爭議點四、研究結果適合推論到所有人？適合推論到台灣嗎？
+
+台灣大學生化科技學系教授蕭寧馨指出，此研究結果來自於特定的控制變因，研究的人群是美國人，限於非拉丁族裔的黑人和白人，因此研究結果不宜推論為所有族裔都可適用；畢竟種族不同，飲食環境、生活型態、選擇食物的知識態度和行為等，都有太多差異。國人欠缺可以比對的基準，因此未必適用，僅供參考。
+
+值得一提的是，蕭寧馨說，這項研究的實驗參加者有高達85%是55歲以上的年齡族群，研究結果只能適用這個年齡層，不能推論到青壯年或青少年。
+
+圖8：研究表格擷圖二
+
+結論
+
+一、報導引述的研究來自於美國醫學會期刊網路公開版於5月17日刊登的兩份學術研究報告，兩份研究結論都未提及「果汁比汽水等含糖飲料更不健康」，僅點出學術研究有必要對果汁進行更多研究，探討果汁對健康的危害和益處。
+
+二、台大生化系教授黃青真表示，《美國成人含糖飲料消費和死亡風險的相關性》研究發現指，應解釋為每日多攝取12盎司的果汁，會增加24%的全因死亡風險，但「全因死亡風險」並非「死亡率」，報導內容稱為「早逝機率」亦不恰當。
+
+三、台大生化系教授蕭馨寧指出，這項研究的實驗受測者主要是55歲以上美國人，不能推論到青壯年或青少年，而且台灣人的生活、飲食習慣與美國人不同，這項研究對台灣人僅能做為參考，不能直接套用。
+
+綜上，此訊息為「錯誤」訊息。
+
+參考資料
+
+《Are Fruit Juices Just as Unhealthy as Sugar-Sweetened Beverages?》
+
+《Association of Sugary Beverage Consumption With Mortality Risk in US Adults》

@@ -1,0 +1,123 @@
+標題：【錯誤】網傳「研究證實：寵物體味可防癌」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-798/
+--------------------------------------------------
+
+一、該法國健康雜誌的報導原文是「聞屁有益健康」，並未提到「寵物體味」。
+
+二、法文雜誌和台灣外電報導所引述之研究為英國埃克塞特大學醫學院2014年的論文。該研究團隊研發出名為「AP39」的化合物。
+
+三、原始學術研究提到的是AP39氣味像臭雞蛋或屁，英文報導和法文報導已簡化為聞屁（fart）有助健康，中文報導誤翻為「寵物體味」有益健康。
+
+四、中文報導誤翻，推測可能為法文de pet（屁），被誤讀為英文pet（寵物）。
+
+五、學術研究並未宣稱此成分有預防疾病的功效，英文、法文和中文報導宣稱療效的部分，並不符合學術成果。
+
+因此，此報導為「錯誤訊息」。
+
+圖文版（可左右滑動）
+
+台灣事實查核中心（@taiwan_factcheckcenter）分享的貼文
+
+背景
+
+台灣外電和內容農場報導，「研究證實：寵物體味可防癌和預防心血管疾病」、「有特殊長壽成分，最好每天吸一次」、「寵物體味含化合物可防癌」等。報導引述自法國健康雜誌《TOP SANTÉ》文章，提及「英國埃克塞特大學的研究團隊發現，硫氫化合物能保護細胞中的粒腺體來預防疾病…研究人員研發出一種以硫化氫為原型的化合物AP39…由於寵物身上的體味含有硫氫化合物，所以主人可以聞一下『有益身體健康』…」。
+
+圖1：內容農場網站流傳訊息擷圖
+
+圖2：媒體報導擷圖
+
+圖3：媒體報導擷圖
+
+查核
+
+爭議點一、法國健康雜誌《TOP SANTÉ》是否有相關報導？
+
+查核中心檢索法國雜誌《TOP SANTÉ》，確認2017年11月2日有一篇相關報導，標題為〈不尋常：屁的氣味對健康有益〉（Insolite : l’odeur de pet est bonne pour la santé），內文並未提及「寵物體味有益健康」，也未提到貓或狗等字。《TOP SANTÉ》是一本美容、健康等主題的生活類雜誌。
+
+爭議點二、法文報導是「臭屁」有益健康，為何中文報導變成「寵物體味」？
+
+查核中心追查學術研究轉變到中文報導的過程，比較以下五個版本的文本：
+
+（一）原始出處：英國大學埃克塞特大學研究報告內容：AP39化合物，可維持粒線體活動，讓細胞延長存活時間
+
+台灣外電和法文雜誌都提及英國埃克塞特大學醫學院的研究報告。查核中心以關鍵字檢索，2014年英國埃克塞特大學（University of Exeter，又譯為艾希特大學）醫學院學者Matt Whiteman，曾發布研究〈The synthesis and functional evaluation of a mitochondria-targeted hydrogen sulfide donor,(10-oxo-10-(4-(3-thioxo-3H-1,2-dithiol-5-yl)phenoxy)decyl)triphenylphosphonium bromide (AP39)〉。研究團隊指出，「AP39」化合物可以維持粒線體活動，並讓細胞得以延長存活時間。AP39是一種硫化氫的衍生物。
+
+（二）英國埃克塞特大學新聞稿內容：AP39聞起來就像是臭雞蛋和屁，可運用在疾病療程，有益身體健康
+
+英國埃克塞特大學校方在2014年7月，發布新聞稿〈臭雞蛋是健康保健療法之鑰〉（Rotten egg gas holds key to healthcare therapies），介紹研究團隊的研究成果。新聞稿提到，AP39的氣味，就像是臭雞蛋和屁。該大學生物科學學者Mark Wood補充說：「儘管硫化氫如眾人所知，就像是臭雞蛋和屁（flatulence）的嗆鼻、惡臭味，它是身體自然產生的味道，實際上未來可運用不同疾病的治療方法，是身體保健的功臣。」
+
+（原文：Dr. Mark WoodofBiosciences, at the University of Exeter, added “Although hydrogen sulfide is well known as a pungent, foul-smelling gas in rotten eggs and flatulence, it is naturally produced in the body and could in fact be a healthcare hero with significant implications for future therapies for a variety of diseases.”）
+
+圖4：英國埃克塞特大學新聞稿擷圖
+
+（三）英文內容農場和媒體報導內容：臭屁裡的一種成分——硫化氫，有益健康
+
+英文報導此學術研究成果，標題為「聞屁會健康嗎？研究認為有可能」、「聞你夥伴的臭屁 讓你不生病」。圖5：英文內容農場文章擷圖
+
+英文內容農場的文章提及：「最近的一項動物研究，提到硫化氫——一種屁的成分，讓臭雞蛋聞起來臭臭的成分，也許對人類健康有幫助，可以防止心臟疾病和腎臟衰竭。」
+
+（原文：Recent research in animals suggests that hydrogen sulfide — one of the major components of smelly gas, the one that gives it that “rotten egg” smell — might provide some health benefits in humans, from preventing heart disease to kidney failure. ）
+
+（四）法文雜誌《TOP SANTÉ》內容：英國研究發現屁的一種成分——硫化氫，有益健康。
+
+圖6：法國媒體《TOP SANTÉ》報導擷圖
+
+查核中心翻譯此法文報導，這篇文章的粗體字引言為：「這可不是笑話：英國科學家發現，屁的氣味——也就是名為硫化氫的東西——可能可以預防癌症、腦血管與心血管疾病。」內文也沒有提到「寵物」、「貓狗」等相關的話題。
+
+（原文為：Ce n’est pas une blague : des scientifiques britanniques ont découvert que l’odeur des pets, c’est-à-dire le sulfure d’hydrogène, pourrait conjurer le cancer, les AVC et les crises cardiaques.）
+
+（五）台灣外電報導和中文內容農場內容：寵物體味有「硫氫化合物」，有益健康。
+
+查核中心比對後，歸納整理如下：
+
+一、學術研究提到的「AP39」，該校新聞稿介紹聞起來像是臭雞蛋或屁，在英文報導和法文雜誌，直接提到「屁的氣味」有助健康。
+
+二、英文的屁為fart，法文為de pet，中文報導卻寫成「寵物」（pet）。查核中心推測，可能在法文翻譯中文過程，法文的de pet，被誤解為pet，因此，出現中文報導「寵物體味」有助於健康的外電。
+
+圖7：查核中心比較不同版本的文本，發現原研究已被轉譯成不同意義。
+
+爭議點三、網傳指稱「英國埃克塞特大學研究團隊」的研究為何？
+
+根據埃克塞特醫院院研究團隊研究與校方發布的新聞稿指出，此團隊研發出名為「AP39」的化合物，它可以維持粒線體活動，並讓細胞得以延長存活時間。由於粒線體在細胞中扮演「產生能量」的角色，避免粒線體受損則成為治療中風、心臟衰竭、糖尿病、關節炎等疾病的關鍵。研究團隊研發出的AP39，可以緩慢地將極少量硫化氫送入粒線體，進而達到保護粒線體的功能。
+
+查核中心透過新興科技媒體中心諮詢陽明大學藥理學科暨研究所所長李新城。李新城指出，研究團隊研發的AP39化合物是結合化合物「5-(4-hydroxyphenyl)-3H-1,2-dithiole-3-thione」，與帶正電荷的親脂性「triphenylphosphonium (TPP+)」衍生物，希望藉此提高將硫化氫（H2S）提供者進入細胞粒線體的機會，進一步增加粒線體中硫化氫（H2S）的產生量。
+
+李新城解釋，該研究發現，在體外細胞株的測試中，他們合成的化合物AP39具有在粒線體中產生硫化氫（H2S）的可能性，及含有調節氧化壓力誘發內皮細胞死亡的潛力。
+
+爭議點四、此研究是否指出「寵物體味中的硫氫化合物可防癌」？
+
+（一）2014年埃克塞特大學的新聞稿已澄清：
+
+這項研究與新聞稿中均未提及「癌症」，也未提及「吸入硫化氫對健康有益」，且這項研究尚在早期藥物開發的階段，尚未進行人體試驗。
+
+（原文：In light of misleading headlines on the above press release, the authors would like to stress that neither the papers nor the accompanying press release above make any reference at all to cancer or to any health benefits from inhaling (sniffing) hydrogen sulfide. The research is an early stage drug development project and has not yet been trialled in humans.）
+
+（二）李新城指出：
+
+報導提及的寵物體味「硫氫化合物」不是這個團隊研發的化合物AP39。而且寵物體味中含有的「硫氫化合物」可能為其他含硫含氫之化學物質，因此部分報導使用「硫氫化合物」代表「硫化氫（hydrogen sulfide, H2S）」並不恰當。
+
+此外，該研究也沒有提供任何與預防癌症和心腦血管疾病相關性之證據。
+
+必須特別注意的是，硫化氫（H2S）被視為一種有毒氣體，具有環境危害，而且目前硫化氫（H2S）被列為〈特定化學物質危害預防標準〉管制的化學物質中的「丙類第一類物質」。它的健康危害包括：刺激眼、鼻、喉黏膜，吸入高濃度氣體時會引起頭痛、眩暈、步行紊亂、呼吸障礙，嚴重時意識不明、痙攣、呼吸麻痺致死。因此，目前使用硫化氫（H2S）毒性氣體作為臨床上疾病預防或治療仍具有高度的危險性。
+
+因此，英文、法文和中文的報導，提到屁或寵物體味「有益健康」、「可防癌症、心血管疾病」等，與原始研究並不相符。
+
+結論
+
+媒體及內容農場網站引述一篇法國雜誌的報導指出，「研究證實：寵物體味可防癌」，經查：
+
+一、該法國健康雜誌的報導原文是「聞屁有益健康」，並未提到「寵物體味」。
+
+二、法文雜誌和台灣外電報導所引述之研究為英國埃克塞特大學醫學院2014年的論文。該研究團隊研發出名為「AP39」的化合物。
+
+三、原始學術研究提到的是AP39，氣味像臭雞蛋或屁，英文報導和法文報導已簡化為聞屁（fart）有助健康，中文報導誤翻為「寵物體味」有益健康。
+
+四、中文報導誤翻，推測可能為法文de pet（屁），被誤讀為英文pet（寵物）。
+
+五、學術研究並未宣稱此成分有預防疾病的功效，英文、法文和中文報導宣稱療效的部分，並不符合學術成果。
+
+因此，此報導為「錯誤訊息」。
+
+參考資料
+
+Trionnaire, S. L., Perry, A., Szczesny, B., Szabo, C., Winyard, P. G., Whatmore, J. L., … Whiteman, M. (2014). The synthesis and functional evaluation of a mitochondria-targeted hydrogen sulfide donor, (10-oxo-10-(4-(3-thioxo-3H-1,2-dithiol-5-yl)phenoxy)decyl)triphenylphosphonium bromide (AP39). Med. Chem. Commun., 5(6), 728–736.University of Exeter〈Rotten egg gas holds key to healthcare therapies

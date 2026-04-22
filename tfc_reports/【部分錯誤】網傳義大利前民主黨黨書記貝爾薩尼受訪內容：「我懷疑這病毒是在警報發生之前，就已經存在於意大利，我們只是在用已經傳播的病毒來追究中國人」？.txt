@@ -1,0 +1,69 @@
+標題：【部分錯誤】網傳義大利前民主黨黨書記貝爾薩尼受訪內容：「我懷疑這病毒是在警報發生之前，就已經存在於意大利，我們只是在用已經傳播的病毒來追究中國人」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-2941/
+--------------------------------------------------
+
+一、義大利前民主黨黨書記貝爾薩尼（Pier Luigi Bersani）於2020年2月27日，接受電視採訪指出，他懷疑在中國或世界衛生組織宣布緊急狀況之前，新冠病毒就存在於義大利。
+
+二、貝爾薩尼並沒有說「病毒起源於義大利」，也沒有說過「義大利是在用已經傳播的病毒來追究中國人」等話。三、貝爾薩尼在同一段採訪中提到，新冠病毒毫無疑問是來自中國，但該網傳貼文刻意略去此部分談話。因此，該網傳貼文將貝爾薩尼的說法斷章取義，並添加其未曾說過的話，為「部分錯誤」訊息。
+
+圖1：網傳貼文與受訪內容對照
+
+背景
+
+社群平台流傳貼文指出：
+
+「新冠病毒來自哪裡？意大利民主黨主席貝爾薩尼在參加電視節目時表示：”為什麽在意大利的所有感染者中，沒有一例來自中國或與中國有關？我懷疑這病毒是在警報發生之前，就已經存在於意大利，我們只是在用已經傳播的病毒來追究中國人”。
+
+目前義大利確診的600多例新冠肺炎患者，絕大多數人未接觸過中國人，更不曾到過中國。這讓人不由想起美國疾控中心CDC的猜測：新冠肺炎可能早就在美國流行，並且極有可能被誤診為了普通流感。
+
+是否存在這種可能，新冠病毒早已悄悄在歐洲、美洲、亞洲等地蔓延，在大多數地方它只是被當作普通的流感處理，而當它出現在中國時，這個國家毫不猶豫地衝上去，試圖擋住它、消滅它，試圖為整個世界爭取時間…結果中國做了好事還背了鍋？」
+
+此文引述義大利政治人物說法，認為新冠病毒在武漢疫情爆發前就出現在其他國家，而國際社會誤會病毒來自於中國。
+
+此文使用的譯名為「意大利」，非台灣通用的「義大利」；標點符號也使用”，而非上下引號。
+
+圖2：社群媒體貼文擷圖
+
+查核
+
+爭議點一、義大利前民主黨書記（主席）貝爾薩尼（Pier Luigi Bersani）是否曾在電視節目說過新冠病毒「我懷疑這病毒在警報發生之前，就已經存在於義大利」？
+
+查核中心透過義大利查核組織Pagella Politica協助，找到了網傳貼文所指的貝爾薩尼的訪談影片。影片為貝爾薩尼2020年2月27日接受義大利電視頻道La7的La7 Attualità（La7 新聞）記者Corrado Formigli 採訪，影片說明為：「在那些地區，每天都有與中國的活動與交流。首例感染可能發生在12月。」
+
+該訪談的背景為，義大利政府認為義大利本土第一例新冠肺炎確診案例發生在2月21日，即新冠病毒約在這段時間傳到義大利。
+
+在這段採訪中，貝爾薩尼推測新冠病毒已經存在義大利一段時間。不過，他並未質疑病毒來自中國的說法。 Pagella Politica查核員Alessandro Ciapetti協助翻譯了貝爾薩尼的訪談（採訪全文翻譯請參考文末附見），以下為貝爾薩尼的原話：
+
+Bersani: «I’m neither a virologist nor an epidemiologist (but) I have my theory, which is based on a simple fact: of all the people that got the virus (in Italy) just one of them was Chinese. Also, of all the (Italian) people that got the virus, none of them had had any relation with a Chinese citizen, regardless of the fact that this virus has, for sure, originated in China. How is that possible? What if we had it already in our courtyard, even before China or the WHO declared the emergency»
+
+貝爾薩尼：「我不是病毒學家，也不是傳染病專家，但我有我的理論。事實很簡單：所有（在義大利）被病毒傳染的人，只有一個是中國人。另外，儘管病毒毫無疑問的是來自中國，但目前所有被感染的（義大利人），都沒有與中國人有任何接觸史，這怎麼可能？是不是有可能在中國或世界衛生組織宣布緊急狀況之前，病毒就存在義大利了？」
+
+根據貝爾薩尼採訪的上下文，貝爾薩尼的意思是，因為多數感染新冠肺炎的義大利人都沒有中國接觸史，所以猜測病毒可能早在12月底就已經透過與中國貿易等途徑傳到義大利，遠早於官方認定的第一個本土病例確診的2月21日。此外，貝爾薩尼在採訪中明確提到，「新冠病毒毫無疑問是來自中國」。綜合以上，傳言僅擷取貝爾薩尼的片段談話，刻意忽略上下文。他並未表示，新冠病毒起源於義大利，也沒有說「我們（義大利）只是在用已經傳播的病毒來追究中國人」。
+
+爭議點二、義大利當局或研究機構是否有證實新冠病毒傳到義大利的時間點？義大利米蘭大學與Sacco醫院在3月4日發表聯合研究結果，該研究團隊成功分離出義大利境內的新冠病毒株，希望透過基因組序列了解病毒的傳播方式與時間。根據其研究分析，儘管義大利當局認為義大利第一例本土案例是在2月21日出現在洛迪（Lodi）地區，但實際上新冠病毒應該比2月21日前好幾個星期就已經出現在義大利。
+
+該聯合研究並認為，病毒起源來自於中國。
+
+圖3：米蘭大學與Sacco醫院的聯合研究認為新冠病毒來自於中國。圖擷取自米蘭大學。
+
+義大利查核記者Alessandro Ciapetti補充說明，米蘭大學的研究結果顯示，新冠病毒至少在2月21日義大利官方證實首例本土確診病例之前，就已經傳到義大利。此外，也早於義大利1月31日禁止來自中國的旅客入境、 以及1月30日世界衛生組織宣布新冠肺炎疫情為國際公共衛生緊急事件之前。
+
+Ciapetti表示，在貝爾薩尼2月27日於節目上發表「新冠病毒在世界衛生組織發布警報之前，就已經存在於義大利」的推測時，純粹為個人觀點，並沒有證據支持；但米蘭大學3月4日發布的研究報告證實了貝爾薩尼的推測。
+
+結論
+
+一、義大利前民主黨黨書記貝爾薩尼（Pier Luigi Bersani）於2020年2月27日，接受電視採訪指出，他懷疑在中國或世界衛生組織宣布緊急狀況之前，新冠病毒就存在於義大利。
+
+二、貝爾薩尼並沒有說「病毒起源於義大利」，也沒有說過「義大利是在用已經傳播的病毒來追究中國人」等話。三、貝爾薩尼在同一段採訪中提到，新冠病毒毫無疑問是來自中國，但該網傳貼文刻意略去此部分談話。因此，該網傳貼文將貝爾薩尼的說法斷章取義，並添加其未曾說過的話，為「部分錯誤」訊息。
+
+參考資料
+
+義大利查核組織Pagella Politica查核報告〈這篇有關新冠病毒的中文不實訊息是…扯到貝爾塞尼〉
+
+附件
+
+義大利前民主黨書記貝爾薩尼2月27日採訪影片譯文：
+
+Bersani: «I’m neither a virologist nor an epidemiologist (but) I have my theory, which is based on a simple fact: of all the people that got the virus (in Italy) just one of them was Chinese. Also, of all the (Italian) people that got the virus, none of them had had any relation with a Chinese citizen, regardless of the fact that this virus has, for sure, originated in China. How is that possible? What if we had it already in our courtyard, even before China or the WHO declared the emergency»
+
+貝爾薩尼：「我不是病毒學家，也不是傳染病專家，但我有我的理論。事實很簡單：所有（在義大利）被病毒傳染的人，只有一個是中國人。另外，儘管病毒毫無疑問的是來自中國，但目前所有被感染的（義大利人），都沒有與中國人有任何接觸史，這怎麼可能？是不是有可能在中國或世界衛生組織宣布緊急狀況之前，病毒就存在義大利了？」Journalist: «Let’s hope we’re not responsible for bringing it (the virus) to China»記者：希望我們（義大利）不用為把病毒帶到中國負責Bersani: «No, no. However, in those areas (meaning in Northern Italy) trade exchanges with China happen on a daily basis. What if the contagion happened in December?»貝爾薩尼：不，不。不過，那些地區（疫情較嚴重的北義地區）每天都跟中國進行貿易。如果感染在12月就發生了呢？Journalist: «Then why this didn’t happen also in Germany? Because also Germany has huge trade exchanges with China»記者：如果是這樣，為什麼（大規模的傳染）沒有發生在德國呢？德國與中國的貿易量也很龐大。Bersani: «Yes, but the difference is that Germany has an absolute trade exchange that is enormous, but the actors that trade products are 3 or 4: Volkswagen, etc. In Italy, instead, there are thousands of firms that trade with China.»貝爾薩尼：是的，不過德國（跟義大利情況）不同，他們雖然也有許多貿易，但涉及的就是三、四家德國公司，例如大眾（Volkswagen）。但是，在義大利，我們有成千上萬家的公司在跟中國做生意。

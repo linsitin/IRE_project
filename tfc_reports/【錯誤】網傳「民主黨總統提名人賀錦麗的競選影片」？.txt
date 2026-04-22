@@ -1,0 +1,61 @@
+標題：【錯誤】網傳「民主黨總統提名人賀錦麗的競選影片」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-10897/
+--------------------------------------------------
+
+【報告將隨時更新 2024/8/8版】
+
+美國副總統賀錦麗8月5日正式獲民主黨提名為總統候選人。網路流傳一段畫面稱是賀錦麗的競選影片。是真的嗎？
+
+經查，傳言影片來源為社群平台X用戶以賀錦麗官方宣傳影片為腳本，再以AI生成聲音與後製影像處理的戲仿（Parody）影片。該影片經X擁有者馬斯克分享後，在網路迅速流傳。
+
+一段網路以戲謔方式模仿賀錦麗創作而成的競選影片，被誤當為賀錦麗官方競選影片；因此，為「錯誤」訊息。
+
+背景
+
+美國民主黨全國代表大會8月5日結束電子投票，副總統賀錦麗（Kamala Harris）取得民主黨提名，將與獲得共和黨提名的美國前總統川普在11月大選時一較高下。
+
+X擁有者馬斯克（Elon Musk）7月27日於X分享一段長度約2分鐘、顯示有賀錦麗畫面的影片，隨後在英文社群被大量分享，並流傳到中文社群。
+
+圖1：社群平台流傳訊息擷圖
+
+查核
+
+查核點：傳言影片真的是賀錦麗官方宣傳影片嗎？
+
+（一）馬斯克在X分享一段顯示有賀錦麗畫面的影片，並推文「This is amazing ?」，該推文觀看次數破億。檢視馬斯克推文有標註影片來自X用戶「Mr Reagan」，點入連結後，顯示該用戶推文有特別註明影片是「賀錦麗競選廣告戲仿（Kamala Harris Campaign Ad PARODY）」。
+
+「PARODY」中文翻譯為「戲仿」，用在文學、影像創作上，指以戲謔方式模仿原作，以達到揶揄、嘲弄，有時也可以是致敬效果的創作方式。
+
+（二）瀏覽賀錦麗官方的YouTube頻道與X帳號，在7月25日同步發布了長度1分19秒宣傳影片，影片名為「賀錦麗啟動總統競選活動（Kamala Harris Launches Her Campaign for President）」。
+
+比對網傳影片及賀錦麗官方宣傳影片可以發現：
+
+網傳影片畫面遭刪減：網傳影片前10秒與賀錦麗官方影片相同，但傳言影片被加上賀錦麗官方影片沒有出現的英文字幕。
+
+此外，傳言影片刪除原官方影片00:10-00:16、00:51-00:53秒處批評川普部分，加上賀錦麗2022年演講時重複強調「時間流逝的重要性」（the significance of thepassage of time）」的畫面，還有添加官方影片未出現的旁白內容「拜登教會我如何把不重要的事當成重要來掩飾徹底的無能，這點非常重要」。
+
+口白遭變造：網傳影片中旁白聲音與賀錦麗官方影片相似，但兩者內容完全不同，網傳影片中AI仿賀錦麗的聲音說「我被選為候選人是因為我是有色人種、女性，所以如果你批評任何我說的話，你就是種族歧視、性別歧視」等諷刺內容；但賀錦麗官方影片其實是強調她可以帶給選民自由，並提到要解決槍枝暴力，以及讓民眾可以負擔醫療保健等內容。
+
+圖2：網傳賀錦麗影片實為戲仿，並非賀錦麗官方宣傳＼台灣事實查核中心製圖
+
+（二）根據《AP》、《The New York Times》、《AFP》等多家外媒報導，馬斯克分享的戲仿影片，使用AI生成聲音模仿賀錦麗，引發民眾對於AI技術用於政治宣傳的擔憂，且也與自家X平台的AI政策有相違背之嫌。
+
+綜上所述，傳言影片是X用戶以賀錦麗官方宣傳影片變造，再以AI生成聲音與後製影像處理的戲仿（Parody）之作。
+
+（記者：吳仲安；責任編輯：陳培煌）
+
+補充資料
+
+網傳影片與賀錦麗影片內容分別經逐字稿工具偵測如下：
+
+網傳影片：
+
+「I, Kamala Harris,  am your Democrat candidate for president  because Joe Biden finally exposed  his senility atthe debate.  Thanks, Joe.  I was selected because I am the ultimate diversity hire.  I＇m both a woman and a person of color.  So if you criticize anything I say,  you＇re both sexist and racist.  I may not know the first thing about running the country,  but remember, that＇s a good thing  if you＇re a deep state puppet.  I had four years under the tutelage  of the ultimate deep state puppet,  a wonderful mentor, Joe Biden.  Joe taught me rule number one,  carefully hide your total incompetence.  I take insignificant things and I discuss them  as if they＇re significant.  And I believe that exploring the significance  of the insignificant is in itself significant.  Talking about the significance of the passage of time,  right, the significance of the passage of time.  So when you think about it,  there is great significance to the passage of time,  and there is such great significance  to the passage of time.  Another trick is trying to sound black.  I pretend to celebrate Kwanzaa.  And in my speeches,  I always do my best Barack Obama impression.  So hear me when I say,  I know Donald Trump＇s type.  And okay, look, maybe my work addressing the root causes  of the border crisis were catastrophic,  but my knowledge of international politics  is truly shocking.  The United States shares a very important relationship,  which is an alliance with the Republic of North Korea.  It is an alliance that is strong and enduring.  And just remember, when voting this November,  it is important to see what can be,  unburdened by what has been.  And by what has been, I mean, Joe Biden.  Do you think the country went to over the past four years?  You ain＇t seen nothing yet.  What?  Gillette.」
+
+賀錦麗官方宣傳片：
+
+「In this election, we each face a question.  What kind of country do we want to live in?  There are some people who think we should be a country of chaos, of fear, of hate.  But us? We choose something different.  We choose freedom.  Freedom, freedom, where are you? Cause I need freedom too.  The freedom not just to get by, but get ahead.  The freedom to be safe from gun violence.  The freedom to make decisions about your own body.  We choose a future where no child lives in poverty.  Where we can all afford health care.  Where no one is above the law.  We believe in the promise of America and we＇re ready to fight for it.  Because when we fight,  we win.  So join us. Go to kamalaharris.com and let＇s get to work.  I＇ma keep on running cause the winner don＇t quit on themselves.」
+
+事實查核需要你的一份力量 捐款贊助我們
+
+台灣事實查核中心捐款連結(或掃QR Code) /接受捐助準則

@@ -1,0 +1,145 @@
+標題：【錯誤】網傳「主流媒體美國ABC電視台 終於承認—-第 4 劑疫苗接種可能會關閉您的免疫系統 」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-8068/
+--------------------------------------------------
+
+【報告將隨時更新 2024/1/31版】
+
+一、網傳影片出自美國媒體《ABC News》在2022年5月的電視節目，節目邀請《ABC News》資深醫療撰稿人、同時也具醫師身份的Jennifer Ashton分析介紹一篇醫學研究。Jennifer Ashton指出，研究指出接種第四劑後抗體會明顯增加，但抗體持續多久不清楚。她隨後分享個人見解，稱對於本身具有高抗體者，接種第四劑疫苗可能會有潛在的免疫耐受可能性。但她也說，免疫耐受現象尚無明確醫學證據。
+
+二、查核中心協請台灣感染症和免疫學專家檢視影片，專家們表示，網傳影片有關「關閉免疫系統」的說法，指的是免疫耐受性，這是指反覆暴露在相同抗原下，可能讓免疫系統對此抗原疲乏，對免疫反應的刺激變得不明顯。
+
+三、專家說，目前無證據顯示，新冠疫苗打多了會有免疫耐受性的問題，且接種新冠疫苗並不會影響免疫系統對其他疾病抗原的免疫力，未發生網傳所提「關閉免疫系統」現象。
+
+傳言挪用一段美國節目片段，誇大、錯誤延伸專家解析新冠疫苗研究的說法，錯稱接種第四劑會關閉免疫系統、美國電視台承認等，因此傳言為錯誤訊息。
+
+【查核聲明】疫情資訊若有更新，本報告亦會同步更新。
+
+圖卡版（可左右滑動）
+
+A post shared by 台灣事實查核中心 (@taiwan_factcheckcenter)
+
+背景
+
+社群平台與通訊群組自2022年8月4日起流傳一支影片連結，影片長度為1分46秒，搭配文字傳言指稱：「主流媒體美國ABC電視台 終於承認—-第 4 劑疫苗接種可能會關閉您的免疫系統 ?!」
+
+傳言也有其它版本，另一個版本則稱：「主流媒體美國ABC電視台 終於承認—-第 4 劑疫苗接種可能會關閉您的免疫系統 ?!王必勝接手防疫之後 不再公佈死亡分析 因第三針死亡最高 由此也不鼓勵多打針」
+
+圖1：社群平台傳言擷圖。
+
+圖2：通訊群組傳言擷圖
+
+圖3：社群平台傳擷圖。
+
+查核
+
+爭議點一、傳言引用網傳影片宣稱「主流媒體美國ABC電視台 終於承認第 4 劑疫苗接種可能會關閉您的免疫系統」，是否屬實？
+
+網傳影片出處為何？
+
+查核中心檢視網傳影片下方，有「GMA3 WHAT YOU NEED TO KNOW」字樣，經檢索得知此為美國媒體ABC的節目。
+
+以影片逐字稿的片段「released new data confirming that after the fourth dose of Pfizer 」與「GMA3 WHAT YOU NEED TO KNOW」為關鍵字檢索，可找到《ABC》發布的影片，此影片長度為1分46秒，內容與網傳影片相同。
+
+《ABC》影片的標題為「New study released on 4th COVID vaccine dose」（COVID疫苗第四劑的新研究），說明則為「New data shows that antibodies surge several weeks after receiving the fourth dose. ABC News＇ Dr. Jen Ashton explains how long they might last.」（新數據顯示，抗體在接受第四劑疫苗後幾週激增。ABC新聞的Jen Ashton博士解釋抗體可能持續多久）。
+
+查核中心同時找到《ABC》電視節目《Good Morning America》的YouTube官方頻道在2022年5月11日上傳的影片，此影片長度為2分07秒，前1分46秒與網傳影片相同，而1分46秒後則為頻道宣傳。
+
+可知，網傳影片的原始出處為《ABC》談話節目的片段。
+
+網傳影片內容為何？
+
+網傳影片中發言的女性被稱為「Dr. Jenn」，根據《Good Morning America》官方網站的介紹，她的全名為 Jennifer Ashton，，她是《ABC新聞》資深醫療撰稿人。
+
+根據 Jennifer Ashton 的領英自介，她是《ABC新聞》的首席醫療記者，具有營養師與執業醫師身份，專業領域包括Covid19、營養、女性健康、心理健康/自殺倖存等。
+
+她在節目中先介紹發表於《刺胳針》的研究，她解讀這篇研究時說，研究發現接種第四劑疫苗後抗體水平會顯著上升，並在接種幾週內激增，這些都是已知現象。但值得注意的是，抗體能持續多久並不清楚，因為免疫反應不僅跟抗體有關，也跟T細胞反應有關，而T細胞反應無法被精準測量。她介紹完學術研究後提出個人建議，針對「越多劑，抗體會較高」說法，她認為要審慎評估這種可能性。對於體內已有高抗體量的人，有發生所謂「免疫耐受性」的可能性，然而必須強調的是，這樣的可能性尚未有相關證據支持。免疫耐受性現象造成的結果是，當體內已經有高抗體量，又再接受追加劑的接種，可能會使身體關閉掉免疫系統。
+
+（原文） And it＇s certainly not just about more boosting for everyone, people who have high antibody levels, there＇s the potential, I want to underscore the potential we haven＇t seen any evidence of this, of this immune phenomenon known as tolerance, where if you already have high antibody levels, and you get another booster, that your immune system can start to say, Well, what what am I needed for and can kind of start to shut down.
+
+這名專家在訪談結論說，如果是50歲、65歲以上患有慢性疾病的族群，無論如何都建議接種追加劑；但對於其它人來說，接種越多劑疫苗是否有更多助益，還有待釐清。
+
+綜合以上，網傳影片是《ABC》電視台資深醫療撰稿人眾多受訪片段之一，她在該節目上介紹一篇研究指出，施打新冠疫苗第四劑的確會有較高抗體，但效果持續多久並不知道；而她以個人意見指出，民眾要評估「打越多針，抗體就越高」說法的可能性。
+
+爭議二、傳言稱「美國ABC電視台承認第 4 劑疫苗接種可能會關閉免疫系統」，專家如何解讀「打多劑疫苗可能出現免疫系統開始關閉」的說法？
+
+查核中心協請台灣兒童感染症醫學會理事長邱南昌、嘉義長庚醫院風濕過敏免疫科主治醫師林靖麒檢視網傳影片。
+
+（一）邱南昌表示，傳言的說法明顯是刻意誤讀影片內容，誤導得出「第四劑疫苗接種可能會關閉免疫系統」。根據影片的內容，該名專家說明的是，不能以為接種第四劑就「天下太平」，從一份刊登在 Lancet 的研究得知，接種第四劑疫苗產生的抗體能持續多久還不清楚。該專家也提到，接種後T細胞產生的免疫反應效果未知，但其實根據研究發現，T細胞也有很好的免疫增強反應。
+
+邱南昌說，影片中該專家確實有提到可能會「關閉」（shut down）免疫反應，但她並未強調何謂關閉。影片中的「關閉」可能指的是免疫耐受（immune tolerance），這在疫苗開打前就有類似討論，但至今疫苗接種幾億劑都沒發現這種問題。
+
+所謂的免疫耐受，邱南昌解釋，接種第一劑疫苗時產生很好的抗體反應，但當接種多了，對疫苗的同種抗原產生的免疫反應就不明顯，甚至有人會擔心接種多了會讓免疫力變不好，但至今並無證據顯示會有這種情況。接種新冠疫苗也不會降低自身免疫系統對其他疾病抗原的免疫力。
+
+邱南昌表示，網傳的新聞影片，講者沒有說第四劑不好或無用，只是提醒別以為接種疫苗就可以解決新冠肺炎的問題。
+
+（二）林靖麒表示，影片中該名專家確實有提到shut down，指的是免疫耐受（immune tolerance）的現象，但該專家並沒有提出證據，相關說法只是她的猜測。免疫耐受指的是，反覆暴露在相同抗原下，有可能讓免疫系統對這個抗原疲乏，就不會再攻擊該抗原。
+
+林靖麒說，學理上，打再多疫苗都不可能發生網傳所提「關閉免疫系統」這個現象，且訪談和刊登於Lancet的研究都指出，接種疫苗後抗體量會增加。
+
+爭議點三、傳言稱「王必勝接手防疫之後，不再公佈死亡分析，因第三針死亡最高，由此也不鼓勵多打針」？
+
+傳言稱指揮中心不再公佈死亡分析，是否屬實？
+
+根據衛福部在8月24日與8月23日公布的確診個案說明新聞稿，均有附上當日的「新增死亡COVID-19確診個案表」。
+
+經檢視，「新增死亡COVID-19確診個案表」列出的項目包括死亡確診個案的年齡、慢性病史、是否接種COVID-19疫苗、症狀、發病日、確診日與死亡日等資訊，傳言宣稱「指揮中心不再公佈死亡分析」，並非事實。
+
+傳言稱「第三針死亡最高」，是否屬實？
+
+傳言並沒有明確指出「第三針死亡最高」指的是「死亡率」還是「死亡人數」，也未說明是何種情況下的死亡。而查核中心過往曾查證過相關主題的傳言，在編號1765查核報告中，針對「以『確診者死亡人數』來比較『無疫苗以及接種1、2、3劑疫苗的免疫保護力』」的傳言，並採訪專家。
+
+專家指出，要比較不同接種劑量染疫後的死亡人數，不應以死亡人數來相比，而應看「死亡率」，並將年齡因素納入分析。
+
+專家說明，死亡率的計算方式，是以全台接種該劑量的人口數為分母，該劑量的染疫死亡人數為分子，計算出死亡率。比如，接種三劑的染疫死亡數除以接種三劑的人口數，等於接種三劑但仍染疫死亡的死亡率。
+
+而根據現有數據，完全未打疫苗的族群，死亡率明顯高出許多。
+
+結論
+
+【報告將隨時更新 2024/1/31版】
+
+一、網傳影片出自美國媒體《ABC News》在2022年5月的電視節目，節目邀請《ABC News》資深醫療撰稿人、同時也具醫師身份的Jennifer Ashton分析介紹一篇醫學研究。Jennifer Ashton指出，研究指出接種第四劑後抗體會明顯增加，但抗體持續多久不清楚。她隨後分享個人見解，稱對於本身具有高抗體者，接種第四劑疫苗可能會有潛在的免疫耐受可能性。但她也說，免疫耐受現象尚無明確醫學證據。
+
+二、查核中心協請台灣感染症和免疫學專家檢視影片，專家們表示，網傳影片有關「關閉免疫系統」的說法，指的是免疫耐受性，這是指反覆暴露在相同抗原下，可能讓免疫系統對此抗原疲乏，對免疫反應的刺激變得不明顯。
+
+三、專家說，目前無證據顯示，新冠疫苗打多了會有免疫耐受性的問題，且接種新冠疫苗並不會影響免疫系統對其他疾病抗原的免疫力，未發生網傳所提「關閉免疫系統」現象。
+
+傳言挪用一段美國節目片段，誇大、錯誤延伸專家解析新冠疫苗研究的說法，錯稱接種第四劑會關閉免疫系統、美國電視台承認等，因此傳言為錯誤訊息。
+
+【更新說明 2024/1/31】傳言與網傳影片在2024年1月再度熱傳，查核中心重新查核，更新本報告摘要、爭議點一與結論的部分內容，並感謝留言指正的民眾意見。並針對最新資訊發布2837查核報告。
+
+補充資料
+
+（一）根據衛福部在2022年7月21日更新的文件，對於新冠疫苗第二次追加劑（第四劑）的建議為：
+
+以下對象建議接種
+
+65歲以上長者
+
+長照機構住民
+
+18歲以上免疫不全及免疫力低下且病情穩定者，包括：目前正進行或1年內曾接受免疫抑制治療之癌症患者、器官移植患者/幹細胞移植患者、中度/嚴重先天性免疫不全患者、洗腎患者、HIV陽性患者、目前正使用高度免疫抑制藥物者、過去6個月內接受化學治療或放射線治療者、其他經醫師評估因免疫不全或免疫力低下，可接種基礎加強劑者
+
+開放下列對象可評估自身染疫風險與意願接種
+
+醫事人員(包含醫事執登人員及醫事機構非醫事人員)
+
+機場港埠、居家檢疫相關工作人員及航空機組員/船員
+
+機構與社福照護系統相關工作人員
+
+50-64歲成人
+
+18歲以上因外交、公務、洽商等工作需求需出國者
+
+（二）網傳影片醫療記者 Jennifer Ashton 的發言原文如下：
+
+Yes, you got some new data on boosters. There＇s a new published study out in Lancet, the journal Lancet infectious disease about the fourth dose. And what happens to our antibody levels, it is not a surprise that they＇ve released new data confirming that after the fourth dose of Pfizer, or Maderna, that antibody levels rise significantly, they surge in the several weeks after that dose. We＇ve known that for a while.
+
+But here are the caveats. We don＇t know how long that lasts. Number one, and our immune response, remember, is not just about antibodies, it＇s about that T cell response also, which is you can＇t really measure as well as just a pure antibody level.
+
+And it＇s about whether or not they＇re blocking or neutralizing antibodies to the variant that we＇re seeing. So when people hear these headlines, they shouldn＇t be surprised. Yes, of course, you＇re going to get a surge in your antibody levels. But how long that lasts is the issue.
+
+And it＇s certainly not just about more boosting for everyone, people who have high antibody levels, there＇s the potential,I want to underscore the potential we haven＇t seen any evidence of this, of this immune phenomenon known as tolerance, where if you already have high antibody levels, and you get another booster, that your immune system can start to say, Well, what what am I needed for and can kind of start to shut down.
+
+So we, if you＇re in that category of people who the FDA and CDC is recommending to get a booster 50 and over 65 and over with a chronic medical condition? Yes, by all means, but everyone elsedon＇tthink that more boosting is the answer. We don＇t know that. That＇s the case.

@@ -1,0 +1,73 @@
+標題：【部分錯誤】網傳「炸了！致癌麥片風靡160多個國家？你吃的早餐，竟然危害這麼大」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-326/
+--------------------------------------------------
+
+【報告將隨時更新 2023/5/8版】
+
+一、傳聞提及的美國人 Dewayne Johnson確有其人，但其罹癌原因是工作上長期接觸除草劑中的草甘膦，並不是因為長期食用麥片而致癌。
+
+二、美國環保組織EWG在2018年8月及10月對市售燕麥片進行檢測，兩次都發現多項燕麥片產品含有草甘膦。
+
+三、世界衛生組織將草甘膦列為2A級致癌物，對動物有致癌證據，但對人的致癌證據力有限。是否致癌也與接觸的時間和劑量有關。
+
+四、台灣法規不允許燕麥片驗出「草甘膦」。
+
+因此，民眾不必過度擔心食用麥片可能罹癌的傳聞。
+
+背景
+
+通訊軟體近日流傳一則訊息指出：「炸了！致癌麥片風靡160多個國家？你吃的早餐，竟然危害這麼大？」
+
+該訊息同時附一則內容農場網頁連結，內文指出：「來自美國的Dewayne Johnson..在46歲時被檢測出癌症…是由一種名叫『草甘膦』的化學物質引發的…美國EWG立刻對Dewayne每天早餐所食的麥片進行檢測…在這款連他們（研究人員）自己都經常食用的麥片中，檢測出超標了許多的草甘膦。」
+
+查核
+
+爭議點一、美國人Dewayne Johnson是否因為長期食用含有「草甘膦」的麥片而罹癌？
+
+經查核中心查證，根據美國加州最高法院相關文件及CNN等外媒報導，Dewayne Johnson於2012年開始在舊金山附近的貝尼西亞聯合學區擔任學校園丁，在2014年確診罹患非霍奇金氏淋巴瘤（Non-Hodgkin lymphoma）。他認為罹癌原因在於長期在工作時使用的除草劑「年年春」中含有「草甘膦（Glyphosate，又稱嘉磷塞）」，因此控告生產「年年春」的美國農業生技公司孟山都（Monanto Co.）。2018年8月10日加州法院陪審團裁決孟山都須賠償Dewayne Johnson 2.89億美元，但孟山都不服、提起上訴後，本案最後於2018年10月22日以7800萬美元和解。
+
+圖說：2018年10月26日美國加州法院文件指出，接受78,506,418.70（美元）的賠償金額，原告（Dewayne Johnson）放棄上訴。
+
+依據文件內容，Dewayne Johnson主張的罹癌原因是工作時長期接觸、使用含有「草甘膦」的除草劑「年年春」，並非主張長期「食用」含有草甘膦的「麥片」而罹癌。
+
+本案在歐美國家引起廣泛關注，受到時代雜誌、CNN、衛報、BBC…等多家媒體報導。
+
+爭議點二、「美國EWG…在這款連他們（研究人員）自己都經常食用的麥片中，檢測出超標了許多的草甘膦」？
+
+經查核中心查證，EWG是指美國環保組織「環境工作團」（Environmental Working Group，簡稱EWG）。該組織在2018年8月及10月確實兩度對市售燕麥片進行檢測。
+
+根據2018年8月15日公布美國市售燕麥片的抽查結果，EWG發現在45項抽查的傳統樣本中，有43項產品檢測出草甘膦（Glyphosate），其中有31項的草甘膦含量高於EWG認定的160ppb健康標準。而在EWG檢測的16項有機樣本中，有5項產品檢測出草甘膦。
+
+圖說：2018年8月15日美國環保組織「環境工作團」對市售燕麥片檢測結果。
+
+同年10月24日，EWG公布第二次市售燕麥片抽查結果，發現28抽查的產品皆含有草甘膦，其中有26項高於EWG認定的160ppb健康標準。
+
+圖說：2018年10月24日美國環保組織「環境工作團」對市售燕麥片檢測結果。
+
+爭議點三、草甘膦會致癌嗎？台灣對燕麥片的把關為何？
+
+查核中心搜尋相關資料，世界衛生組織（World Health Organization，WHO）下屬的癌症研究機構「國際癌症研究署」，基於「對人體致癌性證據有限」但「實驗動物有足夠致癌性證據」兩點，於2015年3月將草甘膦列為2A級致癌物。
+
+台灣大學農藝系教授郭華仁指出，草甘膦是否會致癌，事實上與接觸的「劑量」與「時間」也有關，一般民眾平時不會長期接觸到這麼多草甘膦，但如果因為工作等因素必須長期接觸就有風險。而如果平常吃的食物有微量的草甘膦，長期食用下來可能會讓腸道的菌種發生變化，間接影響慢性病的產生。
+
+對於燕麥片的食安把關上，查核中心求證衛生福利部食品藥物管理署，食藥署表示台灣的燕麥片是不允許檢出「草甘膦」的，目前食藥署也有專案團隊在進行燕麥片的查驗工作。所以民眾不必過度擔心食用麥片可能罹癌的傳聞。
+
+結論
+
+網傳「致癌麥片風靡160多個國家？你吃的早餐，竟然危害這麼大」，經查：
+
+一、傳言所指的美國人Dewayne Johnson真有其人，職業為學校園丁，在2014年確診罹患癌症。他認為罹癌原因在於工作上長期使用的除草劑「年年春」中含有「草甘膦」，為此控告生產「年年春」的美國農業生技公司孟山都（Monanto Co.）。但Dewayne Johnson並不是主張因為長期食用麥片而致癌。
+
+二、美國環保組織EWG確實在2018年8月及10月對市售燕麥片進行檢測，2次檢測結果都發現美國市面上許多燕麥片產品含有草甘膦。
+
+三、世界衛生組織認定草甘膦「對人體致癌性證據有限」、但「實驗動物有足夠致癌性證據」，將草甘膦列為2A級致癌物。台大農藝系教授郭華仁則補充，是否致癌與接觸的「劑量」以及「時間」有關。
+
+四、食藥署表示，台灣是不允許燕麥片檢出「草甘膦」的，目前食藥署也有專案團隊進行燕麥片的查驗工作。
+
+綜上所述，「致癌麥片風靡160多個國家？你吃的早餐，竟然危害這麼大？」為「部分錯誤」訊息。
+
+參考資料
+
+Time〈I Won a Historic Lawsuit, But May Not Live to Get the Money〉CNN〈Cancer patient who was awarded $289 million in Monsanto trial says he＇ll take $78 million instead〉The Guardian〈The man who beat Monsanto: ＇They have to pay for not being honest＇〉Reuters〈U.S. judge selects first case in federal Monsanto weed-killer litigation〉IARC〈IARC Monographs Volume 112: evaluation of five organophosphate insecticides and herbicides〉BBC〈Weedkiller cancer ruling: What do we know about glyphosate?〉WHO〈IARC Monographs Volume 112: evaluation of five organophosphate insecticides and herbicides〉EWG〈NEW ROUND OF EWG TESTING FINDS GLYPHOSATE IN KIDS’ BREAKFAST FOODS FROM QUAKER OATS, GENERAL MILLS〉EWG〈Findings Released as Major Scientific Study Shows Eating Organic Lowers Cancer Risk〉
+
+【更新說明 2023/5/8】此傳言重新流傳，本報告重新檢視食藥署相關規範，更新摘要三、四。

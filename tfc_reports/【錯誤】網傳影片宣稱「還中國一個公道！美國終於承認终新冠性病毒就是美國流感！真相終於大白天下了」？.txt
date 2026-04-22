@@ -1,0 +1,61 @@
+標題：【錯誤】網傳影片宣稱「還中國一個公道！美國終於承認终新冠性病毒就是美國流感！真相終於大白天下了」？
+來源：https://tfc-taiwan.org.tw/fact-check-reports/migration-3243/
+--------------------------------------------------
+
+一、網傳影片所紀錄的片段，是美國眾議院監管及政府改革委員會於3月11日上午舉辦的聽證會中，美國民主黨眾議員魯達（Harley Rouda）詢問美國疾病控制預防中心（CDC）主任雷德菲爾德（Robert Redfield）的對話。
+
+二、魯達質詢的焦點是醫療機構缺少篩檢試劑時，是否可能出現有COVID-19病患誤判為流感的情況。
+
+三、這段對話並未討論新冠病毒的來源。
+
+傳言指稱「美國終於承認新冠病毒就是美國流感」，與影片內容不符，也完全無關。因此，傳言為「錯誤」訊息。
+
+背景
+
+社群平台流傳一支影片，搭配訊息指出：「还中国一个公道！霉国终于承认新冠性病毒就是美国流感！真相终于大白天下了！！！」同時也有貼文分享這段影片，質疑「零號病人是什麼時候在美國出現的？…可能是美軍把疫情帶到了武漢…」
+
+圖1：社群平台流傳訊息擷圖
+
+圖2：社群平台流傳訊息擷圖
+
+圖3：社群平台流傳訊息擷圖
+
+查核
+
+爭議點一、網傳影片紀錄的事件為何？
+
+查核中心查證，網傳影片為美國眾議院監管及政府改革委員會（House Committee on Oversight and Reform）於3月11日上午舉辦的聽證會。據委員會官網指出，這場聽證會名稱為「新型冠狀病毒的準備和反應（Coronavirus Preparedness and Response）」，目的在了解美國行政部門的防疫策略和準備工作。
+
+查核中心在美國眾議院監管及政府改革委員會的官方Youtube頻道上，找到這場聽證會的直播影片，影片1:57:13至1:58:05處與網傳影片相符，為美國民主黨眾議員魯達（Harley Rouda）詢問美國疾病控制預防中心（CDC）主任雷德‧菲爾德（Robert Redfield）的內容。
+
+圖4：在美國眾議院監管及政府改革委員會的官方直播影片，影片與網傳影片相符。
+
+爭議點二、網傳影片是否指出「霉（美）國終於承認新冠性病毒就是美國流感」？
+
+查核中心檢視委員會官網的直播影片，魯達（Harley Rouda）與美國CDC主任雷德‧菲爾德（Robert Redfield）完整對話如下：
+
+Harley Rouda: One of the issues to helping address is the fact that we do not have enough test kits. We know that many individuals, as my fellow member pointed out, there are individuals who requested test kits, have not been able to access. My understanding is as late as last Saturday, ground Zero, in King County, Washington, that the healthcare professionals from the facility still did not have access to test kits. Mr. Redfield, do you know that is true or not?魯達：其中一個需要解決的議題是，我們沒有足夠的篩檢試劑。我們知道很多人、就像我同事提到的，很多人要求測試，但沒有辦法。據我的了解，至少直到上個星期六（3月7日），在病毒最先爆發的華盛頓金縣，那邊機構的醫療人員還沒有辦法獲得篩檢試劑。雷德菲爾德先生，你知道這個情況嗎？Robert Redfield: We have provided test kits to the health department. The university Washington has developed…雷德菲爾德：我們已經提供篩檢試劑給健康部門。華盛頓大學已經發展出…Harley Rouda: Were those test kits available last Friday?魯達：那些篩檢試劑上星期五就可以取得了嗎？Robert Redfield: Yes, Sir雷德菲爾德：是的
+
+Harley Rouda: Without test kits, is it possible that those who have been susceptible to influenza might have been miscategorized as to what they actually had, it’s quite possible they actually had COVID-19?魯達：在沒有篩檢試劑的情況下，有沒有可能那些容易感染流感的人，也許被錯誤地歸類了？是否有可能他們實際感染的是新冠肺炎？Robert Redfield: The standard practice is, the first thing you do, is test for influenza, so if they had influenza they would be positive…雷德菲爾德：標準流程是先檢測流感，如果他們得的是流感，檢測會呈陽性…Harley Rouda: But only when they were tested. If they weren’t tested, then we don’t know what they had.魯達：那只是他們有被檢測的情況下。但如果他們沒被檢測，我們就不知道他們到底感染到的是什麼。Robert Redfield: Correct雷德菲爾德：沒錯Harley Rouda: Ok, then if somebody dies from influenza, we do posthumous testing to see whether it’s influenza or whether it was COVID-19?魯達：好，那如果有人死於流感，我們是否會驗屍，確認此人感染的是流感還是COVID-19？Robert Redfield: There has been a surveillance system of deaths from pneumonia, that the CDC has; it’s not in every city, every state, every hospital.雷德菲爾德：疾控中心針對肺炎死亡病例有一個監測系統。這系統並沒有覆蓋每個城市、每個州、每家醫院。Harley Rouda: So we could have people in the United States dying for what appears to be influenza when in fact it could be the coronavirus or COVID-19?魯達：所以我們可能有些人看起來是死於流感，但實際上卻死於新冠病毒或COVID-19，對吧？Robert Redfield: Some cases have actually been diagnosed that way in the United States today.雷德菲爾德：目前在美國，的確有一些新冠肺炎的病例是這樣診斷出來。
+
+從影片脈絡來看，魯達質詢的關切點，是醫療機構缺少篩檢試劑時，是否可能出現有COVID-19病患誤判為流感的情況。
+
+綜合以上，魯達與雷德菲爾德的討論，並不是「新冠肺炎的來源」。傳言指稱的「美國終於承認新冠病毒就是美國流感」，與此質詢和官員回答無關。
+
+結論
+
+一、網傳影片所紀錄的片段，是美國眾議院監管及政府改革委員會於3月11日上午舉辦的聽證會中，美國民主黨眾議員魯達（Harley Rouda）詢問美國疾病控制預防中心（CDC）主任雷德菲爾德（Robert Redfield）的對話。
+
+二、魯達質詢的焦點是醫療機構缺少篩檢試劑時，是否可能出現有COVID-19病患誤判為流感的情況。
+
+三、這段對話並未討論新冠病毒的來源。
+
+傳言指稱「美國終於承認新冠病毒就是美國流感」，與影片內容不符，也完全無關。因此，傳言為「錯誤」訊息。
+
+（註：首圖取自NIH NIAID Flickr；作者：NIAID-RML）
+
+參考資料
+
+House Committee on Oversight and Reform〈Hearing: Coronavirus Preparedness and Response〉
+
+House Committee on Oversight and Reform Youtube Channel
