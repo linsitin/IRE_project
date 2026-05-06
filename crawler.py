@@ -1,130 +1,113 @@
 import requests
-from bs4 import BeautifulSoup
-import time
 import os
 import re
+import time
+from bs4 import BeautifulSoup
 
 def clean_filename(filename):
     """移除 Windows/Mac 不允許在檔名中出現的特殊字元"""
     return re.sub(r'[\\/*?:"<>|]', "", filename)
 
-def get_total_pages(url, headers):
-    """自動偵測網站的總頁數"""
-    print("🕵️‍♂️ 正在偵測網站總頁數...")
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
+def clean_content_tags(html_content):
+    """強效過濾：專門清洗 API 回傳的「內文」雜訊"""
+    if not html_content:
+        return ""
         
-        # 策略 1：找尋帶有 data-max-num-pages 的容器
-        query_card = soup.select_one('.wp-block-kadence-query-card')
-        if query_card and query_card.has_attr('data-max-num-pages'):
-            max_pages = int(query_card['data-max-num-pages'])
-            print(f"✅ 成功偵測到總頁數：{max_pages} 頁")
-            return max_pages
+    soup = BeautifulSoup(html_content, 'html.parser')
+    
+    # 1. 移除「雜訊區塊」 
+    junk_selectors = [
+        '.wp-block-outermost-social-sharing', # Share 按鈕
+        '.kb-table-of-content-nav',           # 目錄
+        '.kt-blocks-info-box-link-wrap',      # 查核結果大圖示
+        '.kb-dynamic-list'                    # 分類標籤
+    ]
+    for selector in junk_selectors:
+        for el in soup.select(selector):
+            el.decompose()
             
-        # 策略 2：找分頁按鈕裡面的最大數字 (備用方案)
-        page_links = soup.select('.page-numbers[data-page]')
-        if page_links:
-            max_pages = max([int(link['data-page']) for link in page_links if link['data-page'].isdigit()])
-            print(f"✅ 成功偵測到總頁數：{max_pages} 頁")
-            return max_pages
-            
-    except Exception as e:
-        print(f"⚠️ 偵測總頁數失敗：{e}")
+    # 2. 移除「重複的行動版/電腦版隱藏區塊」
+    for hidden in soup.select('.kb-v-md-hidden, .kb-v-sm-hidden, .kb-v-lg-hidden'):
+        hidden.decompose()
         
-    print("⚠️ 找不到分頁資訊，預設只抓取 1 頁。")
-    return 1
+    # 3. 過濾不要的廣告或宣告段落
+    for p in soup.find_all('p'):
+        text = p.get_text(strip=True)
+        if "事實查核需要你的一份力量" in text or "本中心查核作業獨立進行" in text or "查核結果說明：" in text:
+            p.decompose()
 
-def crawl_tfc_comprehensive(scrape_all=False, limit_pages=3): 
-    list_base_url = "https://tfc-taiwan.org.tw/fact-check-reports-all/"
+    # 4. 只精準抓取標題、段落與清單
+    elements = soup.find_all(['p', 'h2', 'h3', 'h4', 'h5', 'h6', 'li'])
+    
+    return "\n\n".join([el.get_text(strip=True) for el in elements if el.get_text(strip=True)])
+
+def crawl_tfc_api(total_pages=1):
+    api_url = "https://tfc-taiwan.org.tw/wp-json/wp/v2/fact-check-reports"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
     
-    # 1. 建立存放文章的資料夾
-    output_folder = "tfc_reports"
+    output_folder = "tfc_reports_api"
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
-    
-    # 2. 決定要爬幾頁
-    if scrape_all:
-        total_pages = get_total_pages(list_base_url, headers)
-        print(f"🚨 警告：準備爬取全部共 {total_pages} 頁，這可能會花費數小時！")
-    else:
-        total_pages = limit_pages
-        print(f"ℹ️ 測試模式：僅設定爬取前 {total_pages} 頁。")
-
-    article_count = 0
-
-    # 3. 開始分頁迴圈
-    for page in range(1, total_pages + 1):
-        print(f"\n--- 📑 正在處理第 {page} / {total_pages} 頁 ---")
         
-        current_url = list_base_url if page == 1 else f"{list_base_url}?pg={page}"
-            
+    article_count = 0
+    
+    for page in range(1, total_pages + 1):
+        print(f"\n---  正在透過 API 請求第 {page} 頁資料 ---")
+        
+        params = {"page": page, "per_page": 9}
+        
         try:
-            response = requests.get(current_url, headers=headers)
-            response.raise_for_status()
-            soup = BeautifulSoup(response.text, 'html.parser')
+            response = requests.get(api_url, headers=headers, params=params)
             
-            article_cards = soup.select('li.kb-query-item')
-            if not article_cards:
-                print("停止：找不到文章卡片，可能是已經到最後一頁了。")
+            if response.status_code == 400:
+                print(" 已經到底了，沒有更多文章可以抓取。")
                 break
-
-            for card in article_cards:
-                link_tag = card.select_one('a.kb-section-link-overlay')
-                title_tag = card.select_one('.kb-dynamic-html')
                 
-                if link_tag and title_tag:
-                    title = title_tag.get_text(strip=True)
-                    link = link_tag.get('href')
-                    article_count += 1
+            response.raise_for_status()
+            articles = response.json()
+            
+            if not articles:
+                print(" 這一頁是空的。")
+                break
+                
+            for article in articles:
+                article_count += 1
+                
+                # 從 JSON 取出原始資料
+                raw_title = article.get('title', {}).get('rendered', '未命名標題')
+                link = article.get('link', '')
+                date = article.get('date', '')[:10]
+                raw_content = article.get('content', {}).get('rendered', '')
+                
+                # 標題用簡單的 BeautifulSoup 解析純文字就好
+                title = BeautifulSoup(raw_title, 'html.parser').get_text(strip=True)
+                
+                # 內文過濾雜訊
+                full_text = clean_content_tags(raw_content)
+                
+                print(f"   正在存檔 ({article_count}): {title[:20]}...")
+                
+                # 寫入檔案
+                safe_title = clean_filename(title)
+                filename = os.path.join(output_folder, f"[{date}] {safe_title}.txt")
+                
+                with open(filename, 'w', encoding='utf-8') as f:
+                    f.write(f"標題：{title}\n")
+                    f.write(f"發布日期：{date}\n")
+                    f.write(f"來源網址：{link}\n")
+                    f.write("=" * 50 + "\n\n")
+                    f.write(full_text)
                     
-                    print(f"  👉 正在處理 ({article_count})：{title[:20]}...")
-                    
-                    # 進入文章內頁抓取內容
-                    inner_res = requests.get(link, headers=headers)
-                    inner_soup = BeautifulSoup(inner_res.text, 'html.parser')
-                    content_area = inner_soup.select_one('.entry-content')
-                    
-                    if content_area:
-                        # 清除雜訊 (目錄、分享按鈕等)
-                        for unwanted in content_area.select('.kb-table-of-content-nav, .wp-block-outermost-social-sharing, .kt-blocks-info-box-link-wrap'):
-                            unwanted.decompose()
-                        for p in content_area.find_all('p'):
-                            text = p.get_text(strip=True)
-                            if "事實查核需要你的一份力量" in text or "本中心查核作業獨立進行" in text or "查核結果說明：" in text:
-                                p.decompose()
-
-                        tags_to_find = ['p', 'h2', 'h3', 'h4', 'h5', 'h6', 'li']
-                        elements = content_area.find_all(tags_to_find)
-                    else:
-                        elements = inner_soup.find_all(['p', 'h2', 'h3'])
-                    
-                    full_text = "\n\n".join([el.get_text(strip=True) for el in elements if el.get_text(strip=True)])
-
-                    # 寫入個別檔案
-                    safe_title = clean_filename(title)
-                    filename = os.path.join(output_folder, f"{safe_title}.txt")
-                    
-                    with open(filename, 'w', encoding='utf-8') as f:
-                        f.write(f"標題：{title}\n")
-                        f.write(f"來源：{link}\n")
-                        f.write("-" * 50 + "\n\n")
-                        f.write(full_text)
-                    
-                    # ⚠️ 禮儀暫停，保護 IP
-                    time.sleep(1.5)
-
+            time.sleep(1)
+            
         except Exception as e:
-            print(f"❌ 處理第 {page} 頁時發生錯誤：{e}")
+            print(f" 發生錯誤: {e}")
             break
 
-    print(f"\n✅ 任務完成！共下載 {article_count} 篇文章，存放於 {os.path.abspath(output_folder)}")
+    print(f"\n 任務完成！共下載 {article_count} 篇文章，存放於 {os.path.abspath(output_folder)}")
 
 if __name__ == "__main__":
-    # 如果你想一次抓完 400 多頁，把 scrape_all 改成 True
-    # 如果只是測試，維持 False，它只會抓 limit_pages 裡面設定的頁數
-    crawl_tfc_comprehensive(scrape_all=True, limit_pages=2)
+    # 抓取第幾頁
+    crawl_tfc_api(total_pages=460)
