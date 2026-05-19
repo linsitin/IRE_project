@@ -75,7 +75,7 @@ def build_database_max_df(folder_path="tfc_reports_api", output_file="tfc_databa
     print("==================================================\n")
 
     # 自己當 max_df
-    max_df_threshold = 0.33  # 設定 33% 門檻 (你隨時可以改成 0.33 或 0.4)
+    max_df_threshold = 0.5  # 設定 50% 門檻 (你隨時可以改成 0.5 或 0.4)
     min_count_to_kill = total_docs * max_df_threshold
     
     # 從我們的觀測儀裡面，把出現次數超過門檻的詞全部抓出來，列入名單！
@@ -100,13 +100,14 @@ def build_database_max_df(folder_path="tfc_reports_api", output_file="tfc_databa
 
     # 這裡我們就不需要再去印 vectorizer.stop_words_ 了，因為上面我們已經自己印出來了
     
-    print(f"\n 6. 將所有打包儲存為 {output_file}...")
+    print(f"\n  6. 將所有資料打包儲存為 {output_file}...")
     db_data = {
         'titles': titles,
         'dates': dates,
         'filepaths': filepaths,
         'tfidf_matrix': tfidf_matrix,
-        'vectorizer': vectorizer
+        'vectorizer': vectorizer,
+        'corpus': [doc.split() for doc in corpus] # 把斷好詞的清單存起來
     }
     
     with open(output_file, 'wb') as f:

@@ -20,7 +20,11 @@ def clean_content_tags(html_content):
         '.wp-block-outermost-social-sharing', # Share 按鈕
         '.kb-table-of-content-nav',           # 目錄
         '.kt-blocks-info-box-link-wrap',      # 查核結果大圖示
-        '.kb-dynamic-list'                    # 分類標籤
+        '.kb-dynamic-list',                   # 分類標籤
+        '.wp-block-latest-posts',             # WordPress 預設最新文章
+        '.wp-block-post-template',            # WordPress 查詢文章
+        '.kb-posts',                          # Kadence 文章列表
+        '.wp-block-kadence-query'             
     ]
     for selector in junk_selectors:
         for el in soup.select(selector):
@@ -30,11 +34,16 @@ def clean_content_tags(html_content):
     for hidden in soup.select('.kb-v-md-hidden, .kb-v-sm-hidden, .kb-v-lg-hidden'):
         hidden.decompose()
         
-    # 3. 過濾不要的廣告或宣告段落
-    for p in soup.find_all('p'):
-        text = p.get_text(strip=True)
-        if "事實查核需要你的一份力量" in text or "本中心查核作業獨立進行" in text or "查核結果說明：" in text:
-            p.decompose()
+    # 3. 過濾不要的廣告、宣告段落與延伸閱讀
+    for el in soup.find_all(['p', 'li', 'h3', 'h4']):
+        text = el.get_text(strip=True)
+        if any(keyword in text for keyword in [
+            "事實查核需要你的一份力量", 
+            "本中心查核作業獨立進行", 
+            "查核結果說明：", 
+            "延伸閱讀"
+        ]):
+            el.decompose()
 
     # 4. 只精準抓取標題、段落與清單
     elements = soup.find_all(['p', 'h2', 'h3', 'h4', 'h5', 'h6', 'li'])

@@ -63,6 +63,4 @@
 
 .container {width: 80%;margin: 0 auto;.section {margin: 20px 0;padding: 20px;border: 1px solid #ccc;border-radius: 8px;background-color: #e6e7e8;}.donate-link, .bank-account {display: flex;justify-content: center;align-items: center;background-color: #e6e7e8; /* 添加背景顏色 */text-align: center;}.qrcode {width: 150px;height: 150px;}
 
-事實查核需要你的一份力量 捐款贊助我們
-
 台灣事實查核中心捐款連結(或掃QR Code) /接受捐助準則
