@@ -73,7 +73,7 @@ def display_results(method_name, scores, ranked_indices, titles, dates, filepath
 
 def main():
     if not (os.path.exists(TFIDF_DB) and os.path.exists(FT_DB)):
-        print("❌ 找不到資料庫檔案，請確保 tfc_database_maxdf0.5.pkl 和 fasttext_model_data.pkl 都在資料夾內。")
+        print(" 找不到資料庫檔案，請確保 tfc_database_maxdf0.5.pkl 和 fasttext_model_data.pkl 都在資料夾內。")
         return
 
     with open(TFIDF_DB, "rb") as f: tfidf_data = pickle.load(f)

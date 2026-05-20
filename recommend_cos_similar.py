@@ -72,7 +72,7 @@ def run_fast_recommendation():
         with open(DB_FILE, 'rb') as f:
             db_data = pickle.load(f)
     except FileNotFoundError:
-        print(f"❌ 找不到 {DB_FILE}！請先執行 0_build_database.py")
+        print(f" 找不到 {DB_FILE}！請先執行 0_build_database.py")
         return
 
     titles = db_data['titles']

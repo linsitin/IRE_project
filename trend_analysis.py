@@ -4,9 +4,7 @@ import unicodedata
 from collections import Counter, defaultdict
 import matplotlib.pyplot as plt
 
-# ==========================================
-# 🎨 設定 Matplotlib 支援顯示繁體中文
-# ==========================================
+# 設定 Matplotlib 支援顯示繁體中文
 plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei', 'PingFang HK', 'SimHei'] 
 plt.rcParams['axes.unicode_minus'] = False
 
@@ -49,7 +47,7 @@ def print_trend_for_group(group_name, indices, tfidf_matrix, feature_names):
         trend_counter.update(top_words)
 
     print("\n" + "="*70)
-    print(f"📅 【 {group_name} 】 核心話題趨勢 Top 20 (本期共收錄 {total_in_group} 篇文章)")
+    print(f" 【 {group_name} 】 核心話題趨勢 Top 20 (本期共收錄 {total_in_group} 篇文章)")
     print("="*70)
     print(f"{pad_str('排名', 8)} | {pad_str('核心話題關鍵字', 16)} | {pad_str('成為核心的篇數', 16)} | {pad_str('話題強度 (比例)', 16)}")
     print("-" * 70)
@@ -60,12 +58,10 @@ def print_trend_for_group(group_name, indices, tfidf_matrix, feature_names):
         print(f"{pad_str(f'第 {rank} 名', 8)} | {pad_str(f'【 {word} 】', 16)} | {pad_str(count, 16)} | {pad_str(f'{power:.3f}', 16)}")
     print("-" * 70)
 
-# ==========================================
-# 📈 新增功能：畫圖函數
-# ==========================================
+# 畫圖函數
 def plot_yearly_trend(yearly_groups, tfidf_matrix, feature_names):
     """畫出全年度 Top 5 關鍵字的歷年走勢"""
-    print("\n📊 正在計算全區間的 Top 5 關鍵字並繪製折線圖...")
+    print("\n 正在計算全區間的 Top 5 關鍵字並繪製折線圖...")
     
     # 1. 抓出所有有資料的年份 (例如 2018 ~ 2025)
     years = sorted([y for y in yearly_groups.keys() if y >= '2018'])
@@ -114,10 +110,10 @@ def plot_yearly_trend(yearly_groups, tfidf_matrix, feature_names):
 def plot_monthly_trend(target_year, monthly_groups, yearly_groups, tfidf_matrix, feature_names):
     """畫出特定年份中，Top 10 關鍵字的各月走勢"""
     if target_year not in yearly_groups:
-        print(f"❌ 找不到 {target_year} 年的資料！")
+        print(f" 找不到 {target_year} 年的資料！")
         return
         
-    print(f"\n📊 正在計算 {target_year} 年的 Top 10 關鍵字並繪製月份折線圖...")
+    print(f"\n 正在計算 {target_year} 年的 Top 10 關鍵字並繪製月份折線圖...")
     
     # 1. 抓出該年份「專屬」的 Top 10 關鍵字
     target_words = get_top_keywords(yearly_groups[target_year], tfidf_matrix, feature_names, top_n=10)
@@ -163,14 +159,14 @@ def plot_monthly_trend(target_year, monthly_groups, yearly_groups, tfidf_matrix,
 # ==========================================
 
 def run_fast_trend_analysis():
-    print(f"\n--- 🚀 [功能一] TF-IDF 時間序列趨勢分析 (當前使用資料庫: {DB_FILE}) ---")
+    print(f"\n---  [功能一] TF-IDF 時間序列趨勢分析 (當前使用資料庫: {DB_FILE}) ---")
     
     try:
-        print(f"📂 正在讀取預載語料庫 {DB_FILE} ...")
+        print(f" 正在讀取預載語料庫 {DB_FILE} ...")
         with open(DB_FILE, 'rb') as f:
             db_data = pickle.load(f)
     except FileNotFoundError:
-        print(f"❌ 找不到 {DB_FILE}！請先執行 0_build_database.py")
+        print(f" 找不到 {DB_FILE}！請先執行 0_build_database.py")
         return
 
     tfidf_matrix = db_data['tfidf_matrix']
@@ -191,18 +187,18 @@ def run_fast_trend_analysis():
 
     while True:
         print("\n" + "▼"*50)
-        print("🔍 請選擇您要觀察的「時間趨勢維度」：")
-        print("1. 📝 按【年度】文字報表 (顯示各年獨立排名)")
-        print("2. 📝 按【月份】文字報表 (顯示歷史月份獨立排名)")
-        print("3. 📈 繪製【年度趨勢折線圖】(2018-2025 整體 Top 5 趨勢)")
-        print("4. 📈 繪製【單一年度的月份走勢圖】(該年份 Top 10 趨勢)")
+        print(" 請選擇您要觀察的「時間趨勢維度」：")
+        print("1.  按【年度】文字報表 (顯示各年獨立排名)")
+        print("2.  按【月份】文字報表 (顯示歷史月份獨立排名)")
+        print("3.  繪製【年度趨勢折線圖】(2018-2025 整體 Top 5 趨勢)")
+        print("4.  繪製【單一年度的月份走勢圖】(該年份 Top 10 趨勢)")
         print("0. 退出程式")
         print("▲"*50)
         
-        choice = input("👉 請選擇 (0~4): ").strip()
+        choice = input(" 請選擇 (0~4): ").strip()
         
         if choice == '0':
-            print("👋 感謝使用！")
+            print(" 感謝使用！")
             break
             
         elif choice == '1':
@@ -219,11 +215,11 @@ def run_fast_trend_analysis():
             plot_yearly_trend(yearly_groups, tfidf_matrix, feature_names)
             
         elif choice == '4':
-            target_year = input("👉 請輸入要觀察的年份 (例如 2021): ").strip()
+            target_year = input(" 請輸入要觀察的年份 (例如 2021): ").strip()
             plot_monthly_trend(target_year, monthly_groups, yearly_groups, tfidf_matrix, feature_names)
             
         else:
-            print("❌ 輸入錯誤，請輸入 0, 1, 2, 3 或 4。")
+            print(" 輸入錯誤，請輸入 0, 1, 2, 3 或 4。")
 
 if __name__ == "__main__":
     run_fast_trend_analysis()
