@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei', 'PingFang HK', 'SimHei'] 
 plt.rcParams['axes.unicode_minus'] = False
 
-# 👇 加入這一行，直接把基礎字體大小調到 14 (原本預設大約是 10)
+#  加入這一行，直接把基礎字體大小調到 14 (原本預設大約是 10)
 plt.rcParams['font.size'] = 14
 
 DB_FILE = "tfc_database_maxdf0.5.pkl"  # 讀取你的 TF-IDF 資料庫

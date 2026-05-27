@@ -9,7 +9,7 @@ plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei', 'PingFang HK', 'SimHei'
 plt.rcParams['axes.unicode_minus'] = False
 plt.rcParams['font.size'] = 14 
 
-DB_FILE = "tfc_database_maxdf0.33.pkl" 
+DB_FILE = "tfc_database_maxdf0.5.pkl" 
 
 def run_topic_clustering(n_clusters=5):
     print(f"\n---  [功能三] AI 自動主題分群與趨勢追蹤 (K-Means) ---")
