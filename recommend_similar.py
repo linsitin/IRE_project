@@ -95,27 +95,27 @@ def main():
 
     print(f"\n 查詢目標: [{dates[target_idx]}] {titles[target_idx]}")
     print("\n請選擇演算法：")
-    print("1. TF-IDF ")
-    print("2. FastText ")
-    print("3. FastText ")
-    print("4. SentenceTransformer ")
+    print("1. TF-IDF (內文精準比對)")                  
+    print("2. FastText (內文語意比對)")                
+    print("3. FastText (標題語意比對 - 無標籤)")         
+    print("4. SentenceTransformer (SBERT 深度語意比對)")
     print("5. 上述所有方法")
     mode = input("> ").strip()
 
     # 2. 運算推薦
     recommend_map = {}
     
-    # [1] TF-IDF
+    # [1] TF-IDF (內文)
     if mode in ['1', '5']:
         scores = cosine_similarity(tfidf_data['tfidf_matrix'][target_idx], tfidf_data['tfidf_matrix'])[0]
         ranked = np.argsort(scores)[::-1]
-        recommend_map['1. TF-IDF (全文)'] = (scores, [i for i in ranked if i != target_idx])
+        recommend_map['1. TF-IDF (內文)'] = (scores, [i for i in ranked if i != target_idx]) 
         
-    # [2] FastText (全文)
+    # [2] FastText (內文)
     if mode in ['2', '5'] and ft_data:
         scores = cosine_similarity(ft_data['doc_vectors'][target_idx].reshape(1, -1), ft_data['doc_vectors'])[0]
         ranked = np.argsort(scores)[::-1]
-        recommend_map['2. FastText (全文)'] = (scores, [i for i in ranked if i != target_idx])
+        recommend_map['2. FastText (內文)'] = (scores, [i for i in ranked if i != target_idx]) 
 
     # [3] FastText (標題)
     if mode in ['3', '5'] and ft_data and 'title_vectors' in ft_data:
@@ -123,11 +123,11 @@ def main():
         ranked = np.argsort(scores)[::-1]
         recommend_map['3. FastText (標題)'] = (scores, [i for i in ranked if i != target_idx])
 
-    # [4] SBERT (全文)
+    # [4] SBERT (內文)
     if mode in ['4', '5'] and sbert_data:
         scores = cosine_similarity(sbert_data['sbert_doc_vectors'][target_idx].reshape(1, -1), sbert_data['sbert_doc_vectors'])[0]
         ranked = np.argsort(scores)[::-1]
-        recommend_map['4. SBERT (全文)'] = (scores, [i for i in ranked if i != target_idx])
+        recommend_map['4. SBERT (內文)'] = (scores, [i for i in ranked if i != target_idx]) # 
 
     if not recommend_map:
         print(" 無法執行，請確認對應的資料庫檔案 (.pkl) 是否已建立！")
@@ -138,28 +138,45 @@ def main():
     for method, (scores, sorted_indices) in recommend_map.items():
         all_recommendations[method] = display_results(method, scores, sorted_indices, titles, dates, filepaths)
 
-    # 4. 智慧開啟檔案邏輯 (支援動態對應)
-    choice = input("\n輸入『方法編號_推薦編號』(例如 1_1 表示 TF-IDF 的第 1 篇，3_2 表示 FastText標題 第 2 篇) 或 0 離開: ").strip()
-    if choice != '0' and '_' in choice:
-        try:
-            m_idx, r_idx = map(int, choice.split('_'))
+    # 4. 智慧開啟檔案邏輯 (支援連續開啟，直到輸入 0 退出)
+    while True:
+        choice = input("\n 輸入『方法編號_推薦編號』(例如 1_1 表示 TF-IDF 的第 1 篇，3_2 表示 FastText標題 第 2 篇) 或 0 離開: ").strip()
+        
+        # 退出條件
+        if choice == '0':
+            print(" 關閉推薦系統，結束查詢。")
+            break
             
-            # 將輸入的方法數字對應到字典的 Key
-            method_lookup = {
-                1: '1. TF-IDF (全文)',
-                2: '2. FastText (全文)',
-                3: '3. FastText (標題)',
-                4: '4. SBERT (全文)'
-            }
-            
-            if m_idx in method_lookup and method_lookup[m_idx] in all_recommendations:
-                method_name = method_lookup[m_idx]
-                target_idx = all_recommendations[method_name][r_idx-1]
-                open_file_in_system(filepaths[target_idx])
-            else:
-                print(" 找不到對應的方法結果，請確認該演算法有確實跑出結果。")
-        except Exception as e:
-            print(f" 指令錯誤，請輸入正確格式 (例如 1_1)！詳細錯誤: {e}")
+        if '_' in choice:
+            try:
+                m_idx, r_idx = map(int, choice.split('_'))
+                
+                method_lookup = {
+                    1: '1. TF-IDF (內文)',
+                    2: '2. FastText (內文)',
+                    3: '3. FastText (標題)',
+                    4: '4. SBERT (內文)'
+                }
+                
+                if m_idx in method_lookup and method_lookup[m_idx] in all_recommendations:
+                    method_name = method_lookup[m_idx]
+                    
+                    # 防呆機制：確認輸入的推薦編號在 1~5 之間 (或者你設定的推薦數量內)
+                    if 1 <= r_idx <= len(all_recommendations[method_name]):
+                        target_idx = all_recommendations[method_name][r_idx-1]
+                        print(f" 正在為您開啟: {titles[target_idx][:50]}...")
+                        open_file_in_system(filepaths[target_idx])
+                    else:
+                        print(f" 找不到該篇推薦！請輸入 1 到 {len(all_recommendations[method_name])} 之間的編號。")
+                else:
+                    print(" 找不到對應的方法，請確認您選擇的演算法是否有出現在上方的結果中。")
+                    
+            except ValueError:
+                print(" 指令格式錯誤！請確認輸入格式如 1_1 或 4_5。")
+            except Exception as e:
+                print(f" 發生未知的錯誤: {e}")
+        else:
+            print(" 輸入無效，請輸入包含底線的指令 (如 2_3) 或輸入 0 離開系統。")
 
 if __name__ == "__main__":
     main()
